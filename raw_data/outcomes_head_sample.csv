@@ -1,0 +1,1001 @@
+animal_id,date_of_birth,name,datetime,monthyear,outcome_type,outcome_subtype,animal_type,sex_upon_outcome,age_upon_outcome,breed,color
+A668305,2012-12-01,,2013-12-02T00:00:00-05:00,12-2013,Transfer,Partner,Other,Unknown,1 year,Turtle Mix,Brown/Yellow
+A673335,2012-02-22,,2014-02-22T00:00:00-05:00,02-2014,Euthanasia,Suffering,Other,Unknown,2 years,Raccoon,Black/Gray
+A675999,2013-04-03,,2014-04-07T00:00:00-05:00,04-2014,Transfer,Partner,Other,Unknown,1 year,Turtle Mix,Green
+A679066,2014-04-16,,2014-05-16T00:00:00-05:00,05-2014,,,Other,Unknown,4 weeks,Rabbit Sh,Brown
+A680855,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680857,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680858,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680859,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680860,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680861,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680862,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A680863,2014-05-25,,2014-06-10T00:00:00-05:00,06-2014,Transfer,Partner,Bird,Unknown,2 weeks,Duck,Yellow/Black
+A683090,2014-04-22,Jenny Tyson,2014-07-11T00:00:00-05:00,07-2014,Adoption,,Dog,Spayed Female,2 months,Black Mouth Cur Mix,Brown/Black
+A683591,2014-06-12,,2014-07-12T00:00:00-05:00,07-2014,Transfer,Partner,Bird,Unknown,4 weeks,Catbird Mix,Brown
+A683693,2014-06-29,,2014-07-14T00:00:00-05:00,07-2014,Transfer,Partner,Bird,Unknown,2 weeks,Grackle Mix,Black/White
+A686222,2014-03-13,,2014-08-20T00:00:00-05:00,08-2014,Transfer,Partner,Bird,Intact Male,5 months,Silkie Mix,Black
+A688001,2014-07-12,,2014-09-16T00:00:00-05:00,09-2014,Transfer,Partner,Bird,Unknown,2 months,Bantam Mix,White
+A688002,2014-07-12,,2014-09-16T00:00:00-05:00,09-2014,Transfer,Partner,Bird,Unknown,2 months,Bantam Mix,White
+A687621,2014-03-07,,2014-09-16T00:00:00-05:00,09-2014,Transfer,Partner,Bird,Unknown,6 months,Chicken Mix,Brown
+A687622,2014-03-07,,2014-09-16T00:00:00-05:00,09-2014,Transfer,Partner,Bird,Unknown,6 months,Chicken Mix,Brown
+A688000,2014-07-12,,2014-09-17T00:00:00-05:00,09-2014,Transfer,Partner,Bird,Unknown,2 months,Bantam Mix,White
+A693750,2013-12-14,*Stetson,2014-12-23T00:00:00-05:00,12-2014,Transfer,Partner,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Brown/White
+A694113,2013-06-20,Rooster,2014-12-23T00:00:00-05:00,12-2014,Transfer,Partner,Bird,Intact Male,1 year,Chicken Mix,Brown/Black
+A694191,2014-04-22,,2014-12-27T00:00:00-05:00,12-2014,Transfer,Partner,Dog,Intact Male,8 months,Shiba Inu Mix,Tan
+A694447,2014-12-07,,2014-12-29T00:00:00-05:00,12-2014,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Blue Tabby
+A694454,2014-12-07,,2014-12-29T00:00:00-05:00,12-2014,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Longhair Mix,Blue Tabby
+A694136,2009-01-02,Hershey,2014-12-31T00:00:00-05:00,12-2014,Return to Owner,,Dog,Neutered Male,5 years,Cocker Spaniel Mix,Chocolate
+A604679,2008-12-27,Snowball,2015-01-01T00:00:00-05:00,01-2015,Transfer,Partner,Dog,Neutered Male,6 years,Chihuahua Shorthair Mix,Cream
+A694566,2014-12-25,,2015-01-02T00:00:00-05:00,01-2015,Transfer,Partner,Cat,Intact Female,1 weeks,Domestic Shorthair Mix,Black/White
+A694592,2013-12-31,*Henry,2015-01-07T00:00:00-05:00,01-2015,Transfer,Partner,Other,Unknown,1 year,Mouse Mix,Gray/Black
+A694289,2013-12-24,Osiris,2015-01-08T00:00:00-05:00,01-2015,Return to Owner,,Dog,Neutered Male,1 year,American Pit Bull Terrier Mix,Black/White
+A694726,2011-08-31,Giselle,2015-01-12T00:00:00-05:00,01-2015,Transfer,Partner,Dog,Spayed Female,3 years,Golden Retriever/Labrador Retriever,Gold
+A695037,2012-01-07,*Nellie,2015-01-12T00:00:00-05:00,01-2015,Transfer,Partner,Dog,Spayed Female,3 years,Chihuahua Shorthair Mix,Black/White
+A695070,2014-01-08,David,2015-01-12T00:00:00-05:00,01-2015,Return to Owner,,Cat,Neutered Male,1 year,Russian Blue Mix,Blue
+A695071,2012-01-08,*Rebel,2015-01-12T00:00:00-05:00,01-2015,Transfer,Partner,Dog,Neutered Male,3 years,Miniature Pinscher,Red
+A554865,2008-09-08,Pepe,2015-01-12T00:00:00-05:00,01-2015,Transfer,Partner,Dog,Neutered Male,6 years,Chihuahua Shorthair,White
+A693975,2013-12-18,*Roscoe,2015-01-27T00:00:00-05:00,01-2015,Transfer,Partner,Dog,Neutered Male,1 year,Pit Bull Mix,Fawn/White
+A696368,2013-02-03,Cosmo,2015-02-05T00:00:00-05:00,02-2015,Return to Owner,,Dog,Neutered Male,2 years,Labrador Retriever Mix,Yellow/White
+A696346,2012-02-03,Valentine,2015-02-09T00:00:00-05:00,02-2015,Transfer,Partner,Dog,Intact Female,3 years,Havanese Mix,White/Gray
+A696953,2002-02-15,Disco,2015-02-16T00:00:00-05:00,02-2015,Return to Owner,,Dog,Neutered Male,13 years,Chihuahua Shorthair,Tan
+A697223,2001-02-19,Lili,2015-02-20T00:00:00-05:00,02-2015,Return to Owner,,Dog,Spayed Female,14 years,Rat Terrier Mix,Tricolor
+A697599,2014-12-25,*Jasper,2015-02-28T00:00:00-05:00,02-2015,Transfer,Partner,Cat,Intact Female,2 months,Domestic Longhair Mix,Torbie
+A693369,2012-12-06,Cupcake,2015-03-11T00:00:00-05:00,03-2015,Adoption,Foster,Dog,Spayed Female,2 years,Pekingese Mix,White
+A698568,2012-03-13,Bella,2015-03-14T00:00:00-05:00,03-2015,Adoption,,Dog,Intact Female,3 years,Chihuahua Shorthair,Sable
+A696733,2013-02-11,,2015-03-21T00:00:00-05:00,03-2015,Return to Owner,,Other,Unknown,2 years,Lizard Mix,Tan
+A699447,2014-09-27,,2015-03-27T00:00:00-05:00,03-2015,Died,,Other,Unknown,5 months,Bat Mix,Gray
+A699599,2003-03-30,Duke,2015-03-30T00:00:00-05:00,03-2015,Return to Owner,,Dog,Neutered Male,12 years,Labrador Retriever Mix,Black
+A699601,2013-03-30,Remi,2015-03-30T00:00:00-05:00,03-2015,Return to Owner,,Dog,Spayed Female,2 years,Basset Hound Mix,White/Brown
+A699665,2014-03-31,Lemon,2015-04-01T00:00:00-05:00,04-2015,Transfer,Partner,Bird,Unknown,1 year,Parakeet Mix,Yellow
+A699767,2015-02-08,Bluebonnet,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Male,1 month,Shih Tzu Mix,White
+A699768,2015-02-08,Daffodil,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Female,1 month,Shih Tzu Mix,Tan
+A699769,2015-02-08,Roger Rabbit,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Male,1 month,Shih Tzu Mix,White/Black
+A699770,2015-02-08,Latte,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Male,1 month,Shih Tzu Mix,White/Chocolate
+A699771,2015-02-08,,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Male,1 month,Shih Tzu Mix,Cream/Black
+A699779,2013-04-02,,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,2 years,Shih Tzu,Tan
+A699780,2013-04-02,,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,2 years,Shih Tzu Mix,Black
+A699781,2014-04-02,,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,1 year,Shih Tzu Mix,White/Gray
+A699782,2012-04-02,,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Female,3 years,Shih Tzu Mix,White
+A699783,2014-11-02,Penny Lou,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Female,4 months,Shih Tzu,White/Brown
+A699790,2013-10-02,Tulip,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Female,1 year,Shih Tzu,Chocolate/White
+A699791,2015-03-02,Jessica,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Female,4 weeks,Shih Tzu,Black
+A699792,2015-02-08,Peter Cotton,2015-04-02T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Male,1 month,Lhasa Apso,Black/White
+A699357,2014-10-16,*Finn,2015-04-02T00:00:00-05:00,04-2015,Adoption,,Dog,Neutered Male,5 months,Australian Cattle Dog Mix,White/Red Tick
+A699358,2014-10-16,*Lacey,2015-04-03T00:00:00-05:00,04-2015,Adoption,,Dog,Spayed Female,5 months,Australian Cattle Dog Mix,White/Brown Brindle
+A699797,2014-06-03,,2015-04-08T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Neutered Male,10 months,Shih Tzu,White/Brown Brindle
+A699917,2015-02-04,,2015-04-08T00:00:00-05:00,04-2015,Adoption,,Dog,Spayed Female,2 months,Labrador Retriever Mix,Black/White
+A700034,2010-04-06,,2015-04-10T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,5 years,Miniature Schnauzer Mix,Buff/Gray
+A700035,2014-04-06,,2015-04-10T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,1 year,Miniature Schnauzer Mix,Black/Tan
+A698408,2006-06-11,Isabella,2015-04-10T00:00:00-05:00,04-2015,Adoption,Foster,Dog,Spayed Female,8 years,Dachshund Mix,Blue Merle/Black
+A699912,2014-04-04,*Fiona,2015-04-13T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black
+A699937,2007-04-04,*Gordo,2015-04-13T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Neutered Male,8 years,Labrador Retriever Mix,Chocolate
+A700190,2012-04-09,,2015-04-14T00:00:00-05:00,04-2015,Transfer,Partner,Other,Unknown,3 years,Lizard Mix,Black/Yellow
+A459161,2006-01-27,Dugan,2015-04-19T00:00:00-05:00,04-2015,Return to Owner,,Dog,Neutered Male,9 years,Shih Tzu Mix,Black/White
+A699787,2013-10-02,*Mike,2015-04-20T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Neutered Male,1 year,Shih Tzu,White/Gray
+A694349,2013-12-26,*Jersey,2015-04-22T00:00:00-05:00,04-2015,Transfer,Partner,Other,Unknown,1 year,Rabbit Sh Mix,White/Black
+A700569,2014-04-16,*Willie,2015-04-24T00:00:00-05:00,04-2015,Adoption,,Dog,Neutered Male,1 year,Pembroke Welsh Corgi/Dachshund,Black/White
+A701177,2015-02-03,,2015-04-28T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Intact Female,2 months,Labrador Retriever Mix,Tan
+A700980,2015-02-11,*Cassie,2015-04-28T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Spayed Female,2 months,Carolina Dog Mix,Tan
+A700795,2015-01-19,Teddy,2015-04-28T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Neutered Male,3 months,Pit Bull Mix,White/Tan
+A700796,2014-12-19,*Rigger,2015-04-28T00:00:00-05:00,04-2015,Transfer,Partner,Dog,Neutered Male,4 months,Black Mouth Cur/American Staffordshire Terrier,Tan/White
+A701542,2015-04-04,,2015-05-01T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Black
+A697165,2015-02-18,*Zoey,2015-05-03T00:00:00-05:00,05-2015,Adoption,Offsite,Dog,Spayed Female,2 months,Labrador Retriever/Anatol Shepherd,White/Black
+A701313,2007-04-27,Pancho,2015-05-05T00:00:00-05:00,05-2015,Return to Owner,,Dog,Neutered Male,8 years,Rottweiler Mix,Brown/Black
+A701255,2006-04-26,*Joshua,2015-05-07T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,9 years,Shih Tzu Mix,White
+A701250,2013-04-26,,2015-05-11T00:00:00-05:00,05-2015,Transfer,Partner,Livestock,Intact Female,2 years,Pig Mix,Pink
+A702222,2014-11-11,*Sweetcheeks,2015-05-15T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Male,6 months,Pit Bull,White
+A695189,2014-09-10,Gunner,2015-05-15T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,8 months,Border Collie/German Shepherd,Black/White
+A702777,2014-11-17,,2015-05-17T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Unknown,5 months,Cairn Terrier Mix,Tan
+A702625,2015-03-24,Delilah,2015-05-20T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,1 month,Great Pyrenees,White
+A701701,2014-12-03,Cooper,2015-05-21T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Male,5 months,Miniature Poodle/Cocker Spaniel,Gold
+A703278,2013-05-22,*Stella,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Black/White
+A703275,2009-05-22,*Sheena,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,6 years,Rat Terrier Mix,Tricolor
+A703283,2014-12-11,*Jenny,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,5 months,Redbone Hound,Red/White
+A702558,2013-05-15,*Rico,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,2 years,Border Collie/Australian Cattle Dog,White/Black
+A702428,2012-05-13,*Sammy,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,3 years,Chihuahua Shorthair Mix,Tan/White
+A702722,2013-05-17,*Poppy,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Tan/White
+A703052,2013-05-20,*Hailey,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,2 years,Great Pyrenees Mix,White
+A702955,2007-05-19,*Charlize,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,8 years,Chihuahua Shorthair Mix,White/Black
+A702926,2014-05-19,*Minnie,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Spayed Female,1 year,Pointer Mix,White/Brown
+A702105,2013-05-09,*Sparky,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,2 years,Rat Terrier Mix,White/Tan
+A698393,2014-03-10,Avery,2015-05-26T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Spayed Female,1 year,Chinese Sharpei Mix,Brown
+A701772,2012-05-04,Dimond,2015-05-27T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Spayed Female,3 years,German Shepherd Mix,Black/White
+A698044,2013-03-05,*Gladys,2015-05-27T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Intact Female,2 years,Labrador Retriever Mix,Yellow
+A654847,2006-05-26,Chico,2015-05-29T00:00:00-05:00,05-2015,Return to Owner,,Dog,Neutered Male,9 years,Labrador Retriever,Tan/Brown
+A703447,2013-05-24,*Laurel,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Calico
+A701976,2012-05-07,Sapphire,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Spayed Female,3 years,Domestic Longhair Mix,Brown Tabby/White
+A700056,2014-04-07,*Alyssa,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Brown Brindle
+A647139,2012-07-05,Tiny,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Blue Tabby
+A647140,2012-07-05,Lovey,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Blue Tabby
+A484945,2007-06-30,Johnnie,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Black
+A588789,2010-07-18,Austin,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,4 years,Border Collie Mix,Chocolate/White
+A590362,2010-10-08,Texas,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Dog,Neutered Male,4 years,Labrador Retriever/Australian Shepherd,Blue Tick/Black
+A658800,2013-07-04,Houdini,2015-05-31T00:00:00-05:00,05-2015,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Medium Hair Mix,Blue/White
+A704586,2015-04-06,*Simon,2015-06-13T00:00:00-05:00,06-2015,Adoption,,Cat,Neutered Male,2 months,Domestic Shorthair Mix,White/Black
+A704589,2015-04-06,*Sylvester,2015-06-13T00:00:00-05:00,06-2015,Adoption,,Cat,Neutered Male,2 months,Domestic Shorthair Mix,White/Black
+A705626,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705627,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705628,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705629,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705630,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705631,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705632,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705633,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705636,2014-11-19,Packard,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,6 months,Boxer Mix,Black
+A705637,2014-11-19,Ford,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,6 months,Boxer Mix,White
+A705624,2015-04-19,,2015-06-19T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Unknown,1 month,Boxer Mix,Black
+A705294,2011-06-15,,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Female,4 years,Chihuahua Longhair Mix,Red
+A705296,2015-04-15,,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Male,2 months,Chihuahua Longhair Mix,Black
+A705204,2015-03-30,*Dinah,2015-06-20T00:00:00-05:00,06-2015,Adoption,Offsite,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Calico
+A705241,2014-12-15,*Flower,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Female,6 months,Australian Cattle Dog Mix,Red
+A704984,2015-01-11,*Daisy,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Spayed Female,5 months,Boxer Mix,Brown/White
+A705064,2015-02-12,*Spoon,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Spayed Female,4 months,Australian Kelpie Mix,Tricolor
+A704739,2015-04-20,Ladybird,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Spayed Female,1 month,Labrador Retriever Mix,Black/White
+A704735,2015-01-24,*Topper,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Male,4 months,Labrador Retriever/German Shepherd,Brown
+A704565,2015-03-21,*Boudreau,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Male,2 months,Pit Bull Mix,Brown
+A704566,2014-10-06,*Soda Pop,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Female,8 months,Beagle Mix,Black/White
+A694130,2014-09-20,Snoopy,2015-06-20T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Male,8 months,Chihuahua Longhair Mix,Black/Brown
+A703854,2013-05-29,,2015-06-22T00:00:00-05:00,06-2015,Transfer,Partner,Bird,Unknown,2 years,Parakeet,Green/Blue
+A703855,2013-05-29,,2015-06-22T00:00:00-05:00,06-2015,Transfer,Partner,Bird,Unknown,2 years,Parakeet,Green/Blue
+A706038,2015-04-09,,2015-06-24T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Intact Male,2 months,Great Pyrenees Mix,White
+A705937,2015-05-01,,2015-06-26T00:00:00-05:00,06-2015,Adoption,,Dog,Neutered Male,1 month,Chihuahua Shorthair Mix,Black
+A705441,2012-06-17,,2015-06-30T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Neutered Male,3 years,Chihuahua Shorthair Mix,Black/Tan
+A704518,2013-12-05,*Daisy,2015-06-30T00:00:00-05:00,06-2015,Transfer,Partner,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,Tan
+A706507,2015-06-25,,2015-06-30T00:00:00-05:00,06-2015,Died,In Kennel,Cat,Unknown,5 days,Domestic Shorthair Mix,Black
+A703670,2015-04-20,,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby/White
+A704031,2015-03-31,*Daquiri,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,White/Black
+A703893,2015-04-26,*Jesse Moon,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A704353,2015-04-03,*Hugo,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Black
+A704326,2015-04-28,Oj,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby
+A705615,2015-04-19,*Vivian,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Medium Hair Mix,Blue Tabby
+A705049,2015-04-05,*Fancy,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black
+A705050,2015-04-05,*Fallon,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie
+A704472,2015-03-20,*Tiger,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Orange Tabby
+A704464,2015-03-20,*Marmalade,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Orange Tabby
+A700751,2015-04-04,*Gypsy,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A702992,2015-04-04,*Cloud,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Brown Tabby
+A702989,2015-04-04,*Star,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Brown Tabby
+A706562,2015-03-15,Dawn,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Black
+A706564,2015-03-15,Nicky,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Black
+A706565,2015-03-15,Ducky,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Black
+A706294,2015-04-27,*Lissa,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Orange Tabby
+A706295,2015-04-27,*Marty,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby
+A706296,2015-04-27,*Mica,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Medium Hair,Orange Tabby
+A706156,2015-04-25,*Holmes,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby/White
+A706135,2015-04-03,*Pete,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Black/White
+A705818,2015-04-07,*Cher,2015-07-02T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Longhair Mix,Blue Tabby
+A706868,2015-06-04,,2015-07-04T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Orange Tabby
+A706869,2015-06-04,,2015-07-04T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Intact Male,4 weeks,Domestic Shorthair Mix,Orange Tabby
+A706871,2015-06-04,,2015-07-04T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Calico
+A706304,2015-04-27,*Mike,2015-07-06T00:00:00-05:00,07-2015,Transfer,Partner,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby
+A707172,2015-05-09,,2015-07-09T00:00:00-05:00,07-2015,Transfer,Partner,Dog,Intact Male,1 month,Australian Cattle Dog Mix,Blue Merle
+A707288,2013-07-11,Texas,2015-07-11T00:00:00-05:00,07-2015,Return to Owner,,Dog,Neutered Male,2 years,Harrier Mix,Black/Tricolor
+A707633,2015-01-15,Cookie Monst,2015-07-19T00:00:00-05:00,07-2015,Transfer,Partner,Dog,Spayed Female,6 months,Bruss Griffon Mix,Orange/Tan
+A707641,2007-01-15,Coco Chanel,2015-07-21T00:00:00-05:00,07-2015,Transfer,Partner,Dog,Intact Female,8 years,Dachshund,Red
+A707046,2012-07-07,Jameson,2015-07-22T00:00:00-05:00,07-2015,Transfer,Partner,Dog,Neutered Male,3 years,Siberian Husky Mix,White/White
+A702755,2015-05-10,Oscar,2015-07-26T00:00:00-05:00,07-2015,Adoption,,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A707958,2014-07-20,*Stitch,2015-07-29T00:00:00-05:00,07-2015,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Tan
+A708038,2014-03-21,Archie,2015-08-01T00:00:00-05:00,08-2015,Return to Owner,,Dog,Neutered Male,1 year,Black Mouth Cur Mix,Tan/Tan
+A708471,2015-05-13,Peanut,2015-08-01T00:00:00-05:00,08-2015,Adoption,,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Cream Tabby
+A704994,2015-05-17,Rajah,2015-08-01T00:00:00-05:00,08-2015,Adoption,,Cat,Intact Male,2 months,Domestic Shorthair Mix,Brown Tabby/White
+A708845,2008-08-01,Flash,2015-08-03T00:00:00-05:00,08-2015,Return to Owner,,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Black/White
+A708683,2015-04-28,Birdie,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Medium Hair Mix,Cream Tabby
+A708684,2015-04-28,Bobbie,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Cream Tabby/White
+A708667,2009-07-30,Phantom,2015-08-03T00:00:00-05:00,08-2015,Adoption,,Dog,Neutered Male,6 years,Chihuahua Shorthair Mix,Black
+A708422,2015-03-27,*Giblets,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Brown Tabby
+A708423,2015-03-27,*Gilbert,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Orange Tabby
+A708113,2015-03-23,Dinker,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Medium Hair Mix,Brown Tabby
+A707571,2013-07-14,*Mason,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Longhair Mix,Brown Tabby/White
+A704423,2012-06-04,Max,2015-08-03T00:00:00-05:00,08-2015,Transfer,Partner,Dog,Neutered Male,3 years,Border Collie Mix,Black/White
+A709067,2015-02-04,Earlene,2015-08-05T00:00:00-05:00,08-2015,Return to Owner,,Dog,Intact Female,5 months,Boxer Mix,Black/White
+A702654,2015-03-08,*Amber,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Spayed Female,5 months,Domestic Shorthair Mix,Tortie
+A702655,2015-04-07,*Mica,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Black/White
+A704952,2015-05-11,*Tommy,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Medium Hair Mix,Brown Tabby
+A705613,2015-04-19,*Giovanni,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Longhair Mix,Blue Tabby
+A709161,2014-08-05,*Mitzi,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,1 year,Domestic Shorthair Mix,Brown Tabby/White
+A709162,2015-07-17,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Siamese,Lilac Point
+A709163,2015-07-17,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair,Black
+A709165,2015-07-17,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Blue Tabby
+A709166,2015-07-17,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Torbie
+A709167,2015-07-17,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby
+A709168,2015-07-17,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby/White
+A709298,2015-06-30,*Rob,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black
+A709299,2015-06-30,*Jon,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black
+A709300,2015-06-30,*Bran,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black
+A709301,2015-06-30,*Sansa,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Black
+A709302,2015-06-30,*Rickon,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue Tabby
+A709303,2015-06-30,*Arya,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby
+A709313,2014-02-07,*Philippa,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,1 year,Domestic Shorthair Mix,Torbie
+A709314,2015-07-21,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby
+A709315,2015-07-21,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby
+A709316,2015-07-21,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Torbie
+A709317,2015-07-21,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Orange Tabby
+A709318,2015-07-21,,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Orange Tabby
+A707352,2015-05-27,*Graybles,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby/White
+A707350,2013-07-11,*Lily,2015-08-11T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Spayed Female,2 years,Siamese Mix,Lynx Point
+A703324,2009-05-23,Goose,2015-08-14T00:00:00-05:00,08-2015,Adoption,,Cat,Spayed Female,6 years,Domestic Shorthair Mix,Blue/White
+A689467,2011-04-06,Sammy,2015-08-15T00:00:00-05:00,08-2015,Adoption,,Dog,Neutered Male,4 years,Pit Bull Mix,Black/White
+A709955,2014-08-15,*Silas,2015-08-22T00:00:00-05:00,08-2015,Adoption,,Dog,Neutered Male,1 year,Siberian Husky Mix,Black/White
+A708175,2015-06-24,Scout,2015-08-23T00:00:00-05:00,08-2015,Adoption,,Cat,Spayed Female,1 month,Domestic Shorthair Mix,White/Black
+A710645,2014-08-25,,2015-08-26T00:00:00-05:00,08-2015,Transfer,Partner,Other,Unknown,1 year,Ringtail Mix,Fawn/Black
+A710624,2015-08-22,,2015-08-26T00:00:00-05:00,08-2015,Transfer,Partner,Cat,Intact Female,4 days,Domestic Shorthair Mix,Calico
+A694795,2014-01-04,Rosie,2015-08-27T00:00:00-05:00,08-2015,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Brown/White
+A710406,2014-08-22,,2015-08-27T00:00:00-05:00,08-2015,Transfer,Partner,Other,Unknown,1 year,Hamster,Tan/White
+A710407,2014-08-22,,2015-08-27T00:00:00-05:00,08-2015,Transfer,Partner,Other,Unknown,1 year,Hamster,Brown
+A710408,2014-08-22,,2015-08-27T00:00:00-05:00,08-2015,Transfer,Partner,Other,Unknown,1 year,Hamster,Gray
+A708146,2015-05-31,Mittens,2015-08-29T00:00:00-05:00,08-2015,Adoption,,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White
+A709338,2008-08-07,Tiny,2015-08-30T00:00:00-05:00,08-2015,Transfer,Partner,Dog,Neutered Male,7 years,Chihuahua Longhair Mix,White
+A710099,2014-08-17,*Sandy,2015-08-30T00:00:00-05:00,08-2015,Transfer,Partner,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Black/Buff
+A710086,2013-08-17,Niko,2015-08-30T00:00:00-05:00,08-2015,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,White/Black
+A710134,2014-03-18,*Eddie,2015-08-30T00:00:00-05:00,08-2015,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,White/Black
+A710797,2014-05-15,Rusty,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Dog,Neutered Male,1 year,English Pointer Mix,Brown/White
+A710635,2014-08-27,*Wally,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Fawn/White
+A710095,2014-08-17,*Danny,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Black/Buff
+A710071,2015-06-17,*Herb,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,White/Black
+A710072,2015-06-17,*Hamilton,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black/White
+A709432,2014-12-08,*Viola,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Dog,Spayed Female,8 months,Border Collie Mix,Black/White
+A709484,2015-04-09,*Walter,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Orange Tabby
+A708292,2015-06-18,*Obie,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby
+A683666,2014-06-22,,2015-09-01T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,White/Cream Tabby
+A710913,2013-09-03,,2015-09-08T00:00:00-05:00,09-2015,Adoption,,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Tan/White
+A711722,2015-08-28,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby
+A711723,2015-08-28,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Brown Tabby
+A711724,2015-08-28,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby
+A711725,2015-08-28,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby
+A711726,2015-08-28,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black/White
+A711728,2015-08-26,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Female,2 weeks,Ragdoll Mix,Lilac Point
+A711729,2015-08-26,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Longhair Mix,Brown Tabby/White
+A711730,2015-08-26,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Longhair Mix,Brown Tabby
+A711731,2015-08-26,,2015-09-11T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Brown Tabby/White
+A705930,2014-06-22,Bleu,2015-09-11T00:00:00-05:00,09-2015,Return to Owner,,Dog,Spayed Female,1 year,Labrador Retriever/Border Collie,Chocolate/White
+A710565,2015-08-24,*Ora Lee,2015-09-12T00:00:00-05:00,09-2015,Missing,,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Black/White
+A707834,2010-07-18,Toledo,2015-09-13T00:00:00-05:00,09-2015,Adoption,,Dog,Neutered Male,5 years,Toy Poodle,White
+A711323,2015-09-01,,2015-09-13T00:00:00-05:00,09-2015,Euthanasia,Suffering,Cat,Unknown,1 weeks,Domestic Shorthair Mix,Black
+A708983,2015-06-11,,2015-09-13T00:00:00-05:00,09-2015,Missing,In Kennel,Cat,Intact Male,3 months,Domestic Shorthair Mix,Brown Tabby
+A711903,2015-08-04,*Clarence,2015-09-17T00:00:00-05:00,09-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black
+A712450,2015-07-08,,2015-09-24T00:00:00-05:00,09-2015,Adoption,,Dog,Neutered Male,2 months,Chihuahua Shorthair Mix,Tan/White
+A712675,2009-04-26,Lady,2015-09-26T00:00:00-05:00,09-2015,Return to Owner,,Dog,Spayed Female,6 years,Australian Shepherd Mix,Tricolor
+A712534,2014-03-24,Chiwa,2015-09-27T00:00:00-05:00,09-2015,Return to Owner,,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,White/Tan
+A712843,2014-09-29,,2015-09-29T00:00:00-05:00,09-2015,Died,Enroute,Dog,Intact Male,1 year,Pit Bull/Labrador Retriever,Tan/White
+A712809,2015-07-21,*Pixie,2015-10-03T00:00:00-05:00,10-2015,Transfer,Partner,Cat,Intact Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A712857,2013-09-29,*Collin,2015-10-07T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Intact Male,2 years,American Pit Bull Terrier Mix,Brown Brindle
+A713454,2009-10-07,,2015-10-10T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Intact Female,6 years,Chihuahua Shorthair Mix,White
+A713019,2015-09-01,*Tywin,2015-10-11T00:00:00-05:00,10-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White
+A713756,2013-10-12,,2015-10-12T00:00:00-05:00,10-2015,Euthanasia,Suffering,Cat,Unknown,2 years,Domestic Shorthair Mix,White/Brown Tabby
+A713610,2014-07-09,Poppi,2015-10-16T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Spayed Female,1 year,Labrador Retriever/Border Collie,Black/White
+A711583,2014-09-09,Big Head,2015-10-16T00:00:00-05:00,10-2015,Adoption,,Dog,Spayed Female,1 year,Pit Bull Mix,Black/White
+A653755,2013-02-23,Bambi,2015-10-16T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Spayed Female,2 years,German Shepherd/Labrador Retriever,Brown
+A713929,2013-05-15,Wingman,2015-10-17T00:00:00-05:00,10-2015,Adoption,,Cat,Neutered Male,2 years,Siamese Mix,Seal Point
+A711514,2015-08-02,*Dakota,2015-10-17T00:00:00-05:00,10-2015,Adoption,Foster,Dog,Spayed Female,2 months,Australian Cattle Dog Mix,Blue Merle/White
+A708644,2013-07-29,*Autumn,2015-10-17T00:00:00-05:00,10-2015,Adoption,,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Tortie
+A711584,2015-08-09,Kitty,2015-10-18T00:00:00-05:00,10-2015,Adoption,,Cat,Intact Male,2 months,Domestic Shorthair Mix,Black/White
+A713852,2015-08-14,Peach,2015-10-18T00:00:00-05:00,10-2015,Adoption,,Cat,Intact Female,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A713659,2009-04-10,Ava,2015-10-18T00:00:00-05:00,10-2015,Adoption,,Cat,Spayed Female,6 years,Domestic Medium Hair Mix,Tortie
+A714259,2015-10-13,,2015-10-20T00:00:00-05:00,10-2015,Transfer,Partner,Cat,Unknown,1 week,Domestic Shorthair Mix,Brown Tabby
+A710994,2013-08-31,Bronson,2015-10-21T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Neutered Male,2 years,Bull Terrier,Brown Brindle/White
+A594702,2009-06-10,Indy,2015-10-21T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Neutered Male,6 years,Labrador Retriever Mix,Black/White
+A714050,2015-09-10,*Brian,2015-10-23T00:00:00-05:00,10-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Black
+A714057,2014-10-17,Princess,2015-10-24T00:00:00-05:00,10-2015,Adoption,,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,White/Tan
+A714386,2015-08-27,,2015-10-24T00:00:00-05:00,10-2015,Adoption,,Dog,Spayed Female,1 month,Chihuahua Shorthair Mix,Sable/Buff
+A697261,2014-11-20,Roltan,2015-10-24T00:00:00-05:00,10-2015,Adoption,,Dog,Neutered Male,11 months,Schnauzer Giant Mix,Black/White
+A714226,2008-10-24,Lars,2015-10-26T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Intact Male,7 years,Yorkshire Terrier Mix,Black/Brown
+A714366,2012-10-22,,2015-10-26T00:00:00-05:00,10-2015,Transfer,Partner,Bird,Unknown,3 years,Goose Mix,White/Gray
+A714051,2015-09-10,*Brad,2015-10-26T00:00:00-05:00,10-2015,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,White/Black
+A713835,2013-10-14,,2015-10-26T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Black/Brown
+A713871,2008-12-03,Riley Grace,2015-10-26T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Spayed Female,6 years,Border Collie Mix,Black
+A714379,2014-04-22,*Eddie,2015-10-28T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Neutered Male,1 year,Siberian Husky Mix,Brown/Black
+A714510,2014-10-24,Simon,2015-10-28T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Neutered Male,1 year,Rat Terrier Mix,White/Black
+A713620,2011-11-09,Cosette,2015-10-28T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Intact Female,3 years,Siberian Husky Mix,White
+A712836,2015-01-29,*Bambi,2015-10-28T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Spayed Female,8 months,Pit Bull Mix,Brown/White
+A713171,2014-10-03,*Bruce,2015-10-28T00:00:00-05:00,10-2015,Transfer,Partner,Dog,Neutered Male,1 year,Queensland Heeler Mix,Tricolor
+A714596,2014-10-25,*Cooper,2015-10-31T00:00:00-05:00,10-2015,Adoption,,Dog,Neutered Male,1 year,Boxer Mix,White/Black
+A714384,2013-10-22,Solavino,2015-11-01T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Tricolor
+A714775,2013-10-27,Mimi,2015-11-01T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Black/Tan
+A714776,2015-05-27,Juan,2015-11-01T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,5 months,Chihuahua Shorthair Mix,Tricolor
+A714608,2014-10-25,*Pugsly,2015-11-01T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,1 year,Pug Mix,White/Tan
+A714726,2014-04-27,*Victor,2015-11-01T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Male,1 year,Chihuahua Shorthair/Dachshund,Brown/White
+A714736,2013-10-27,*Marty,2015-11-02T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,Yellow
+A714837,2014-12-28,*Afina,2015-11-02T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,10 months,Pit Bull Mix,Tan/White
+A663422,2011-09-18,Sparky Rex,2015-11-02T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,4 years,German Shepherd/Rottweiler,Chocolate/Tan
+A714068,2015-09-17,*Saturn,2015-11-03T00:00:00-05:00,11-2015,Died,In Kennel,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby/White
+A433746,2006-04-09,Evette,2015-11-04T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,9 years,Australian Shepherd Mix,White/Brown
+A715146,2012-11-01,*Ferdinand,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Male,3 years,German Shepherd Mix,Tan/White
+A715234,2013-11-02,,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Male,2 years,Pit Bull Mix,Red/White
+A715121,2013-10-31,Coqueta,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,2 years,Golden Retriever Mix,Gold
+A715127,2014-10-31,*Maddie,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,White/Black
+A715139,2015-03-03,,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,8 months,Australian Cattle Dog/Bull Terrier,White/Red Tick
+A714820,2015-04-28,*Lizzie,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,6 months,Plott Hound Mix,Brown Brindle
+A714878,2007-10-29,Bean,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,8 years,Jack Russell Terrier/Chihuahua Shorthair,Black/White
+A714879,2014-10-29,,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Brown/Brown
+A714875,2014-12-29,*Cookiemonst,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,10 months,Black/Tan Hound Mix,Tricolor
+A713392,2015-07-15,*Basil,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Male,3 months,Chihuahua Shorthair Mix,Black/White
+A712426,2014-09-22,*Pope,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,1 year,Great Pyrenees Mix,White
+A609622,2007-09-11,Cory,2015-11-05T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,8 years,Chihuahua Shorthair/Wire Hair Fox Terrier,Gold
+A713457,2014-10-07,*Hiram,2015-11-07T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,1 year,Bull Terrier/Boxer,Brown Brindle/White
+A700792,2013-04-19,Kit,2015-11-07T00:00:00-05:00,11-2015,Return to Owner,,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Brown Tabby
+A715357,2014-11-04,*Roxy,2015-11-08T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,1 year,Labrador Retriever/Pembroke Welsh Corgi,Black
+A715345,2015-01-04,*Jordy,2015-11-08T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,10 months,Labrador Retriever Mix,Yellow
+A715280,2015-09-03,*Pauly,2015-11-08T00:00:00-05:00,11-2015,Adoption,,Dog,Neutered Male,2 months,Labrador Retriever Mix,Tricolor
+A715089,2014-10-31,,2015-11-08T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,1 year,Labrador Retriever Mix,Black/White
+A714869,2014-10-29,Figaro,2015-11-08T00:00:00-05:00,11-2015,Adoption,,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,White/Brown
+A714714,2015-08-16,Jojo,2015-11-08T00:00:00-05:00,11-2015,Return to Owner,,Dog,Intact Female,2 months,Australian Cattle Dog Mix,Blue Merle/Tan
+A713720,2014-10-11,*Griffin,2015-11-08T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,1 year,Schnauzer Giant Mix,Black
+A714029,2015-08-23,Ghost,2015-11-08T00:00:00-05:00,11-2015,Adoption,,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Tortie Point
+A715556,2015-08-05,,2015-11-09T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Intact Female,3 months,Domestic Shorthair Mix,Black
+A715558,2015-09-06,,2015-11-09T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Intact Male,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A715733,2015-10-31,,2015-11-09T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Unknown,1 weeks,Domestic Shorthair Mix,Orange/Orange Tabby
+A697762,2014-02-27,Socks,2015-11-09T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,1 year,Boxer Mix,Tan
+A715618,2013-11-06,,2015-11-10T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Male,2 years,Cardigan Welsh Corgi/Chihuahua Shorthair,Tan
+A715283,2014-11-03,*Maja,2015-11-10T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,1 year,Great Pyrenees/Labrador Retriever,White/Tan
+A714836,2013-10-28,Desiree,2015-11-10T00:00:00-05:00,11-2015,Return to Owner,,Dog,Spayed Female,2 years,Border Collie Mix,White/Brown
+A711319,2014-09-05,*Leah,2015-11-11T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Black
+A708645,2015-07-12,*Spring,2015-11-11T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,4 months,Domestic Shorthair Mix,Black
+A714876,2012-10-29,*Newton,2015-11-11T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Orange Tabby/White
+A712403,2015-05-22,Kawhi,2015-11-11T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,5 months,Domestic Shorthair Mix,Orange Tabby
+A713163,2011-10-03,*Peanut,2015-11-11T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Blue Tabby
+A715106,2011-10-31,Ms Kitty,2015-11-11T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,4 years,Domestic Shorthair Mix,Blue/White
+A531969,2008-03-06,Black,2015-11-13T00:00:00-05:00,11-2015,Return to Owner,,Dog,Neutered Male,7 years,Pit Bull Mix,Black/White
+A716131,2014-01-15,Spike,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Yellow
+A716220,2011-11-16,Easy,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,4 years,Dachshund Mix,Black/Tan
+A716236,2015-06-17,,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Intact Female,5 months,Domestic Shorthair Mix,Brown Tabby
+A715820,2015-08-10,*Pru,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Torbie
+A715740,2015-08-09,*Hoshi,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Black Tabby/White
+A715755,2015-09-24,,2015-11-17T00:00:00-05:00,11-2015,Adoption,,Dog,Spayed Female,1 month,Dachshund Mix,Blue Merle
+A716096,2015-10-14,*Cynda,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Blue Tabby/White
+A715699,2015-01-12,Buck,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,10 months,Domestic Shorthair Mix,Brown Tabby/White
+A715700,2015-01-12,Minnie,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Intact Female,10 months,Domestic Shorthair Mix,Brown Tabby
+A715446,2014-12-04,Pooh,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,11 months,Domestic Shorthair Mix,Brown Tabby/White
+A715447,2014-12-04,Pappy,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,11 months,Domestic Shorthair Mix,Brown Tabby/White
+A715004,2015-08-29,*Coal,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black
+A715005,2015-08-29,*Onyx,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black
+A715287,2014-12-03,Bernabe,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,11 months,Domestic Shorthair Mix,Brown Tabby
+A715297,2015-08-27,Moonshadow,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Blue
+A715298,2015-08-27,Domino,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black/White
+A715218,2015-08-02,*Tyra,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Tortie
+A715219,2015-08-02,*Talisa,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Torbie
+A714625,2015-08-26,*Mariah,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Calico
+A714626,2015-08-26,*Marco,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black/White
+A713711,2014-10-11,*Hirrally,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Tortie
+A713710,2014-10-11,*Pepsi,2015-11-17T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Tortie
+A715341,2015-10-13,,2015-11-18T00:00:00-05:00,11-2015,Died,In Foster,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby
+A715060,2013-10-30,,2015-11-18T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Tan
+A641346,2008-11-06,Rome,2015-11-18T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,7 years,Doberman Pinsch,Chocolate
+A675759,2010-03-31,Oso,2015-11-21T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,5 years,Labrador Retriever Mix,Tan
+A713996,2011-10-16,*Perkins,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Male,4 years,Chihuahua Shorthair Mix,Buff
+A716252,2009-11-17,Karmen,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,6 years,Labrador Retriever Mix,Black
+A716278,2010-11-17,*Stefanie,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,5 years,Australian Shepherd Mix,White/Red
+A716391,2012-11-23,*Muffin,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,3 years,Miniature Schnauzer Mix,Chocolate
+A716488,2013-11-19,,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,2 years,Pit Bull Mix,Red
+A716064,2010-11-13,Lady,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,5 years,Chihuahua Shorthair Mix,Tan/White
+A716066,2013-11-13,Louie,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,Tan/White
+A715673,2011-11-09,Mia,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,4 years,Rhod Ridgeback Mix,Brown
+A716649,2011-05-22,Bunnie,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,4 years,Jindo Mix,Tan/White
+A687741,2014-07-16,Kazy,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,1 year,Plott Hound/Blue Lacy,Brown Brindle
+A606678,2008-07-26,Mimi,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,7 years,Bichon Frise Mix,White
+A679536,2012-11-23,Lucky,2015-11-23T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,3 years,Chihuahua Shorthair Mix,Brown
+A716400,2014-05-19,Calliope,2015-11-24T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Intact Female,1 year,Yorkshire Terrier Mix,Black/Tan
+A668484,2013-09-04,Mickey,2015-11-24T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,Black/Tan
+A692797,2010-11-25,Suzze,2015-11-24T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,5 years,Miniature Poodle Mix,White
+A716722,2015-09-07,*Farisa,2015-11-25T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Intact Female,2 months,Domestic Shorthair Mix,Orange Tabby
+A537127,2007-03-09,Fozzy Bear,2015-11-25T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,8 years,Miniature Poodle Mix,Chocolate
+A716646,2015-06-22,Scraps,2015-11-28T00:00:00-05:00,11-2015,Adoption,,Dog,Neutered Male,5 months,Carolina Dog Mix,Sable
+A713408,2014-10-06,Trinity,2015-11-28T00:00:00-05:00,11-2015,Adoption,,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Brown Tabby
+A715696,2013-11-08,*Princess,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,2 years,Black/Tan Hound Mix,Black/Brown
+A715635,2013-11-07,*Knight,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Neutered Male,2 years,Australian Cattle Dog Mix,Black
+A715861,2013-11-11,*Molly,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,2 years,Pug/Chihuahua Shorthair,Brown
+A716857,2015-04-27,Banana,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,7 months,Domestic Shorthair Mix,Brown Tabby
+A716624,2015-03-22,Dooley,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,8 months,Domestic Shorthair Mix,Brown Tabby/White
+A714882,2014-10-29,*Annie,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Dog,Spayed Female,1 year,Catahoula Mix,Brown Brindle/White
+A710006,2015-07-07,*Chunk,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Black
+A708740,2015-07-13,*Twix,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,4 months,Domestic Shorthair Mix,Black/White
+A708741,2015-07-13,*Kit Kat,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Spayed Female,4 months,Domestic Shorthair Mix,Black/White
+A700467,2014-04-14,*Tolstoy,2015-11-30T00:00:00-05:00,11-2015,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Cream Tabby
+A716081,2013-11-13,Baby Bear,2015-12-02T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Male,2 years,Pomeranian Mix,Buff
+A533019,2008-01-13,Whiskey,2015-12-02T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Male,7 years,Scottish Terrier,Black
+A681890,2009-06-21,Marilyn,2015-12-02T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,6 years,West Highland,White
+A716990,2012-11-30,Maximus,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,3 years,Cocker Spaniel Mix,Black/White
+A717290,2011-12-05,Ava,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,4 years,Chihuahua Shorthair Mix,White
+A716141,2009-11-15,*Nelson,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Orange Tabby/White
+A715047,2014-10-30,,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Livestock,Unknown,1 year,Goat Mix,Brown
+A714744,2013-10-27,*Chacha,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,2 years,Black Mouth Cur/Boxer,Fawn/Black
+A714745,2013-10-27,*Boomer,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black/White
+A604480,2011-05-17,Kitty,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Spayed Female,4 years,Domestic Shorthair,Blue
+A704844,2012-06-09,Tilly,2015-12-07T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,3 years,Pit Bull/Labrador Retriever,Black/White
+A716976,2015-09-08,*Elmo,2015-12-08T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Brown Tabby
+A716978,2015-09-08,*Romo,2015-12-08T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Blue Tabby
+A716981,2015-09-08,*Cosmo,2015-12-08T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Medium Hair Mix,Brown Tabby
+A710720,2013-08-26,Honey,2015-12-08T00:00:00-05:00,12-2015,Euthanasia,Aggressive,Dog,Intact Female,2 years,Pit Bull Mix,Tan
+A698675,2013-03-16,Parker,2015-12-08T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,2 years,Pit Bull Mix,Black/White
+A714106,2014-10-18,*Nexus,2015-12-11T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,1 year,Pit Bull Mix,White/Brown
+A713461,2010-10-07,*Mary,2015-12-12T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,5 years,Labrador Retriever Mix,Chocolate
+A703892,2003-05-30,*Opal Jane,2015-12-13T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Female,12 years,Chihuahua Shorthair Mix,White/Brown
+A714421,2013-10-22,*Maddie,2015-12-16T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Female,2 years,Doberman Pinsch Mix,Blue/Tan
+A716758,2013-11-24,Fluffy,2015-12-17T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,2 years,Yorkshire Terrier Mix,Black/Tan
+A715003,2013-10-29,Marley,2015-12-19T00:00:00-05:00,12-2015,Adoption,,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Blue/White
+A717145,2013-12-03,Chewy,2015-12-19T00:00:00-05:00,12-2015,Adoption,Offsite,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,Buff
+A716979,2015-09-08,*Mirinda,2015-12-20T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Brown Tabby
+A717863,2012-12-16,*Lucky,2015-12-20T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Male,3 years,German Shepherd Mix,Brown
+A717845,2014-12-16,*Deenah,2015-12-20T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Female,1 year,Rottweiler Mix,Black/Tan
+A716590,2014-11-21,*Yams,2015-12-20T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,1 year,Pharaoh Hound Mix,Red
+A716525,2015-09-20,*Allysia,2015-12-20T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black
+A714578,2015-10-10,*Dillon,2015-12-20T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby
+A717707,2015-03-13,Monkey,2015-12-22T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,9 months,Domestic Shorthair Mix,Orange Tabby
+A717708,2015-03-13,Rumi,2015-12-22T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,9 months,Domestic Shorthair Mix,Cream Tabby
+A717251,2014-12-04,Peanut,2015-12-22T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Brown Tabby
+A716575,2013-11-21,Scarlet,2015-12-22T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,2 years,Australian Cattle Dog Mix,Tan/White
+A711827,2015-08-08,*Baron,2015-12-22T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Brown Tabby
+A668816,2011-12-10,Bella,2015-12-22T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Spayed Female,4 years,Miniature Pinscher Mix,Black/Brown
+A718149,2002-12-22,,2015-12-23T00:00:00-05:00,12-2015,Return to Owner,,Dog,Neutered Male,13 years,Australian Shepherd Mix,Black/Tan
+A718113,2012-12-21,Gandalf,2015-12-24T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,3 years,West Highland Mix,White
+A716706,2015-10-08,Moe,2015-12-27T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Male,2 months,Toy Poodle Mix,White/Tan
+A716707,2015-10-08,Curly,2015-12-27T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Male,2 months,Toy Poodle Mix,Tan/White
+A710471,2013-08-23,*Jimmy,2015-12-27T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,2 years,Pharaoh Hound Mix,Brown/White
+A717054,2013-12-01,*Beau,2015-12-28T00:00:00-05:00,12-2015,Transfer,Partner,Cat,Neutered Male,2 years,Himalayan Mix,Seal Point
+A709859,2012-08-13,Jenna,2015-12-29T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Neutered Male,3 years,English Springer Spaniel Mix,White/Black
+A689819,2012-10-10,*Mars,2015-12-29T00:00:00-05:00,12-2015,Transfer,Partner,Dog,Intact Male,3 years,Rottweiler,Black/Brown
+A708487,2015-05-04,*Kit Kat,2016-01-04T00:00:00-05:00,01-2016,Transfer,Partner,Cat,Neutered Male,8 months,Domestic Shorthair Mix,Orange Tabby
+A716975,2014-11-29,*Moxie,2016-01-04T00:00:00-05:00,01-2016,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Medium Hair Mix,Brown Tabby
+A715512,2014-11-05,*Lola,2016-01-04T00:00:00-05:00,01-2016,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Orange Tabby
+A718356,2012-12-28,*Auggie,2016-01-04T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,3 years,Chihuahua Shorthair Mix,Tan/White
+A702623,2015-02-16,Coco,2016-01-04T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,10 months,Plott Hound Mix,Brown Brindle/White
+A717994,2014-12-19,*Wilma,2016-01-05T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,White/Brown Brindle
+A718180,2013-12-23,Milo,2016-01-05T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Brown
+A700061,2009-04-07,Chubbs,2016-01-05T00:00:00-05:00,01-2016,Transfer,Partner,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Brown Tabby
+A692221,2013-11-16,Rocky,2016-01-05T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever/Pit Bull,Black/White
+A718505,2013-01-01,*Nortina,2016-01-06T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,3 years,Jack Russell Terrier Mix,Tricolor
+A718340,2013-12-28,Coco,2016-01-06T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,2 years,Border Collie Mix,Black/White
+A718482,2015-10-31,*Rojo,2016-01-06T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,2 months,Labrador Retriever Mix,Red/Tan
+A718127,2013-12-21,*Linnea,2016-01-07T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,2 years,Pit Bull Mix,Black/White
+A610585,2011-08-27,Sylvester,2016-01-08T00:00:00-05:00,01-2016,Transfer,SCRP,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Black/White
+A718635,2015-07-04,*Joaquin,2016-01-10T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,6 months,Pit Bull Mix,Black Brindle
+A718689,2011-01-05,Pepita,2016-01-10T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,5 years,Chihuahua Longhair Mix,Tricolor
+A718758,2015-05-06,Pepper,2016-01-10T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,8 months,Pit Bull Mix,Brown Brindle
+A715491,2015-10-05,*Moose,2016-01-10T00:00:00-05:00,01-2016,Adoption,,Dog,Neutered Male,3 months,Pit Bull Mix,Chocolate/White
+A701329,2015-02-20,*Jordan,2016-01-10T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,10 months,Black Mouth Cur,Brown
+A718803,2015-07-07,*Eddie,2016-01-12T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,6 months,Rat Terrier Mix,White/Black
+A718739,2014-01-06,*Carlisle,2016-01-12T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,2 years,Dachshund Wirehair/Chihuahua Shorthair,Buff
+A719049,2015-11-02,Brownie,2016-01-12T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Male,2 months,Pit Bull/Chihuahua Shorthair,Tan/White
+A719050,2015-11-02,Cutie,2016-01-12T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Male,2 months,Pit Bull/Chihuahua Shorthair,Tan/White
+A719051,2015-11-02,Ryder,2016-01-12T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,2 months,Border Collie/Labrador Retriever,Black/White
+A719052,2015-11-02,Onyx,2016-01-12T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,2 months,Pit Bull/Chihuahua Shorthair,Black/White
+A614825,2009-11-28,Faith,2016-01-13T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,6 years,Chihuahua Shorthair Mix,Tricolor
+A718660,2013-01-04,*Mantequilla,2016-01-16T00:00:00-05:00,01-2016,Adoption,,Dog,Neutered Male,3 years,Labrador Retriever Mix,White
+A716982,2014-11-29,*Jet,2016-01-16T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,1 year,Labrador Retriever,Black
+A719205,2015-10-15,*Jupiter,2016-01-19T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,3 months,Queensland Heeler Mix,Brown/White
+A718674,2014-01-04,*Ceniza,2016-01-19T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,2 years,Catahoula Mix,Blue Merle/White
+A717215,2012-12-04,Jack,2016-01-19T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,3 years,German Shepherd Mix,Black/Brown
+A602837,2010-06-06,*Mickey,2016-01-19T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,5 years,Chihuahua Shorthair Mix,Brown
+A718698,2014-01-05,Myah,2016-01-20T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,2 years,Australian Shepherd Mix,White/Blue Tick
+A719355,2015-01-18,,2016-01-22T00:00:00-05:00,01-2016,Transfer,Partner,Other,Intact Male,1 year,Guinea Pig Mix,Tricolor
+A719494,2015-01-21,,2016-01-22T00:00:00-05:00,01-2016,Return to Owner,,Dog,Intact Female,1 year,Siberian Husky Mix,Silver/Black
+A658784,2012-07-15,Rex,2016-01-24T00:00:00-05:00,01-2016,Adoption,,Dog,Neutered Male,3 years,Chihuahua Shorthair Mix,Tan/White
+A719411,2014-01-19,*Poppy,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,2 years,Chihuahua Shorthair,White/Blue
+A719467,2006-01-20,*Finch,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,10 years,Chihuahua Shorthair Mix,Tan
+A719505,2013-01-21,*Birdy,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,3 years,Dachshund/Swedish Vallhund,Red/Black
+A719359,2014-01-18,*Khloe,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Tan
+A719334,2015-01-17,*Shawn,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,1 year,Dachshund Mix,White/Tan
+A719160,2015-07-14,*Farrah,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,6 months,Labrador Retriever Mix,Black/White
+A718885,2015-01-08,Loo,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,1 year,Carolina Dog Mix,Tan/White
+A719673,2015-05-25,Maggie,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,8 months,Dachshund Longhair Mix,Red
+A719674,2015-11-18,Peanut,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Female,2 months,Dachshund Mix,Brown
+A719675,2015-11-18,Bandit,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Male,2 months,Dachshund Mix,Brown
+A719676,2015-11-18,Ham,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Male,2 months,Dachshund Longhair Mix,Red
+A719677,2013-01-25,Buda,2016-01-25T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Male,3 years,Dachshund Mix,Red
+A718910,2015-01-09,,2016-01-27T00:00:00-05:00,01-2016,Transfer,Partner,Livestock,Intact Male,1 year,Pig Mix,White
+A644479,2010-12-27,Periwiggles,2016-01-30T00:00:00-05:00,01-2016,Adoption,,Cat,Spayed Female,5 years,Domestic Shorthair Mix,Blue
+A719645,2011-01-30,*Stella,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,5 years,Manchester Terrier Mix,Black/Brown
+A719666,2015-07-25,*Oliver,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,6 months,Miniature Pinscher,Black/Tan
+A719731,2015-11-26,*Mona,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,2 months,Border Collie Mix,Black/White
+A719288,2015-11-02,*Goose,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,2 months,English Pointer Mix,Tricolor/Brown Merle
+A719358,2011-01-18,*Jimmy,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Intact Male,5 years,Chihuahua Shorthair Mix,Tan/White
+A719068,2015-01-12,*Marty,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Brown
+A622844,2011-02-25,Squeaky,2016-01-31T00:00:00-05:00,01-2016,Transfer,Partner,Dog,Spayed Female,4 years,Jack Russell Terrier/Australian Cattle Dog,White/Black
+A719831,2011-01-28,Max,2016-02-01T00:00:00-05:00,02-2016,Return to Owner,,Dog,Intact Male,5 years,Miniature Schnauzer Mix,Gray
+A719976,2015-11-09,River,2016-02-01T00:00:00-05:00,02-2016,Adoption,,Cat,Neutered Male,2 months,Siamese Mix,Seal Point
+A719978,2015-11-09,Meadow,2016-02-01T00:00:00-05:00,02-2016,Adoption,,Cat,Spayed Female,2 months,Siamese Mix,Tortie Point
+A710898,2013-08-29,*Winston,2016-02-01T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black
+A719509,2014-01-21,*Henry,2016-02-02T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Boston Terrier/Pit Bull,Black/White
+A719768,2015-01-27,*Annabelle,2016-02-02T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,1 year,Flat Coat Retriever Mix,Black
+A719760,2015-10-12,*Jules,2016-02-02T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,3 months,Pit Bull Mix,Blue/White
+A716036,2014-11-13,Bert,2016-02-02T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,1 year,Pit Bull Mix,Blue/White
+A704136,2013-06-01,*Kisses,2016-02-02T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 years,Boxer Mix,Brown Brindle/White
+A719374,2012-01-18,Sadie,2016-02-03T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Spayed Female,4 years,Domestic Shorthair Mix,Torbie
+A719281,2015-09-16,*Sam,2016-02-03T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Neutered Male,4 months,Domestic Shorthair Mix,Black
+A719139,2015-03-13,*Vera,2016-02-03T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Intact Female,10 months,Domestic Shorthair Mix,Brown Tabby
+A718107,2013-12-21,*Tucker,2016-02-03T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Pit Bull Mix,Brown Brindle/White
+A711463,2015-07-31,*Gary,2016-02-03T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Neutered Male,6 months,Domestic Shorthair Mix,Black/White
+A689705,2013-11-08,Tux,2016-02-03T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Pit Bull Mix,Black/White
+A720098,2013-02-02,Bailey,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Spayed Female,3 years,Snowshoe Mix,Seal Point/Brown
+A720190,2009-02-04,Little Missy,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,7 years,Airedale Terrier Mix,Tricolor
+A720012,2014-02-01,*Claudia,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 years,Anatol Shepherd Mix,Tan/Black
+A720014,2015-04-01,*Rembrandt,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,10 months,Anatol Shepherd Mix,Tan/White
+A719795,2014-07-28,*Katinka,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,1 year,German Shepherd Mix,Black/Tan
+A718702,2014-01-05,*Casper,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Neutered Male,2 years,Siamese Mix,Flame Point
+A683817,2014-03-15,Marvin,2016-02-07T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Orange Tabby/White
+A719514,2015-10-21,Monti,2016-02-08T00:00:00-05:00,02-2016,Missing,In Kennel,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Black
+A720297,2013-02-06,Chica,2016-02-10T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,3 years,Pit Bull Mix,Brown
+A712337,2013-09-21,*Howard,2016-02-10T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Australian Cattle Dog/Staffordshire,Black/White
+A700074,2014-04-07,*Cynthia,2016-02-10T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,White/Brown
+A718117,2011-03-21,Cimba,2016-02-12T00:00:00-05:00,02-2016,Return to Owner,,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Orange Tabby
+A720599,2006-02-12,Simon,2016-02-12T00:00:00-05:00,02-2016,Return to Owner,,Cat,Neutered Male,10 years,Siamese Mix,Seal Point
+A627862,2010-05-22,Blanca,2016-02-14T00:00:00-05:00,02-2016,Adoption,,Dog,Spayed Female,5 years,Chihuahua Shorthair Mix,White/Brown
+A720371,2015-10-08,Moose,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,4 months,Anatol Shepherd/Labrador Retriever,Buff
+A720372,2015-02-08,*Lenny,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,1 year,Staffordshire Mix,Blue/White
+A720104,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,Brown Brindle/White
+A720078,2011-02-02,Mary Jane,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Female,5 years,Labrador Retriever Mix,Black
+A720081,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,Tricolor
+A720082,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,Brown Merle
+A720084,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Female,2 weeks,Labrador Retriever Mix,Black
+A720085,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Female,2 weeks,Labrador Retriever Mix,Brown Merle
+A720086,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,Blue Merle
+A720088,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,White/Blue Merle
+A720089,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,Brown Merle/Tan
+A720090,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Female,2 weeks,Labrador Retriever Mix,White/Black
+A720091,2016-01-26,,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,2 weeks,Labrador Retriever Mix,Blue Merle/White
+A720481,2014-08-10,*Achilles,2016-02-15T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Male,1 year,Border Collie Mix,Black
+A720439,2013-02-09,Juniper,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,3 years,Border Collie Mix,Black/White
+A720498,2014-02-10,*Valentino,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Pug/Border Terrier,Black/Tan
+A720784,2014-02-15,Lady,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 years,Border Collie Mix,Black/White
+A718419,2013-12-29,Midnight,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Black
+A718579,2011-01-02,Izzie,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black/White
+A719561,2014-05-22,Anan,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Cream Tabby
+A719458,2013-01-20,*Finn,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,3 years,Pit Bull Mix,Brown Brindle
+A706648,2015-04-01,Kane,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,10 months,Redbone Hound/Dachshund,Red
+A711018,2013-03-01,Milo,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Australian Cattle Dog Mix,Brown/White
+A683469,2012-07-10,Dakota,2016-02-16T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,3 years,Border Collie Mix,Brown Brindle/White
+A720471,2015-02-10,Dixie,2016-02-17T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,1 year,Jack Russell Terrier Mix,White/Black
+A720169,2015-02-03,*Rita,2016-02-17T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,Black/Brown
+A719169,2015-03-14,Craig,2016-02-17T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,11 months,Scottish Terrier/Basset Hound,Gray/Silver
+A686843,2013-02-27,Stella,2016-02-17T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 years,Pit Bull Mix,Brown/White
+A720946,2015-12-03,*Bart,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 months,Rottweiler Mix,Tricolor
+A720921,2011-02-18,*Riley,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Cat,Intact Male,5 years,Domestic Shorthair Mix,Brown Tabby/White
+A720828,2015-12-15,*Carina,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 months,Pointer Mix,White/Tricolor
+A720598,2015-09-09,Buddy,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,5 months,Great Pyrenees Mix,White
+A720786,2014-02-15,*Cromwell,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,Brown Brindle
+A718178,2014-08-23,*Juliet,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Brown Brindle/White
+A719570,2015-05-15,Jimmy,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,9 months,Pit Bull Mix,Blue/White
+A717643,2013-12-11,Ellie,2016-02-21T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 years,Pit Bull Mix,Brown/White
+A720976,2015-02-18,,2016-02-22T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Intact Female,1 year,Border Terrier/Chihuahua Shorthair,Tan/White
+A717787,2014-12-15,Harley,2016-02-22T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,1 year,Labrador Retriever Mix,Brown
+A708275,2012-07-25,Dylan,2016-02-22T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Neutered Male,3 years,Pit Bull Mix,Tan/White
+A721118,2010-02-21,Sully,2016-02-25T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,6 years,Pointer/Pit Bull,White/Black
+A721408,2015-11-26,,2016-02-26T00:00:00-05:00,02-2016,Died,In Kennel,Dog,Intact Male,3 months,Labrador Retriever Mix,Black
+A721417,2014-02-26,Sadie,2016-02-26T00:00:00-05:00,02-2016,Return to Owner,,Dog,Spayed Female,2 years,Pit Bull Mix,Blue/White
+A721321,2012-03-11,Jujubee,2016-02-27T00:00:00-05:00,02-2016,Return to Owner,,Cat,Spayed Female,3 years,Maine Coon Mix,Black
+A719806,2016-01-02,Max,2016-02-27T00:00:00-05:00,02-2016,Adoption,Foster,Dog,Neutered Male,1 month,Queensland Heeler Mix,Black/Tan
+A718021,2013-12-19,Priscilla,2016-02-28T00:00:00-05:00,02-2016,Transfer,Partner,Dog,Spayed Female,2 years,Pointer Mix,White/Brown Brindle
+A720453,2013-02-09,Delilah,2016-03-02T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Intact Female,3 years,Pit Bull,Brown
+A711653,2011-09-10,Ace,2016-03-02T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,4 years,Pit Bull Mix,White/Brown Brindle
+A686226,2014-02-18,Chan,2016-03-02T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,2 years,Dutch Shepherd,Black/Brown Brindle
+A721222,2013-02-23,Curly Fries,2016-03-03T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Blue Tabby
+A721313,2015-06-24,Lilith,2016-03-03T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Spayed Female,8 months,Domestic Shorthair Mix,Black
+A721314,2015-06-24,Sam,2016-03-03T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Spayed Female,8 months,Domestic Shorthair Mix,Black
+A721479,2015-11-27,,2016-03-03T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Intact Female,3 months,Pit Bull Mix,Black/White
+A721480,2015-11-09,,2016-03-03T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Intact Female,3 months,Pit Bull Mix,Red
+A721481,2015-09-12,,2016-03-03T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Intact Male,5 months,Pit Bull Mix,White/Brown
+A721769,2016-03-01,,2016-03-04T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Intact Female,3 days,Domestic Shorthair Mix,Orange Tabby
+A721770,2016-03-01,,2016-03-04T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Intact Male,3 days,Domestic Shorthair Mix,Brown Tabby
+A721771,2016-03-01,,2016-03-04T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Intact Male,3 days,Domestic Shorthair Mix,Black
+A718699,2014-11-05,Jay,2016-03-05T00:00:00-05:00,03-2016,Adoption,,Dog,Neutered Male,1 year,Labrador Retriever Mix,Black/White
+A721650,2015-07-01,Maisie,2016-03-05T00:00:00-05:00,03-2016,Adoption,,Cat,Spayed Female,8 months,Domestic Shorthair Mix,Brown Tabby
+A721379,2014-02-25,Blondie,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Tan
+A721183,2012-02-23,*Joaquin,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,4 years,Chihuahua Shorthair Mix,Tan
+A721266,2015-05-24,Little,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Spayed Female,9 months,Chihuahua Shorthair Mix,Brown/Tan
+A721264,2004-02-24,Pickle,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,12 years,Chihuahua Shorthair Mix,White/Brown
+A721042,2015-11-20,*Sybil,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Intact Female,3 months,Labrador Retriever Mix,Buff/White
+A720641,2015-03-13,Saydee,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Spayed Female,11 months,Chihuahua Shorthair Mix,Red/White
+A705813,2007-06-22,Lucky,2016-03-06T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,8 years,Chihuahua Shorthair Mix,Tan
+A712021,2010-09-15,Paco,2016-03-07T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,5 years,Labrador Retriever Mix,Black/White
+A721784,2015-03-04,,2016-03-08T00:00:00-05:00,03-2016,Transfer,Partner,Other,Intact Male,1 year,Rabbit Sh Mix,Black/Tan
+A720745,2015-02-14,Rooster 29,2016-03-08T00:00:00-05:00,03-2016,Transfer,Partner,Bird,Intact Male,1 year,Chicken Mix,Black/Red
+A720742,2015-02-14,Rooster 26,2016-03-08T00:00:00-05:00,03-2016,Transfer,Partner,Bird,Intact Male,1 year,Chicken Mix,Black/Red
+A720739,2015-02-14,Rooster 23,2016-03-08T00:00:00-05:00,03-2016,Transfer,Partner,Bird,Intact Male,1 year,Chicken Mix,Black/Red
+A722149,2009-03-12,June,2016-03-12T00:00:00-05:00,03-2016,Return to Owner,,Dog,Neutered Male,7 years,Chinese Sharpei Mix,Brown/Tan
+A572590,2008-05-03,Princess,2016-03-12T00:00:00-05:00,03-2016,Return to Owner,,Dog,Spayed Female,7 years,Pit Bull Mix,Tan/White
+A675402,2007-03-27,Cookie,2016-03-12T00:00:00-05:00,03-2016,Return to Owner,,Dog,Spayed Female,8 years,German Shepherd/Collie Rough,Brown/Black
+A722341,2015-03-14,,2016-03-15T00:00:00-05:00,03-2016,Euthanasia,Rabies Risk,Other,Unknown,1 year,Bat Mix,Brown
+A722361,2015-11-15,Louisa,2016-03-15T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Intact Female,3 months,Labrador Retriever Mix,Black/White
+A722626,2014-03-19,Billy Holida,2016-03-20T00:00:00-05:00,03-2016,Return to Owner,,Cat,Neutered Male,2 years,Domestic Shorthair,Tortie
+A722689,2015-03-20,,2016-03-21T00:00:00-05:00,03-2016,Disposal,,Other,Unknown,1 year,Bat Mix,Brown
+A719872,2013-01-29,Budster,2016-03-22T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Blue/White
+A722947,2012-04-10,,2016-03-24T00:00:00-05:00,03-2016,Transfer,Partner,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Black
+A722445,2011-03-16,Jack,2016-03-27T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,5 years,Mastiff/Pit Bull,Black
+A722085,2015-03-10,*Ty,2016-03-27T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,1 year,Pit Bull Mix,Tan/White
+A721954,2010-03-08,Raphael,2016-03-27T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,6 years,Jindo,Cream
+A722544,2015-04-01,Roxy,2016-03-28T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Spayed Female,11 months,Siberian Husky/Labrador Retriever,Black/White
+A715825,2014-11-30,Chubbs,2016-03-28T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Neutered Male,1 year,Labrador Retriever/Pit Bull,Brown/White
+A687239,2014-01-05,Luna,2016-03-28T00:00:00-05:00,03-2016,Adoption,,Dog,Spayed Female,2 years,Plott Hound Mix,Brown Brindle/White
+A723249,2015-03-28,,2016-03-29T00:00:00-05:00,03-2016,Euthanasia,Rabies Risk,Other,Unknown,1 year,Bat Mix,Brown
+A722794,2011-03-22,*Libby,2016-03-30T00:00:00-05:00,03-2016,Transfer,Partner,Dog,Spayed Female,5 years,Labrador Retriever Mix,Black
+A723153,2014-03-27,*Fabian,2016-04-05T00:00:00-05:00,04-2016,Transfer,SCRP,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Blue
+A723424,2013-03-31,Shadow,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Black
+A722183,2013-03-12,Dottie,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,3 years,Domestic Shorthair Mix,Tortie
+A721926,2011-03-07,*Winderance,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,5 years,Domestic Shorthair Mix,Calico
+A721913,2012-05-07,Spitzer,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Black
+A722421,2014-03-16,Misty,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,2 years,Pit Bull Mix,Blue/White
+A721827,2015-03-11,Bentley,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,1 year,Siberian Husky Mix,White/Brown
+A721059,2009-07-20,Conan,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Orange Tabby/White
+A699420,2014-03-27,*Ferliss,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Male,2 years,Pit Bull Mix,Brown/White
+A628311,2010-05-26,*Rosalie,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,5 years,Domestic Shorthair Mix,Black/White
+A677798,2013-10-29,Happy,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Black/White
+A677804,2013-04-29,Lil Shadow,2016-04-06T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,White/Gray
+A723535,2015-12-02,,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,4 months,Manchester Terrier/Chihuahua Shorthair,Brown/Tan
+A723519,2014-04-02,,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Tan
+A723557,2015-04-03,,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Tricolor
+A723757,2016-02-06,Michaelangel,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair,Blue
+A723758,2016-03-25,Leonardo,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Intact Female,1 weeks,Domestic Shorthair,Blue
+A723759,2016-02-06,Raphael,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair,Blue
+A723760,2016-02-06,Donatella,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A723476,2015-04-01,*Sunshine,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,1 year,Beagle Mix,Yellow/White
+A723523,2013-04-02,*Hollywood,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,3 years,Angora Mix,White
+A723139,2014-03-27,*Shoshonna,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,2 years,Labrador Retriever Mix,Black/White
+A723215,2015-03-28,Allen,2016-04-07T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby/White
+A722245,2012-09-13,Bear,2016-04-09T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Male,3 years,Rottweiler Mix,Black/Brown
+A754280,2016-07-12,Chewbacca,2016-04-11T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Male,0 years,Australian Cattle Dog,Black/Brown
+A724148,2016-04-09,,2016-04-12T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Unknown,3 days,Domestic Medium Hair Mix,Orange Tabby
+A724151,2016-04-09,,2016-04-12T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Unknown,3 days,Domestic Medium Hair Mix,Orange Tabby
+A724152,2016-04-09,,2016-04-12T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Unknown,3 days,Domestic Medium Hair Mix,Brown Tabby
+A724203,2015-04-13,Athena,2016-04-13T00:00:00-05:00,04-2016,Return to Owner,,Dog,Intact Female,1 year,Pit Bull Mix,Fawn/White
+A723876,2015-12-08,,2016-04-13T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,4 months,Jack Russell Terrier/Chihuahua Shorthair,Red/Tan
+A723735,2015-11-20,Zoey,2016-04-13T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,4 months,Pointer Mix,Black/White
+A723643,2014-04-04,Mazzy,2016-04-13T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,2 years,American Foxhound Mix,Tricolor
+A722847,2012-03-23,Gloria,2016-04-13T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,4 years,Domestic Medium Hair Mix,Calico
+A712517,2015-08-18,Stella,2016-04-13T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,7 months,Domestic Shorthair Mix,Black/White
+A703672,2015-04-01,*Chillon,2016-04-13T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Brown Tabby
+A723869,2015-09-08,Chewy,2016-04-14T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,7 months,Catahoula Mix,Brown Brindle/White
+A723559,2015-09-19,Nylla,2016-04-14T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,6 months,Plott Hound Mix,Brown Brindle
+A723198,2015-11-28,*Bandit,2016-04-14T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,4 months,Dutch Shepherd Mix,Brown Brindle/White
+A723960,2014-04-09,*Savannah,2016-04-15T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,White/Tan
+A723979,2015-12-30,*Bobby,2016-04-15T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,3 months,Chihuahua Shorthair Mix,White/Tan
+A724231,2015-08-14,Beamo,2016-04-15T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,8 months,Boxer Mix,Red/White
+A724278,2016-03-12,,2016-04-15T00:00:00-05:00,04-2016,Died,At Vet,Cat,Unknown,4 weeks,Domestic Shorthair Mix,Black
+A723405,2012-03-31,*Dale,2016-04-15T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,4 years,Australian Cattle Dog Mix,Blue Merle
+A722854,2014-06-23,Wesley,2016-04-16T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,1 year,Labrador Retriever Mix,Black
+A722603,2015-03-19,,2016-04-16T00:00:00-05:00,04-2016,Adoption,,Bird,Intact Male,1 year,Chicken Mix,White/Tan
+A721378,2010-03-01,*Jax,2016-04-16T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,6 years,Border Collie/Labrador Retriever,Black
+A714411,2014-10-22,Chiquita,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,Brown
+A723936,2014-04-09,Pip,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Black Mouth Cur/German Shepherd,Red/White
+A723926,2014-04-09,Chanel,2016-04-17T00:00:00-05:00,04-2016,Return to Owner,,Dog,Spayed Female,2 years,Miniature Poodle Mix,White
+A724094,2016-02-11,*Totesadorbs,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 months,Chihuahua Shorthair/Pit Bull,Yellow/White
+A724110,2015-04-12,*Garland,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,1 year,Australian Cattle Dog Mix,Tricolor
+A723531,2015-10-14,*Clementine,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,6 months,Domestic Shorthair Mix,Black
+A723642,2014-04-04,Fido,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black
+A723641,2014-04-04,Walker,2016-04-17T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black
+A724238,2015-06-14,*Nareeta,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,10 months,Labrador Retriever Mix,Black/Brown
+A724239,2014-04-14,*Nellie,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,2 years,Labrador Retriever Mix,Chocolate
+A724086,2016-02-11,*Gustavo,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 months,Chihuahua Shorthair/Mexican Hairless,Brown
+A724080,2014-04-11,*Ashton,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,White/Tan
+A724081,2014-04-11,*Peta,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Boxer Mix,Tan/White
+A724083,2015-04-11,*Peregrine,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Male,1 year,Border Collie/German Shepherd,Black/White
+A724087,2016-02-11,*Ximena,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,2 months,Chihuahua Shorthair/Dachshund,Brown
+A723929,2014-04-09,*Allie,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,2 years,Pit Bull Mix,Brown/White
+A723717,2014-04-05,*Hawkeye,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black/White
+A723522,2014-04-01,Molly,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Calico
+A723739,2013-04-05,*Skipper,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,3 years,Chihuahua Shorthair Mix,Black/White
+A723464,2012-04-01,*Mikey,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,4 years,Domestic Shorthair Mix,Orange Tabby
+A723453,2015-04-01,Boomer,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,1 year,Boxer Mix,White/Brown
+A723384,2014-03-31,*Ollie,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,American Bulldog Mix,Brown Brindle/White
+A723128,2007-09-27,Fluff,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,8 years,Domestic Longhair Mix,Black/White
+A722431,2013-04-09,Blossom,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,3 years,Border Collie/Australian Cattle Dog,Black/White
+A722185,2015-03-12,Hera,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Brown/White
+A721976,2004-03-08,Tuesday,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,12 years,Domestic Shorthair Mix,Brown Tabby
+A721178,2009-02-22,*Kiki,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,7 years,Labrador Retriever/Chinese Sharpei,Black
+A718203,2013-12-23,Crissy,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,2 years,Labrador Retriever Mix,Black
+A718593,2015-01-02,Aurora,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Black
+A718491,2006-12-31,*Sable,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,9 years,Pit Bull Mix,Blue/White
+A718737,2014-01-06,Roma,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,2 years,Pit Bull/Labrador Retriever,Tan/White
+A719504,2013-01-21,*Eagle,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,3 years,Pit Bull/Boxer,Brown/White
+A721060,2009-07-20,Diego,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,6 years,Domestic Shorthair Mix,Blue Tabby
+A714583,2014-10-25,Prancer,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Black/White
+A712518,2015-08-18,Zoe,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,8 months,Domestic Shorthair Mix,Black
+A716210,2011-11-16,Nubbennz,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,4 years,American Bulldog Mix,White/Tan
+A634925,2011-08-17,Princess,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,4 years,Pit Bull Mix,Blue/White
+A609701,2010-03-12,G-Man,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,6 years,Blue Lacy Mix,Blue/White
+A613088,2011-03-02,Bella,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,5 years,Pit Bull Mix,Blue/White
+A619637,2010-02-04,Bam Bam,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,6 years,Pit Bull Mix,Red/White
+A665445,2013-06-18,Max,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever Mix,Brown/Black
+A675622,2013-11-30,Ace,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Catahoula,Tricolor
+A703542,2014-05-26,Romeo,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,1 year,Boxer/Chinese Sharpei,White/Tan
+A699939,2009-04-08,Charlie,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Neutered Male,7 years,Domestic Shorthair Mix,Orange Tabby
+A699125,2013-09-23,Rex,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Male,2 years,English Bulldog/Boxer,White/Brown
+A697913,2011-03-03,Blake,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,5 years,American Staffordshire Terrier Mix,Yellow/White
+A697030,2014-02-16,Bonnie,2016-04-18T00:00:00-05:00,04-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Brown Tabby/White
+A724440,2013-04-17,Opie,2016-04-19T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,3 years,West Highland Mix,Buff
+A724242,2014-10-14,Gilly,2016-04-20T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,1 year,Pug,Fawn
+A698963,2013-03-20,Perla,2016-04-20T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,3 years,Border Terrier/Yorkshire Terrier,Tricolor
+A723409,2014-03-31,*Reese,2016-04-21T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Intact Female,2 years,Staffordshire Mix,Tan/White
+A710601,2012-08-25,*Runt Baby,2016-04-21T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Spayed Female,3 years,Labrador Retriever Mix,Brown/White
+A722586,2010-03-19,Snoopy,2016-04-22T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,6 years,Golden Retriever/Great Pyrenees,Buff
+A724485,2011-04-18,*Sasha,2016-04-22T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,5 years,Lhasa Apso Mix,Black/White
+A724506,2011-04-18,*Bingo*,2016-04-22T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,5 years,Miniature Poodle/Maltese,Gray
+A724845,2015-04-22,,2016-04-22T00:00:00-05:00,04-2016,Euthanasia,,Other,Unknown,1 year,Raccoon,Brown/Black
+A724286,2013-04-15,Obama,2016-04-23T00:00:00-05:00,04-2016,Return to Owner,,Dog,Intact Male,3 years,German Shepherd,Brown/Black
+A724453,2015-10-17,*Scooter,2016-04-23T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,6 months,Black Mouth Cur Mix,Brown
+A724628,2015-04-19,*Slinky,2016-04-23T00:00:00-05:00,04-2016,Adoption,,Other,Unknown,1 year,Ferret,Sable/White
+A724762,2008-04-21,Shadow,2016-04-24T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,8 years,Jack Russell Terrier Mix,Tricolor
+A724586,2014-04-19,Charlotte,2016-04-24T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,2 years,Australian Cattle Dog Mix,Tricolor
+A724375,2011-10-16,Raider,2016-04-24T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,4 years,Labrador Retriever Mix,Black
+A724346,2015-04-16,Belle,2016-04-24T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,1 year,Australian Shepherd Mix,Tricolor
+A724077,2015-07-11,*Sandy,2016-04-24T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,9 months,Queensland Heeler Mix,Red
+A724834,2015-04-22,Rosie,2016-04-27T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,White/Black
+A724952,2016-02-23,*Belinda,2016-04-27T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,2 months,Chihuahua Shorthair Mix,Tan
+A724962,2014-04-23,,2016-04-27T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,2 years,Lhasa Apso Mix,White/Black
+A724975,2016-02-08,,2016-04-27T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,2 months,Labrador Retriever Mix,Black
+A723823,2012-04-07,Kody,2016-04-27T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,4 years,Border Collie Mix,Black/White
+A720824,2014-02-15,Darwin,2016-04-27T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,2 years,Labrador Retriever/Pit Bull,Tan
+A712395,2008-04-22,Shadow,2016-04-27T00:00:00-05:00,04-2016,Transfer,Partner,Dog,Neutered Male,8 years,Siberian Husky,White
+A725012,2006-04-24,Snow,2016-04-28T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,10 years,Bichon Frise Mix,White
+A725006,2016-01-24,,2016-04-28T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,3 months,Feist Mix,Sable/White
+A724943,2015-04-23,Rayven,2016-04-28T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,1 year,Beagle/Labrador Retriever,Black/White
+A724954,2014-10-23,,2016-04-28T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,1 year,Shih Tzu Mix,Tricolor
+A724816,2015-12-07,Rey,2016-04-28T00:00:00-05:00,04-2016,Adoption,,Dog,Spayed Female,4 months,Australian Cattle Dog Mix,Red/White
+A723135,2016-02-27,*Cadbury,2016-04-29T00:00:00-05:00,04-2016,Adoption,,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby
+A724657,2014-04-20,Brutus,2016-04-30T00:00:00-05:00,04-2016,Adoption,,Dog,Neutered Male,2 years,Pit Bull Mix,Brown/White
+A725625,2016-04-16,,2016-05-01T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Torbie
+A725626,2016-04-16,,2016-05-01T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Orange Tabby
+A725628,2016-04-16,,2016-05-01T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Torbie
+A725629,2016-04-16,,2016-05-01T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Male,2 weeks,Domestic Shorthair Mix,Cream/White
+A725630,2016-04-16,,2016-05-01T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Shorthair Mix,Tortie Point/White
+A725133,2015-09-26,Gus,2016-05-01T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,7 months,Australian Cattle Dog/Australian Shepherd,White/Tan
+A719457,2014-08-20,Toby,2016-05-02T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Neutered Male,1 year,Pit Bull Mix,White/Black
+A715072,2009-04-25,Snow,2016-05-02T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Spayed Female,7 years,American Bulldog Mix,White/Brown
+A725579,2013-04-30,,2016-05-04T00:00:00-05:00,05-2016,Died,In Kennel,Cat,Intact Female,3 years,Domestic Shorthair Mix,White/Brown Tabby
+A721406,2014-02-26,Lanie,2016-05-04T00:00:00-05:00,05-2016,Adoption,,Dog,Spayed Female,2 years,Labrador Retriever Mix,Cream/White
+A723885,2014-04-08,*Valentino,2016-05-04T00:00:00-05:00,05-2016,Adoption,,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Black/White
+A693269,2014-12-05,Denver,2016-05-04T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,1 year,Treeing Walker Coonhound/German Shepherd,Brown/Black
+A725956,2006-05-05,Astrid,2016-05-05T00:00:00-05:00,05-2016,Return to Owner,,Dog,Spayed Female,10 years,Border Collie Mix,Black/White
+A722147,2015-03-11,*Jack,2016-05-05T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,1 year,Australian Cattle Dog Mix,Tan/White
+A725709,2016-02-02,Snow,2016-05-06T00:00:00-05:00,05-2016,Return to Owner,,Cat,Spayed Female,3 months,Domestic Shorthair Mix,Black/White
+A725756,2016-02-23,Serenity,2016-05-06T00:00:00-05:00,05-2016,Adoption,,Cat,Spayed Female,2 months,Domestic Longhair Mix,Black
+A725758,2016-02-09,,2016-05-06T00:00:00-05:00,05-2016,Adoption,,Cat,Neutered Male,2 months,Domestic Longhair Mix,Brown Tabby
+A725759,2016-02-13,,2016-05-06T00:00:00-05:00,05-2016,Adoption,,Cat,Neutered Male,2 months,Domestic Longhair Mix,Brown Tabby
+A725738,2016-03-02,,2016-05-06T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,2 months,Chihuahua Shorthair Mix,Black/Tan
+A725713,2014-05-02,Rylie,2016-05-07T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,2 years,German Shepherd/Great Pyrenees,Black/Brown
+A725764,2015-09-02,*Anders,2016-05-07T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,8 months,Feist Mix,Buff
+A725331,2004-05-07,*Baxter,2016-05-07T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,12 years,Beagle Mix,Tricolor
+A726106,2010-05-06,Bear,2016-05-07T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,6 years,Miniature Schnauzer Mix,White
+A725379,2013-04-28,*Rhett,2016-05-08T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Neutered Male,3 years,Miniature Schnauzer Mix,Tan
+A726189,2016-04-15,,2016-05-08T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Orange Tabby
+A726065,2015-11-24,*Sid,2016-05-09T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,5 months,Jack Russell Terrier Mix,Tricolor/White
+A725728,2014-05-02,*Buttercup,2016-05-09T00:00:00-05:00,05-2016,Adoption,,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Calico
+A726048,2014-11-05,*Sunnie,2016-05-09T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Black/White
+A725985,2014-05-04,*Abby,2016-05-09T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Spayed Female,2 years,Chihuahua Shorthair Mix,Black/White
+A725115,2014-04-26,*Grimsby,2016-05-09T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Neutered Male,2 years,Pointer Mix,White/Black
+A722235,2012-03-13,Meridian,2016-05-09T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Neutered Male,4 years,German Shepherd/Chow Chow,Sable
+A724161,2012-04-13,*Hayden,2016-05-09T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Spayed Female,4 years,Jack Russell Terrier/Beagle,White/Tan
+A723945,2013-04-09,*Earl,2016-05-09T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,3 years,Labrador Retriever Mix,Red
+A724077,2015-07-11,*Sandy,2016-05-09T00:00:00-05:00,05-2016,Adoption,,Dog,Spayed Female,9 months,Queensland Heeler Mix,Red
+A724373,2010-04-16,Ruby,2016-05-11T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Female,6 years,Pekingese Mix,Buff
+A726147,2009-05-07,,2016-05-11T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Female,7 years,Miniature Poodle,White
+A726486,2016-03-11,Max,2016-05-12T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,2 months,Labrador Retriever Mix,Black/White
+A726238,2015-05-08,,2016-05-12T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Tan
+A717532,2012-12-11,Cooper,2016-05-12T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Neutered Male,3 years,Labrador Retriever Mix,Yellow
+A723013,2015-12-25,*Cody,2016-05-14T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,4 months,Boxer Mix,Brown/White
+A722212,2010-03-12,*Maxwell,2016-05-14T00:00:00-05:00,05-2016,Adoption,,Cat,Neutered Male,6 years,Siamese Mix,Seal Point
+A726381,2016-03-10,,2016-05-14T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,2 months,Australian Cattle Dog/Labrador Retriever,Blue/Tricolor
+A726377,2016-03-10,,2016-05-14T00:00:00-05:00,05-2016,Adoption,,Dog,Spayed Female,2 months,Australian Cattle Dog,Blue/Black
+A726322,2015-11-24,*Rubin,2016-05-14T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,5 months,Australian Cattle Dog/German Shepherd,Brown Brindle/White
+A554047,2009-07-08,Mega,2016-05-14T00:00:00-05:00,05-2016,Return to Owner,,Dog,Neutered Male,6 years,Pit Bull Mix,Brown/White
+A726447,2016-03-20,Piglet,2016-05-15T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Male,1 month,Yorkshire Terrier Mix,Black/Tan
+A726376,2016-03-10,Milo,2016-05-15T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,2 months,Border Collie/Greyhound,Black/White
+A726302,2012-05-09,*Alexander,2016-05-15T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,4 years,Siberian Husky Mix,Black/Brown
+A725187,2016-03-11,Cypress,2016-05-15T00:00:00-05:00,05-2016,Adoption,Foster,Dog,Neutered Male,2 months,Catahoula Mix,Brown Merle/Tan
+A724707,2015-04-20,Hercules,2016-05-15T00:00:00-05:00,05-2016,Adoption,,Dog,Intact Male,1 year,Labrador Retriever Mix,Tan/White
+A726738,2014-05-14,,2016-05-18T00:00:00-05:00,05-2016,Adoption,,Dog,Spayed Female,2 years,Dachshund Longhair Mix,Black/White
+A726585,2015-05-12,*Tom,2016-05-18T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,1 year,Miniature Pinscher Mix,Black/Tan
+A726809,2015-11-30,,2016-05-18T00:00:00-05:00,05-2016,Adoption,,Dog,Spayed Female,5 months,Australian Cattle Dog Mix,Black/White
+A715850,2012-11-11,Olaf,2016-05-18T00:00:00-05:00,05-2016,Adoption,,Dog,Neutered Male,3 years,Labrador Retriever Mix,Cream
+A657016,2012-12-22,Trap,2016-05-19T00:00:00-05:00,05-2016,Died,Enroute,Dog,Intact Male,3 years,Pit Bull Mix,Black/White
+A725708,2016-02-02,Dexter,2016-05-21T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Neutered Male,3 months,Labrador Retriever Mix,White
+A706822,2011-04-04,Bella,2016-05-21T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Spayed Female,5 years,Pit Bull Mix,Brown
+A721082,2013-02-20,*Mr. Barrow,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Neutered Male,3 years,Domestic Shorthair Mix,Brown Tabby
+A725785,2014-05-03,Zelda,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Torbie
+A727256,2016-04-28,*Buffy,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Calico
+A727257,2016-04-28,*Xander,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Blue Tabby
+A727258,2016-04-28,*Willow,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie
+A727259,2016-04-28,*Anya,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,3 weeks,Domestic Shorthair Mix,Tortie
+A727260,2016-04-28,*Angel,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby
+A727261,2016-04-28,*Spike,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,Brown Tabby
+A726922,2014-05-16,Lily,2016-05-23T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Tortie
+A727495,2014-05-22,Ike,2016-05-26T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Male,2 years,Lhasa Apso Mix,Tricolor
+A554047,2009-07-08,Mega,2016-05-26T00:00:00-05:00,05-2016,Return to Owner,,Dog,Neutered Male,6 years,Pit Bull Mix,Brown/White
+A727777,2016-05-13,,2016-05-28T00:00:00-05:00,05-2016,Died,In Kennel,Cat,Intact Female,2 weeks,Domestic Longhair Mix,Torbie
+A726635,2016-04-10,,2016-05-29T00:00:00-05:00,05-2016,Died,In Kennel,Cat,Intact Male,1 month,Domestic Shorthair,Brown Tabby
+A727968,2016-05-25,,2016-05-29T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Unknown,4 days,Domestic Shorthair Mix,Black
+A727969,2016-05-25,,2016-05-29T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Unknown,4 days,Domestic Shorthair Mix,Cream Tabby
+A727970,2016-05-25,,2016-05-29T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Unknown,4 days,Domestic Shorthair Mix,Black/White
+A727971,2016-05-25,,2016-05-29T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Unknown,4 days,Domestic Shorthair Mix,Gray Tabby/White
+A727729,2016-04-26,*Paisley,2016-05-29T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,4 weeks,Domestic Shorthair Mix,Black Tabby/White
+A727730,2016-04-26,*Floral,2016-05-29T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Intact Female,4 weeks,Domestic Medium Hair Mix,Black Tabby/White
+A723641,2014-04-04,Walker,2016-05-29T00:00:00-05:00,05-2016,Return to Owner,,Dog,Neutered Male,2 years,Labrador Retriever Mix,Black
+A728031,2016-05-26,,2016-05-30T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Male,4 days,Pit Bull Mix,Black
+A728080,2016-05-15,,2016-05-30T00:00:00-05:00,05-2016,Transfer,Partner,Cat,Unknown,2 weeks,Domestic Shorthair Mix,Brown Tabby
+A728062,2015-07-30,Snow,2016-05-31T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Female,10 months,Labrador Retriever Mix,Yellow
+A727744,2014-05-26,*Lincoln,2016-05-31T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Male,2 years,Labrador Retriever Mix,Chocolate
+A726604,2015-05-12,*Coda,2016-05-31T00:00:00-05:00,05-2016,Transfer,Partner,Dog,Intact Male,1 year,Jack Russell Terrier Mix,White/Brown
+A727158,2014-05-18,Hope,2016-06-01T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,2 years,Pit Bull Mix,White/Black
+A728363,2016-05-19,,2016-06-03T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Unknown,2 weeks,Domestic Shorthair Mix,Brown Tabby
+A728395,2012-06-03,Russel,2016-06-04T00:00:00-05:00,06-2016,Adoption,,Dog,Neutered Male,4 years,Cardigan Welsh Corgi/Jack Russell Terrier,Tan/White
+A728581,2016-06-02,,2016-06-06T00:00:00-05:00,06-2016,Died,In Kennel,Dog,Intact Female,4 days,Pit Bull Mix,Black/White
+A706178,2014-06-26,Kilo,2016-06-06T00:00:00-05:00,06-2016,Return to Owner,,Dog,Neutered Male,1 year,Pointer Mix,Brown/White
+A706181,2014-06-26,Lola,2016-06-06T00:00:00-05:00,06-2016,Return to Owner,,Dog,Spayed Female,1 year,Pit Bull Mix,Brown/White
+A684284,2008-07-24,Spot,2016-06-06T00:00:00-05:00,06-2016,Adoption,,Dog,Neutered Male,7 years,Australian Cattle Dog Mix,Black/White
+A728500,2004-06-05,,2016-06-07T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,12 years,Domestic Shorthair Mix,Brown Tabby
+A727574,2012-05-23,Rolo,2016-06-08T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,4 years,Pit Bull/Labrador Retriever,Black/White
+A726944,2006-05-16,*Sweet Pea,2016-06-08T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,10 years,Labrador Retriever Mix,Black
+A723868,2015-04-08,Ginger,2016-06-08T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,1 year,Black Mouth Cur Mix,Red
+A726788,2010-05-14,*Chewy,2016-06-09T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Male,6 years,Pit Bull Mix,White/Blue
+A728510,2016-03-21,Panchita,2016-06-09T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,2 months,Catahoula Mix,White/Brown Brindle
+A728511,2016-03-21,Cookie,2016-06-09T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,2 months,Catahoula Mix,White/Brown Brindle
+A552971,2009-07-14,Sally,2016-06-09T00:00:00-05:00,06-2016,Return to Owner,,Dog,Spayed Female,6 years,Labrador Retriever Mix,Black
+A728717,2016-04-22,,2016-06-10T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Male,1 month,Australian Cattle Dog Mix,Brown
+A728718,2016-04-22,,2016-06-10T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,1 month,Australian Cattle Dog Mix,Brown
+A728704,2016-03-23,,2016-06-11T00:00:00-05:00,06-2016,Adoption,,Dog,Neutered Male,2 months,Black Mouth Cur Mix,Sable/White
+A728962,2016-05-27,,2016-06-11T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Female,2 weeks,Domestic Medium Hair Mix,Tortie
+A728518,2016-03-21,*Violet,2016-06-11T00:00:00-05:00,06-2016,Adoption,,Dog,Spayed Female,2 months,Anatol Shepherd/Labrador Retriever,Tan/White
+A728806,2016-04-09,,2016-06-12T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Male,2 months,Australian Cattle Dog Mix,White/Brown
+A726297,2012-05-09,Bella,2016-06-12T00:00:00-05:00,06-2016,Adoption,,Dog,Spayed Female,4 years,Beagle Mix,Black/Tan
+A726690,2012-05-13,Ice,2016-06-13T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,4 years,Pit Bull Mix,White/Blue
+A725690,2013-05-01,Lucky,2016-06-13T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,3 years,Labrador Retriever/Pit Bull,Chocolate
+A712804,2013-09-28,Choco,2016-06-14T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,2 years,Pit Bull Mix,Black/White
+A728972,2015-06-11,*Reggie,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,1 year,Boston Terrier Mix,Black/White
+A729314,2010-01-16,Emma,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,6 years,Chihuahua Shorthair Mix,Black/Brown
+A729315,2010-01-16,Abby,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,6 years,Chihuahua Shorthair Mix,Tricolor
+A729515,2004-06-19,Oreo,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,12 years,Domestic Shorthair Mix,Black/White
+A728259,2012-06-01,Aces,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,4 years,Miniature Pinscher Mix,Brown
+A720940,2015-02-18,Justin,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,White
+A723269,2006-03-29,Coco,2016-06-20T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,10 years,Rat Terrier Mix,Blue Merle/White
+A639730,2006-06-13,Leo,2016-06-21T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,10 years,Belgian Tervuren/German Shepherd,Brown/Black
+A729220,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Female,2 weeks,Pit Bull Mix,Fawn/White
+A729221,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Female,2 weeks,Pit Bull Mix,Brown/White
+A729222,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Female,2 weeks,Pit Bull Mix,Blue/White
+A729223,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Male,2 weeks,Pit Bull Mix,Blue/White
+A729224,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Male,2 weeks,Pit Bull Mix,Black/White
+A729225,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Male,2 weeks,Pit Bull Mix,Black/White
+A729226,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Male,2 weeks,Pit Bull Mix,Black/White
+A729227,2016-06-02,,2016-06-22T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Male,2 weeks,Pit Bull Mix,Brown/White
+A728057,2015-12-01,Sammy,2016-06-23T00:00:00-05:00,06-2016,Return to Owner,,Dog,Spayed Female,6 months,Labrador Retriever Mix,Black/White
+A729408,2004-06-21,Hailey,2016-06-24T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,12 years,Chihuahua Shorthair Mix,Brown
+A729619,2016-05-14,*Pickle,2016-06-24T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Black/White
+A729620,2016-05-14,*Apricot,2016-06-24T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Tortie
+A729621,2016-05-14,*Peach,2016-06-24T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Female,1 month,Domestic Longhair Mix,Brown Tabby
+A728819,2016-01-09,Glenn,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Male,5 months,Cardigan Welsh Corgi Mix,White/Brown
+A728820,2016-01-09,Maggie,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,5 months,Cardigan Welsh Corgi Mix,Brown
+A729530,2015-06-19,*Tina,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Female,1 year,Domestic Shorthair Mix,Brown Tabby
+A729531,2016-05-10,,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby/White
+A729532,2016-05-10,,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Blue/White
+A729533,2016-05-10,,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Intact Male,1 month,Domestic Shorthair Mix,Brown Tabby/White
+A729203,2012-06-15,*Lana,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,4 years,Labrador Retriever Mix,Black
+A729922,2016-04-25,,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,2 months,Great Dane Mix,White
+A729924,2016-04-25,Lemon,2016-06-26T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,2 months,Great Dane Mix,Black
+A721115,2015-02-21,Cloud Burst,2016-06-26T00:00:00-05:00,06-2016,Adoption,,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Calico
+A729397,2016-04-04,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Blue Tabby
+A729400,2016-04-02,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A729401,2016-04-02,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby/White
+A729267,2016-04-15,*Merry,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Calico
+A729268,2016-04-15,*Jolly,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,White/Brown Tabby
+A729270,2016-04-15,*Happy,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby/White
+A729022,2016-03-28,*Dew,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A729023,2016-03-28,*Spring,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A729016,2016-04-05,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A729017,2016-04-05,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A729020,2016-03-28,*Misty,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black Smoke/White
+A729095,2016-04-13,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Black/White
+A729096,2016-04-13,,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,White/Black
+A729712,2015-06-22,*Doug,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Male,1 year,Queensland Heeler Mix,White/Blue Tick
+A728184,2016-04-16,*Bea,2016-06-27T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black
+A729755,2016-02-23,*Caramel,2016-06-28T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,4 months,Chihuahua Shorthair Mix,Sable
+A730000,2016-04-17,Sade,2016-06-28T00:00:00-05:00,06-2016,Return to Owner,,Dog,Intact Female,2 months,Chihuahua Shorthair Mix,Brown Brindle/White
+A729980,2015-06-26,Lola,2016-06-28T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Female,1 year,Miniature Schnauzer Mix,Black
+A729981,2015-06-26,Peluchin,2016-06-28T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,White/Tan
+A729686,2015-10-22,*Pele,2016-06-28T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,8 months,Chihuahua Shorthair Mix,Sable
+A729578,2011-06-20,*Chloe,2016-06-28T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Spayed Female,5 years,Miniature Poodle Mix,White
+A729250,2016-04-15,*Trinity,2016-06-28T00:00:00-05:00,06-2016,Adoption,,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A729258,2015-06-15,*Loki,2016-06-28T00:00:00-05:00,06-2016,Transfer,Partner,Dog,Neutered Male,1 year,Chihuahua Shorthair Mix,Tan
+A724814,2015-04-22,*Oaxaca,2016-06-28T00:00:00-05:00,06-2016,Adoption,,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Black
+A729214,2016-04-14,,2016-06-29T00:00:00-05:00,06-2016,Adoption,,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Black/White
+A728485,2014-06-04,Poppy,2016-06-29T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Black
+A728482,2014-06-04,,2016-06-29T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Neutered Male,2 years,Domestic Shorthair Mix,Black
+A728483,2014-06-04,,2016-06-29T00:00:00-05:00,06-2016,Transfer,Partner,Cat,Spayed Female,2 years,Domestic Shorthair Mix,Black
+A726369,2016-04-18,,2016-07-01T00:00:00-05:00,07-2016,Adoption,,Cat,Spayed Female,2 months,Domestic Medium Hair Mix,Calico
+A726408,2016-04-10,*Cannoli,2016-07-01T00:00:00-05:00,07-2016,Missing,In Kennel,Cat,Intact Female,2 months,Siamese Mix,Calico Point
+A727119,2016-04-15,*Victoria,2016-07-01T00:00:00-05:00,07-2016,Missing,In Kennel,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A730108,2016-04-13,,2016-07-01T00:00:00-05:00,07-2016,Adoption,,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Brown Tabby
+A729638,2013-06-21,,2016-07-01T00:00:00-05:00,07-2016,Adoption,,Dog,Spayed Female,3 years,Chihuahua Shorthair Mix,Tan
+A718446,2010-12-30,Moo Dog,2016-07-01T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,5 years,Chihuahua Longhair Mix,White/Black
+A730019,2015-12-27,,2016-07-02T00:00:00-05:00,07-2016,Adoption,,Dog,Spayed Female,6 months,German Shepherd Mix,Black/Tan
+A647489,2012-02-11,Odessa,2016-07-03T00:00:00-05:00,07-2016,Return to Owner,,Dog,Spayed Female,4 years,Labrador Retriever/Pit Bull,Red
+A730306,2016-02-05,,2016-07-05T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,4 months,Jack Russell Terrier/Dachshund,Brown/White
+A730313,2015-07-01,*Sam,2016-07-05T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,1 year,Miniature Poodle Mix,Tan
+A730314,2015-07-01,*Woody,2016-07-05T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,1 year,Miniature Poodle Mix,Tan
+A729429,2015-06-18,*Lacy,2016-07-05T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,1 year,Boxer Mix,Brown Brindle/White
+A730087,2015-06-28,*Royce,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,1 year,Labrador Retriever Mix,Black
+A730123,2015-08-28,*Felix,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,10 months,Chihuahua Shorthair,Tan/White
+A730029,2016-04-12,*Buttercup,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,2 months,German Shepherd Mix,Sable
+A729835,2014-06-22,*Cara,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Brown
+A729041,2014-06-12,*Mikey,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,White/Brown
+A727908,2012-05-28,Stuart,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,4 years,Jack Russell Terrier Mix,Tan/White
+A727607,2013-05-24,*Roger,2016-07-06T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,3 years,Pit Bull Mix,Tan/White
+A729972,2016-04-26,,2016-07-07T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,2 months,Labrador Retriever Mix,White/Black
+A730666,2014-07-08,,2016-07-08T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,2 years,West Highland/Maltese,White
+A728068,2014-05-30,*Dante,2016-07-10T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,2 years,Boxer Mix,Brown/White
+A730225,2014-06-30,Bullet,2016-07-11T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,2 years,Catahoula Mix,Brown Brindle/Black
+A728769,2015-09-19,*Blanket,2016-07-11T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,9 months,Pit Bull Mix,Black/White
+A729497,2014-06-19,*Nick,2016-07-12T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,2 years,Chihuahua Shorthair Mix,White/Brown
+A730820,2015-07-11,Baby,2016-07-13T00:00:00-05:00,07-2016,Return to Owner,,Dog,Intact Female,1 year,Pit Bull Mix,Blue/White
+A730208,2016-05-15,*Sally,2016-07-14T00:00:00-05:00,07-2016,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Blue Tabby
+A730693,2012-07-09,*Pepper,2016-07-14T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,4 years,Rat Terrier Mix,White
+A730780,2016-03-26,*Little Joe,2016-07-14T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,3 months,Dachshund/Chihuahua Shorthair,Tricolor
+A730522,2015-07-06,,2016-07-14T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Black/Tan
+A730577,2016-06-23,,2016-07-15T00:00:00-05:00,07-2016,Missing,In Kennel,Cat,Intact Male,3 weeks,Domestic Shorthair Mix,White/Black
+A730667,2011-07-08,*Javier,2016-07-15T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,5 years,Chihuahua Shorthair Mix,Black/Tan
+A699858,2006-04-03,Dolly,2016-07-17T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Spayed Female,10 years,Chihuahua Shorthair Mix,White/Brown
+A727691,2014-11-24,Pico,2016-07-18T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Spayed Female,1 year,Pit Bull Mix,Brown
+A726190,2014-05-07,*Beckie,2016-07-18T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Spayed Female,2 years,Pit Bull Mix,Red/White
+A729623,2015-03-21,Kennedy,2016-07-19T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,1 year,Pit Bull Mix,Blue/White
+A730320,2015-07-01,,2016-07-19T00:00:00-05:00,07-2016,Missing,,Bird,Unknown,1 year,Pigeon Mix,Black
+A610208,2006-09-19,Minnie,2016-07-19T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Spayed Female,9 years,Chihuahua Shorthair Mix,Black/Tan
+A729622,2015-03-21,Deloris,2016-07-20T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,1 year,Pit Bull Mix,Fawn/White
+A731365,2016-06-12,,2016-07-21T00:00:00-05:00,07-2016,Transfer,Partner,Cat,Intact Female,1 month,Domestic Shorthair Mix,Brown Tabby
+A731434,2014-07-22,,2016-07-22T00:00:00-05:00,07-2016,Transfer,Partner,Bird,Unknown,2 years,Heron Mix,Gray/Brown
+A729424,2013-12-18,Capitan,2016-07-24T00:00:00-05:00,07-2016,Adoption,,Dog,Neutered Male,2 years,Pit Bull Mix,White/Brown
+A721909,2015-09-07,Jade,2016-07-24T00:00:00-05:00,07-2016,Adoption,,Dog,Spayed Female,10 months,Pit Bull Mix,Blue/White
+A731285,2016-06-19,Uncle Fester,2016-07-25T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Male,1 month,Pit Bull Mix,White/Tortie
+A730950,2016-03-14,*Rooney,2016-07-25T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,4 months,Labrador Retriever Mix,Tan
+A730951,2016-03-14,*Mara,2016-07-25T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Intact Female,4 months,Labrador Retriever Mix,Tan/White
+A731453,2009-01-22,Marshall,2016-07-26T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,7 years,Shih Tzu,Gold/Cream
+A731710,2016-07-25,,2016-07-27T00:00:00-05:00,07-2016,Transfer,Partner,Cat,Unknown,2 days,Domestic Shorthair Mix,Brown Tabby
+A731711,2016-07-25,,2016-07-27T00:00:00-05:00,07-2016,Transfer,Partner,Cat,Unknown,2 days,Domestic Shorthair Mix,Brown Tabby
+A729019,2015-06-27,*Jensie,2016-07-27T00:00:00-05:00,07-2016,Transfer,Partner,Cat,Neutered Male,1 year,Domestic Shorthair Mix,Orange Tabby/White
+A731060,2016-01-15,,2016-07-28T00:00:00-05:00,07-2016,Transfer,Partner,Bird,Intact Male,6 months,Chicken Mix,Orange
+A731061,2016-01-15,,2016-07-28T00:00:00-05:00,07-2016,Transfer,Partner,Bird,Intact Male,6 months,Chicken Mix,Black
+A728297,2014-12-02,Thor,2016-07-28T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Neutered Male,1 year,Pit Bull Mix,Tan/White
+A726074,2008-11-05,Zoey,2016-07-28T00:00:00-05:00,07-2016,Transfer,Partner,Dog,Spayed Female,7 years,Rhod Ridgeback Mix,Red/White
+A577639,2010-05-09,Lapis Lazuli,2016-07-28T00:00:00-05:00,07-2016,Return to Owner,,Dog,Spayed Female,6 years,Labrador Retriever/Chow Chow,Brown/White
+A731730,2015-07-26,*Franklin,2016-08-01T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Male,1 year,Australian Cattle Dog/Labrador Retriever,Red Tick/White
+A731459,2014-07-22,Sam,2016-08-01T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Female,2 years,German Shepherd Mix,Tan/Black
+A730380,2014-07-03,*Tonka,2016-08-03T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Neutered Male,2 years,Bulldog/Pit Bull,Brown Brindle
+A723300,2014-03-29,*Bambino,2016-08-08T00:00:00-05:00,08-2016,Adoption,,Dog,Neutered Male,2 years,Pit Bull Mix,Brown Brindle/White
+A571610,2008-08-23,Timo,2016-08-08T00:00:00-05:00,08-2016,Adoption,,Dog,Neutered Male,7 years,Labrador Retriever Mix,Chocolate
+A731704,2013-07-26,*Shirley,2016-08-09T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Spayed Female,3 years,Norwich Terrier Mix,Tan
+A732307,2015-08-05,,2016-08-09T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Male,1 year,Chihuahua Shorthair Mix,Black
+A732334,2016-06-10,*Mauricio,2016-08-13T00:00:00-05:00,08-2016,Adoption,,Dog,Neutered Male,2 months,Labrador Retriever Mix,Red
+A731442,2016-04-22,Fred,2016-08-13T00:00:00-05:00,08-2016,Adoption,,Cat,Neutered Male,3 months,Domestic Shorthair Mix,Orange Tabby
+A732540,2016-03-09,*Akelah,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Female,5 months,Domestic Shorthair Mix,Brown Tabby
+A732732,2015-08-12,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Female,1 year,Siamese Mix,Lynx Point
+A732733,2015-08-12,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,1 year,Domestic Shorthair Mix,Black/White
+A732723,2016-06-07,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,2 months,Snowshoe Mix,Flame Point
+A732777,2013-08-13,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,3 years,Domestic Shorthair Mix,Black/White
+A732779,2013-08-13,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,3 years,Domestic Shorthair Mix,Blue/White
+A732780,2013-08-13,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Female,3 years,Domestic Shorthair Mix,White/Black
+A732785,2015-08-13,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Female,1 year,Domestic Shorthair Mix,Black/White
+A732786,2015-08-13,,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,1 year,Domestic Shorthair Mix,Black
+A731896,2015-07-29,Junebug,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Black/White
+A711545,2015-05-08,*Misty,2016-08-14T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Spayed Female,1 year,Domestic Shorthair Mix,Brown Tabby
+A725014,2013-04-24,Tyson,2016-08-15T00:00:00-05:00,08-2016,Adoption,,Dog,Neutered Male,3 years,American Bulldog Mix,White/Brown Brindle
+A732580,2015-08-10,*Katie,2016-08-15T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Female,1 year,Chihuahua Shorthair Mix,Brown/White
+A731450,2015-07-22,*Colby,2016-08-15T00:00:00-05:00,08-2016,Adoption,,Dog,Neutered Male,1 year,Pointer/Boxer,Black/White
+A731359,2015-07-21,Tiny,2016-08-15T00:00:00-05:00,08-2016,Adoption,,Dog,Spayed Female,1 year,Pit Bull Mix,Brown Brindle
+A732477,2016-05-24,Vivi,2016-08-16T00:00:00-05:00,08-2016,Adoption,,Cat,Intact Female,2 months,Domestic Shorthair Mix,Tortie/White
+A732647,2013-08-11,*Josie,2016-08-16T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Female,3 years,Pug Mix,Tan/Black
+A732648,2013-08-11,*Jeffrey,2016-08-16T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Male,3 years,Dachshund Mix,Tan/Black
+A732658,2014-08-11,*Jason,2016-08-16T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Male,2 years,Chihuahua Shorthair Mix,Black
+A732659,2014-08-11,*June,2016-08-16T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Female,2 years,Chihuahua Shorthair Mix,Brown
+A732660,2016-03-11,*Jack,2016-08-16T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Male,5 months,Toy Fox Terrier Mix,Black
+A731670,2016-05-26,,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Orange Tabby
+A731671,2016-05-26,,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby
+A731672,2016-05-26,*Alderson,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Orange Tabby
+A730724,2016-06-09,,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,2 months,Domestic Shorthair Mix,Tortie
+A730725,2016-06-09,,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Male,2 months,Domestic Shorthair Mix,Tortie
+A730721,2015-07-09,*Jasmine,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Female,1 year,Domestic Shorthair Mix,Orange Tabby/White
+A730722,2016-06-09,,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Intact Female,2 months,Domestic Shorthair Mix,Orange Tabby/White
+A732264,2015-12-04,King,2016-08-17T00:00:00-05:00,08-2016,Adoption,,Dog,Neutered Male,8 months,Labrador Retriever Mix,Black
+A732157,2005-08-03,Oso,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Neutered Male,11 years,Border Collie Mix,Black/White
+A732415,2015-08-07,Kerby,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Female,1 year,Labrador Retriever Mix,Black
+A732416,2015-08-07,Peaches,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Intact Female,1 year,Labrador Retriever Mix,Tan
+A732563,2015-08-09,*Shelly,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Spayed Female,1 year,Beagle Mix,Black/White
+A732645,2016-06-11,*Liza,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Spayed Female,2 months,Domestic Shorthair Mix,Calico
+A732740,2015-08-12,Coco,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Dog,Spayed Female,1 year,Chihuahua Shorthair Mix,Brown/White
+A729960,2016-05-12,Colby,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Neutered Male,3 months,Domestic Shorthair Mix,White/Orange Tabby
+A729551,2016-05-20,Jack,2016-08-17T00:00:00-05:00,08-2016,Transfer,Partner,Cat,Neutered Male,2 months,Domestic Shorthair Mix,Brown Tabby
