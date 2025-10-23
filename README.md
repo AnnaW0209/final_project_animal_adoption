@@ -40,16 +40,16 @@ based solely on **intake information** using a machine learning pipeline.
 ---
 
 ## Repository Structure
-final_project_animal_adoption/
-|
-|---- script/ # Python scripts for data cleaning & pairing
-|---- figures/ # All generated plots for EDA and presentation
-|---- raw_data/ # CSV data
-|---- README.md # This file
+final_project_animal_adoption/  
+|  
+|---- script/ # Python scripts for data cleaning & pairing  
+|---- figures/ # All generated plots for EDA and presentation  
+|---- raw_data/ # CSV data  
+|---- README.md # This file  
 
 ---
 
 ## Author
-**Yiqing Wang**
-DSI, Brown University
-[Github Repository Link] (https://github.com/AnnaW0209/final_project_animal_adoption)
+**Yiqing Wang**  
+DSI, Brown University  
+[Github Repository Link](https://github.com/AnnaW0209/final_project_animal_adoption)
