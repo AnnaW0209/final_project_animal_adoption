@@ -1,6 +1,7 @@
 # Shelter Animal Outcome Prediction
 **Multiclass Machine Learning Project**
 
+<<<<<<< HEAD
 This project predicts the **first recorded outcome** of animals entering the Austin Animal Center using intake-level information.  
 Possible outcomes include **Adoption, Transfer, Return to Owner, Euthanasia, and Other**.
 The task is formulated as a **multiclass classification problem** with significant class imbalance.  
@@ -56,16 +57,59 @@ These tables are temporally matched to assign each animal its **first recorded o
 - Baseline comparison
 - Global feature importance via permutation importance
 - Local interpretability using SHAP values
+=======
+This project predicts the first recorded outcome of animals at the Austin Animal Center (Adoption, Transfer, Return to Owner, Euthanasia, or Other) using solely intake-level information. The task is formulated as a multiclass classification problem with strong class imbalance.
+
+---
+
+## Dataset
+The dataset is publicly available from the Austin Animal Center: https://data.austintexas.gov/
+Two tables (intakes and outcomes) are temporally matched to construct labels corresponding to each animal’s first observed outcome.
+
+---
+
+## Data Pipeline
+1. **Download** the *Intakes* and *Outcomes* datasets via Socrata API
+2. **Clean** and convert key fields: timestamp, age in days, missing values
+3. **Pair** intake and outcome events by 'animal_id' and nearest future event time
+4. **EDA**:
+    Outcome classes distribution.
+    Intake features vs Outcomes.
+5. **Splitting&Preprocessing**
+6. **Modeling**:
+    - CV, Hyperparameter tuning, and Model selection
+    - Logistic Regression, Decision Tree, Random Forest, XGBoost
+7. **Results**:
+    - Compare baseline prediction with the best model.
+    - Interprete globally and locally
+    
+---
+
+## Methods
+- Group-aware train/test splitting to prevent leakage across records from the same animal
+- Consolidation of rare outcome categories into a single *Other* class
+- Feature preprocessing with one-hot encoding and scaling
+- Models evaluated: Logistic Regression, Decision Tree, Random Forest, and XGBoost
+- Early stopping for XGBoost using a group-aware validation split
+- Repeated group-based test splits to estimate test-time uncertainty
+- Model interpretability via permutation importance and SHAP values
+>>>>>>> f9c8774 (Final Updates)
 
 ---
 
 ## Results
+<<<<<<< HEAD
 XGBoost achieves the strongest overall performance and consistently outperforms the baseline classifier across repeated group-based test splits.
 
 All generated artifacts are stored as follows:
 - Trained models, predictions, and metrics: `results/`
 - Figures and plots: `figures/`
 - Final report (PDF): `report/`
+=======
+Model performance is evaluated using the macro-averaged F1 score.
+XGBoost achieves the strongest overall performance and consistently outperforms a baseline classifier across repeated test splits. 
+Final predictions, metrics, and trained model artifacts are stored in the `results/` directory.
+>>>>>>> f9c8774 (Final Updates)
 
 ---
 
