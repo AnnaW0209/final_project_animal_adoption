@@ -1,0 +1,1 @@
+{"model":"XGBoost","test_accuracy":0.7267834026,"test_recall_macro":0.3287752832,"test_macro_f1":0.3696413848,"test_macro_fbeta2":0.3379469698}

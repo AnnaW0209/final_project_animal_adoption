@@ -1,0 +1,2 @@
+n_train,n_val,n_test,n_features_before,n_features_after,validation_accuracy,test_accuracy
+51065,10912,10900,7,2123,0.9764479472140762,0.9768807339449541

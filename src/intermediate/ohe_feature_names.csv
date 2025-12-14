@@ -1,0 +1,2123 @@
+0
+animal_type_Bird
+animal_type_Cat
+animal_type_Dog
+animal_type_Livestock
+animal_type_Other
+breed_Abyssinian
+breed_Abyssinian Mix
+breed_Affenpinscher Mix
+breed_Afghan Hound/Labrador Retriever
+breed_Airedale Terrier Mix
+breed_Airedale Terrier/Irish Terrier
+breed_Airedale Terrier/Labrador Retriever
+breed_Airedale Terrier/Otterhound
+breed_Akbash Mix
+breed_Akita
+breed_Akita Mix
+breed_Akita/Australian Cattle Dog
+breed_Akita/Border Collie
+breed_Akita/German Shepherd
+breed_Akita/Great Pyrenees
+breed_Akita/Labrador Retriever
+breed_Akita/Pit Bull
+breed_Alaskan Husky
+breed_Alaskan Husky Mix
+breed_Alaskan Husky/Australian Shepherd
+breed_Alaskan Husky/Border Collie
+breed_Alaskan Husky/Chow Chow
+breed_Alaskan Husky/German Shepherd
+breed_Alaskan Husky/Labrador Retriever
+breed_Alaskan Malamute
+breed_Alaskan Malamute Mix
+breed_Alaskan Malamute/Border Collie
+breed_Alaskan Malamute/Labrador Retriever
+breed_American
+breed_American Bulldog
+breed_American Bulldog Mix
+breed_American Bulldog/American Pit Bull Terrier
+breed_American Bulldog/American Staffordshire Terrier
+breed_American Bulldog/Australian Cattle Dog
+breed_American Bulldog/Basset Hound
+breed_American Bulldog/Blue Lacy
+breed_American Bulldog/Boxer
+breed_American Bulldog/Dalmatian
+breed_American Bulldog/Labrador Retriever
+breed_American Bulldog/Mastiff
+breed_American Bulldog/Pit Bull
+breed_American Bulldog/Plott Hound
+breed_American Bulldog/Pointer
+breed_American Bulldog/Queensland Heeler
+breed_American Curl Shorthair
+breed_American Curl Shorthair Mix
+breed_American Eskimo
+breed_American Eskimo Mix
+breed_American Foxhound
+breed_American Foxhound Mix
+breed_American Foxhound/Beagle
+breed_American Foxhound/Labrador Retriever
+breed_American Mix
+breed_American Pit Bull Terrier
+breed_American Pit Bull Terrier Mix
+breed_American Pit Bull Terrier/Alaskan Husky
+breed_American Pit Bull Terrier/American Pit Bull Terrier
+breed_American Pit Bull Terrier/Basenji
+breed_American Pit Bull Terrier/Basset Hound
+breed_American Pit Bull Terrier/Black Mouth Cur
+breed_American Pit Bull Terrier/Boxer
+breed_American Pit Bull Terrier/Labrador Retriever
+breed_American Pit Bull Terrier/Pit Bull
+breed_American Shorthair
+breed_American Shorthair Mix
+breed_American Staffordshire Terrier
+breed_American Staffordshire Terrier Mix
+breed_American Staffordshire Terrier/American Bulldog
+breed_American Staffordshire Terrier/Australian Cattle Dog
+breed_American Staffordshire Terrier/Boston Terrier
+breed_American Staffordshire Terrier/Chinese Sharpei
+breed_American Staffordshire Terrier/French Bulldog
+breed_American Staffordshire Terrier/Labrador Retriever
+breed_American Staffordshire Terrier/Pit Bull
+breed_American Staffordshire Terrier/Rhod Ridgeback
+breed_Anatol Shepherd
+breed_Anatol Shepherd Mix
+breed_Anatol Shepherd/Australian Cattle Dog
+breed_Anatol Shepherd/Beagle
+breed_Anatol Shepherd/Belgian Malinois
+breed_Anatol Shepherd/Border Collie
+breed_Anatol Shepherd/Catahoula
+breed_Anatol Shepherd/Chow Chow
+breed_Anatol Shepherd/German Shepherd
+breed_Anatol Shepherd/Great Dane
+breed_Anatol Shepherd/Great Pyrenees
+breed_Anatol Shepherd/Labrador Retriever
+breed_Anatol Shepherd/Redbone Hound
+breed_Anatol Shepherd/St. Bernard Smooth Coat
+breed_Angora Mix
+breed_Angora-English
+breed_Angora-English Mix
+breed_Angora-French Mix
+breed_Armadillo
+breed_Australian Cattle Dog
+breed_Australian Cattle Dog Mix
+breed_Australian Cattle Dog/Akita
+breed_Australian Cattle Dog/Alaskan Husky
+breed_Australian Cattle Dog/American Foxhound
+breed_Australian Cattle Dog/American Pit Bull Terrier
+breed_Australian Cattle Dog/American Staffordshire Terrier
+breed_Australian Cattle Dog/Anatol Shepherd
+breed_Australian Cattle Dog/Australian Cattle Dog
+breed_Australian Cattle Dog/Australian Shepherd
+breed_Australian Cattle Dog/Basenji
+breed_Australian Cattle Dog/Beagle
+breed_Australian Cattle Dog/Belgian Malinois
+breed_Australian Cattle Dog/Bernese Mountain Dog
+breed_Australian Cattle Dog/Bloodhound
+breed_Australian Cattle Dog/Blue Lacy
+breed_Australian Cattle Dog/Border Collie
+breed_Australian Cattle Dog/Boston Terrier
+breed_Australian Cattle Dog/Boxer
+breed_Australian Cattle Dog/Bull Terrier
+breed_Australian Cattle Dog/Cairn Terrier
+breed_Australian Cattle Dog/Cardigan Welsh Corgi
+breed_Australian Cattle Dog/Catahoula
+breed_Australian Cattle Dog/Chinese Sharpei
+breed_Australian Cattle Dog/Chow Chow
+breed_Australian Cattle Dog/Collie Rough
+breed_Australian Cattle Dog/Collie Smooth
+breed_Australian Cattle Dog/Dachshund
+breed_Australian Cattle Dog/German Shepherd
+breed_Australian Cattle Dog/German Shorthair Pointer
+breed_Australian Cattle Dog/Great Pyrenees
+breed_Australian Cattle Dog/Jack Russell Terrier
+breed_Australian Cattle Dog/Labrador Retriever
+breed_Australian Cattle Dog/Parson Russell Terrier
+breed_Australian Cattle Dog/Patterdale Terr
+breed_Australian Cattle Dog/Pembroke Welsh Corgi
+breed_Australian Cattle Dog/Pit Bull
+breed_Australian Cattle Dog/Plott Hound
+breed_Australian Cattle Dog/Pointer
+breed_Australian Cattle Dog/Rhod Ridgeback
+breed_Australian Cattle Dog/Siberian Husky
+breed_Australian Cattle Dog/St. Bernard Smooth Coat
+breed_Australian Cattle Dog/Staffordshire
+breed_Australian Cattle Dog/Vizsla
+breed_Australian Cattle Dog/Wire Hair Fox Terrier
+breed_Australian Kelpie
+breed_Australian Kelpie Mix
+breed_Australian Kelpie/American Pit Bull Terrier
+breed_Australian Kelpie/Basenji
+breed_Australian Kelpie/Beagle
+breed_Australian Kelpie/Border Collie
+breed_Australian Kelpie/Bull Terrier
+breed_Australian Kelpie/Cardigan Welsh Corgi
+breed_Australian Kelpie/Catahoula
+breed_Australian Kelpie/Chihuahua Longhair
+breed_Australian Kelpie/Chinese Sharpei
+breed_Australian Kelpie/Collie Smooth
+breed_Australian Kelpie/Dachshund
+breed_Australian Kelpie/Finnish Spitz
+breed_Australian Kelpie/German Shepherd
+breed_Australian Kelpie/Labrador Retriever
+breed_Australian Kelpie/Pit Bull
+breed_Australian Kelpie/Rat Terrier
+breed_Australian Kelpie/Shiba Inu
+breed_Australian Kelpie/Siberian Husky
+breed_Australian Kelpie/Staffordshire
+breed_Australian Kelpie/Whippet
+breed_Australian Shepherd
+breed_Australian Shepherd Mix
+breed_Australian Shepherd/Alaskan Husky
+breed_Australian Shepherd/Australian Cattle Dog
+breed_Australian Shepherd/Australian Kelpie
+breed_Australian Shepherd/Australian Shepherd
+breed_Australian Shepherd/Basset Hound
+breed_Australian Shepherd/Border Collie
+breed_Australian Shepherd/Border Terrier
+breed_Australian Shepherd/Catahoula
+breed_Australian Shepherd/Chow Chow
+breed_Australian Shepherd/Cocker Spaniel
+breed_Australian Shepherd/Collie Rough
+breed_Australian Shepherd/Collie Smooth
+breed_Australian Shepherd/English Springer Spaniel
+breed_Australian Shepherd/German Shepherd
+breed_Australian Shepherd/Great Pyrenees
+breed_Australian Shepherd/Greyhound
+breed_Australian Shepherd/Labrador Retriever
+breed_Australian Shepherd/Nova Scotia Duck Tolling Retriever
+breed_Australian Shepherd/Pit Bull
+breed_Australian Shepherd/Plott Hound
+breed_Australian Shepherd/Siberian Husky
+breed_Australian Terrier Mix
+breed_Balinese Mix
+breed_Bantam Mix
+breed_Barred Rock
+breed_Basenji
+breed_Basenji Mix
+breed_Basenji/Australian Cattle Dog
+breed_Basenji/Australian Kelpie
+breed_Basenji/Carolina Dog
+breed_Basenji/Jack Russell Terrier
+breed_Basenji/Labrador Retriever
+breed_Basset Hound
+breed_Basset Hound Mix
+breed_Basset Hound/Australian Cattle Dog
+breed_Basset Hound/Australian Shepherd
+breed_Basset Hound/Beagle
+breed_Basset Hound/Border Collie
+breed_Basset Hound/Boxer
+breed_Basset Hound/Cairn Terrier
+breed_Basset Hound/Cardigan Welsh Corgi
+breed_Basset Hound/Chinese Sharpei
+breed_Basset Hound/French Bulldog
+breed_Basset Hound/German Shepherd
+breed_Basset Hound/Labrador Retriever
+breed_Basset Hound/Pit Bull
+breed_Basset Hound/Pointer
+breed_Bat
+breed_Bat Mix
+breed_Beagle
+breed_Beagle Mix
+breed_Beagle/Australian Cattle Dog
+breed_Beagle/Australian Shepherd
+breed_Beagle/Basset Hound
+breed_Beagle/Black Mouth Cur
+breed_Beagle/Boxer
+breed_Beagle/Catahoula
+breed_Beagle/Cavalier Span
+breed_Beagle/Chihuahua Shorthair
+breed_Beagle/Dachshund
+breed_Beagle/German Shepherd
+breed_Beagle/Harrier
+breed_Beagle/Labrador Retriever
+breed_Beagle/Manchester Terrier
+breed_Beagle/Miniature Pinscher
+breed_Beagle/Parson Russell Terrier
+breed_Beagle/Pekingese
+breed_Beagle/Pit Bull
+breed_Beagle/Plott Hound
+breed_Beagle/Pointer
+breed_Beagle/Pug
+breed_Beagle/Queensland Heeler
+breed_Beagle/Rat Terrier
+breed_Beagle/Staffordshire
+breed_Beagle/Vizsla
+breed_Beagle/Whippet
+breed_Bearded Collie
+breed_Bearded Collie Mix
+breed_Bearded Collie/Beagle
+breed_Bearded Collie/Labrador Retriever
+breed_Beauceron
+breed_Beauceron Mix
+breed_Beauceron/Labrador Retriever
+breed_Belgian Hare
+breed_Belgian Hare Mix
+breed_Belgian Malinois
+breed_Belgian Malinois Mix
+breed_Belgian Malinois/Belgian Tervuren
+breed_Belgian Malinois/German Shepherd
+breed_Belgian Malinois/Labrador Retriever
+breed_Belgian Malinois/Siberian Husky
+breed_Belgian Sheepdog Mix
+breed_Belgian Tervuren Mix
+breed_Belgian Tervuren/German Shepherd
+breed_Bengal
+breed_Bengal Mix
+breed_Bernese Hound Mix
+breed_Bernese Mountain Dog Mix
+breed_Bernese Mountain Dog/Rottweiler
+breed_Beveren Mix
+breed_Bichon Frise
+breed_Bichon Frise Mix
+breed_Bichon Frise/Cocker Spaniel
+breed_Bichon Frise/Miniature Poodle
+breed_Bichon Frise/Pekingese
+breed_Bichon Frise/Toy Poodle
+breed_Black Mix
+breed_Black Mouth Cur
+breed_Black Mouth Cur Mix
+breed_Black Mouth Cur/American Staffordshire Terrier
+breed_Black Mouth Cur/Australian Cattle Dog
+breed_Black Mouth Cur/Basset Hound
+breed_Black Mouth Cur/Beagle
+breed_Black Mouth Cur/Black Mouth Cur
+breed_Black Mouth Cur/Blue Lacy
+breed_Black Mouth Cur/Boxer
+breed_Black Mouth Cur/Bulldog
+breed_Black Mouth Cur/Catahoula
+breed_Black Mouth Cur/Chinese Sharpei
+breed_Black Mouth Cur/Doberman Pinsch
+breed_Black Mouth Cur/German Shepherd
+breed_Black Mouth Cur/Great Dane
+breed_Black Mouth Cur/Labrador Retriever
+breed_Black Mouth Cur/Mastiff
+breed_Black Mouth Cur/Pit Bull
+breed_Black Mouth Cur/Plott Hound
+breed_Black Mouth Cur/Pointer
+breed_Black Mouth Cur/Rhod Ridgeback
+breed_Black Mouth Cur/Siberian Husky
+breed_Black Mouth Cur/Staffordshire
+breed_Black/Tan Hound
+breed_Black/Tan Hound Mix
+breed_Black/Tan Hound/Beagle
+breed_Black/Tan Hound/Doberman Pinsch
+breed_Black/Tan Hound/German Shepherd
+breed_Black/Tan Hound/Labrador Retriever
+breed_Bloodhound
+breed_Bloodhound Mix
+breed_Bloodhound/German Shepherd
+breed_Bloodhound/Great Pyrenees
+breed_Blue Lacy
+breed_Blue Lacy Mix
+breed_Blue Lacy/Australian Cattle Dog
+breed_Blue Lacy/Australian Kelpie
+breed_Blue Lacy/Black Mouth Cur
+breed_Blue Lacy/Great Dane
+breed_Blue Lacy/Labrador Retriever
+breed_Blue Lacy/Pit Bull
+breed_Blue Lacy/Pointer
+breed_Bluetick Hound
+breed_Bluetick Hound Mix
+breed_Bluetick Hound/Australian Kelpie
+breed_Bluetick Hound/Treeing Walker Coonhound
+breed_Boerboel Mix
+breed_Bombay Mix
+breed_Border Collie
+breed_Border Collie Mix
+breed_Border Collie/Akita
+breed_Border Collie/Alaskan Husky
+breed_Border Collie/Anatol Shepherd
+breed_Border Collie/Australian Cattle Dog
+breed_Border Collie/Australian Kelpie
+breed_Border Collie/Australian Shepherd
+breed_Border Collie/Basenji
+breed_Border Collie/Beagle
+breed_Border Collie/Bernese Mountain Dog
+breed_Border Collie/Boxer
+breed_Border Collie/Bull Terrier
+breed_Border Collie/Cardigan Welsh Corgi
+breed_Border Collie/Catahoula
+breed_Border Collie/Chow Chow
+breed_Border Collie/Dachshund
+breed_Border Collie/Doberman Pinsch
+breed_Border Collie/Finnish Spitz
+breed_Border Collie/German Shepherd
+breed_Border Collie/Great Pyrenees
+breed_Border Collie/Greyhound
+breed_Border Collie/Labrador Retriever
+breed_Border Collie/Mastiff
+breed_Border Collie/Parson Russell Terrier
+breed_Border Collie/Pembroke Welsh Corgi
+breed_Border Collie/Pit Bull
+breed_Border Collie/Queensland Heeler
+breed_Border Collie/Siberian Husky
+breed_Border Collie/Whippet
+breed_Border Terrier
+breed_Border Terrier Mix
+breed_Border Terrier/Chihuahua Shorthair
+breed_Border Terrier/Dachshund
+breed_Border Terrier/Soft Coated Wheaten Terrier
+breed_Border Terrier/Yorkshire Terrier
+breed_Boston Terrier
+breed_Boston Terrier Mix
+breed_Boston Terrier/Boxer
+breed_Boston Terrier/Chihuahua Shorthair
+breed_Boston Terrier/Dachshund
+breed_Boston Terrier/French Bulldog
+breed_Boston Terrier/Miniature Schnauzer
+breed_Boston Terrier/Pembroke Welsh Corgi
+breed_Boston Terrier/Pointer
+breed_Boston Terrier/Pug
+breed_Boston Terrier/Siberian Husky
+breed_Boxer
+breed_Boxer Mix
+breed_Boxer/American Bulldog
+breed_Boxer/American Pit Bull Terrier
+breed_Boxer/American Staffordshire Terrier
+breed_Boxer/Anatol Shepherd
+breed_Boxer/Australian Cattle Dog
+breed_Boxer/Beagle
+breed_Boxer/Black Mouth Cur
+breed_Boxer/Border Collie
+breed_Boxer/Boston Terrier
+breed_Boxer/Boxer
+breed_Boxer/Bulldog
+breed_Boxer/Bullmastiff
+breed_Boxer/Catahoula
+breed_Boxer/Chinese Sharpei
+breed_Boxer/Chow Chow
+breed_Boxer/Collie Smooth
+breed_Boxer/Dalmatian
+breed_Boxer/English Bulldog
+breed_Boxer/German Shepherd
+breed_Boxer/Great Dane
+breed_Boxer/Greyhound
+breed_Boxer/Jack Russell Terrier
+breed_Boxer/Labrador Retriever
+breed_Boxer/Mastiff
+breed_Boxer/Pit Bull
+breed_Boxer/Plott Hound
+breed_Boxer/Pointer
+breed_Boxer/Pug
+breed_Boxer/Queensland Heeler
+breed_Boxer/Redbone Hound
+breed_Boxer/Rhod Ridgeback
+breed_Boxer/Staffordshire
+breed_Boykin Span Mix
+breed_Briard
+breed_British Shorthair Mix
+breed_Brittany
+breed_Brittany Mix
+breed_Brittany/Labrador Retriever
+breed_Bruss Griffon
+breed_Bruss Griffon Mix
+breed_Bruss Griffon/Cairn Terrier
+breed_Bruss Griffon/Dachshund
+breed_Bruss Griffon/Pug
+breed_Bruss Griffon/Yorkshire Terrier
+breed_Bull Terrier
+breed_Bull Terrier Miniature
+breed_Bull Terrier Miniature Mix
+breed_Bull Terrier Mix
+breed_Bull Terrier/Australian Cattle Dog
+breed_Bull Terrier/Australian Kelpie
+breed_Bull Terrier/Black Mouth Cur
+breed_Bull Terrier/Labrador Retriever
+breed_Bull Terrier/Pit Bull
+breed_Bulldog
+breed_Bulldog Mix
+breed_Bulldog/American Bulldog
+breed_Bulldog/Boxer
+breed_Bulldog/Pit Bull
+breed_Bulldog/Staffordshire
+breed_Bullmastiff
+breed_Bullmastiff Mix
+breed_Bullmastiff/Boxer
+breed_Bullmastiff/Pit Bull
+breed_Burmese
+breed_Cairn Terrier
+breed_Cairn Terrier Mix
+breed_Cairn Terrier/Affenpinscher
+breed_Cairn Terrier/Cairn Terrier
+breed_Cairn Terrier/Chihuahua Longhair
+breed_Cairn Terrier/Chihuahua Shorthair
+breed_Cairn Terrier/Dachshund
+breed_Cairn Terrier/Dachshund Wirehair
+breed_Cairn Terrier/Lhasa Apso
+breed_Cairn Terrier/Miniature Poodle
+breed_Cairn Terrier/Miniature Schnauzer
+breed_Cairn Terrier/Pit Bull
+breed_Cairn Terrier/Scottish Terrier
+breed_Cairn Terrier/Yorkshire Terrier
+breed_Californian
+breed_Californian Mix
+breed_Canaan Dog Mix
+breed_Canaan Dog/English Springer Spaniel
+breed_Canaan Dog/Labrador Retriever
+breed_Canaan Dog/Redbone Hound
+breed_Cane Corso
+breed_Cane Corso Mix
+breed_Cane Corso/Blue Lacy
+breed_Cane Corso/Pit Bull
+breed_Cardigan Welsh Corgi
+breed_Cardigan Welsh Corgi Mix
+breed_Cardigan Welsh Corgi/American Eskimo
+breed_Cardigan Welsh Corgi/Australian Kelpie
+breed_Cardigan Welsh Corgi/Beagle
+breed_Cardigan Welsh Corgi/Blue Lacy
+breed_Cardigan Welsh Corgi/Bulldog
+breed_Cardigan Welsh Corgi/Chihuahua Longhair
+breed_Cardigan Welsh Corgi/Chihuahua Shorthair
+breed_Cardigan Welsh Corgi/German Shepherd
+breed_Cardigan Welsh Corgi/Golden Retriever
+breed_Cardigan Welsh Corgi/Jack Russell Terrier
+breed_Cardigan Welsh Corgi/Jindo
+breed_Cardigan Welsh Corgi/Labrador Retriever
+breed_Cardigan Welsh Corgi/Miniature Pinscher
+breed_Cardigan Welsh Corgi/Pomeranian
+breed_Carolina Dog
+breed_Carolina Dog Mix
+breed_Carolina Dog/Alaskan Husky
+breed_Carolina Dog/American Pit Bull Terrier
+breed_Carolina Dog/Black Mouth Cur
+breed_Carolina Dog/Canaan Dog
+breed_Carolina Dog/Chihuahua Shorthair
+breed_Carolina Dog/Collie Smooth
+breed_Carolina Dog/Pit Bull
+breed_Catahoula
+breed_Catahoula Mix
+breed_Catahoula/Alaskan Husky
+breed_Catahoula/Australian Cattle Dog
+breed_Catahoula/Basset Hound
+breed_Catahoula/Beagle
+breed_Catahoula/Black Mouth Cur
+breed_Catahoula/Boxer
+breed_Catahoula/Bulldog
+breed_Catahoula/Cardigan Welsh Corgi
+breed_Catahoula/Chinese Sharpei
+breed_Catahoula/German Shepherd
+breed_Catahoula/Great Dane
+breed_Catahoula/Great Pyrenees
+breed_Catahoula/Harrier
+breed_Catahoula/Irish Wolfhound
+breed_Catahoula/Jack Russell Terrier
+breed_Catahoula/Labrador Retriever
+breed_Catahoula/Mastiff
+breed_Catahoula/Pit Bull
+breed_Catahoula/Plott Hound
+breed_Catahoula/Pointer
+breed_Catahoula/Rottweiler
+breed_Catahoula/Siberian Husky
+breed_Catahoula/Staffordshire
+breed_Catahoula/Whippet
+breed_Cavalier Span
+breed_Cavalier Span Mix
+breed_Chartreux Mix
+breed_Checkered Giant Mix
+breed_Chesa Bay Retr
+breed_Chesa Bay Retr Mix
+breed_Chesa Bay Retr/Chinese Sharpei
+breed_Chesa Bay Retr/Labrador Retriever
+breed_Chicken
+breed_Chicken Mix
+breed_Chihuahua Longhair
+breed_Chihuahua Longhair Mix
+breed_Chihuahua Longhair/Border Terrier
+breed_Chihuahua Longhair/Cardigan Welsh Corgi
+breed_Chihuahua Longhair/Chihuahua Shorthair
+breed_Chihuahua Longhair/Dachshund
+breed_Chihuahua Longhair/Dachshund Longhair
+breed_Chihuahua Longhair/Italian Greyhound
+breed_Chihuahua Longhair/Maltese
+breed_Chihuahua Longhair/Norfolk Terrier
+breed_Chihuahua Longhair/Papillon
+breed_Chihuahua Longhair/Pekingese
+breed_Chihuahua Longhair/Pomeranian
+breed_Chihuahua Longhair/Pug
+breed_Chihuahua Longhair/Rat Terrier
+breed_Chihuahua Longhair/Silky Terrier
+breed_Chihuahua Longhair/West Highland
+breed_Chihuahua Longhair/Yorkshire Terrier
+breed_Chihuahua Shorthair
+breed_Chihuahua Shorthair Mix
+breed_Chihuahua Shorthair/Affenpinscher
+breed_Chihuahua Shorthair/American Staffordshire Terrier
+breed_Chihuahua Shorthair/Australian Cattle Dog
+breed_Chihuahua Shorthair/Basenji
+breed_Chihuahua Shorthair/Beagle
+breed_Chihuahua Shorthair/Border Terrier
+breed_Chihuahua Shorthair/Boston Terrier
+breed_Chihuahua Shorthair/Cairn Terrier
+breed_Chihuahua Shorthair/Cardigan Welsh Corgi
+breed_Chihuahua Shorthair/Catahoula
+breed_Chihuahua Shorthair/Cirneco
+breed_Chihuahua Shorthair/Dachshund
+breed_Chihuahua Shorthair/Dachshund Wirehair
+breed_Chihuahua Shorthair/Finnish Spitz
+breed_Chihuahua Shorthair/French Bulldog
+breed_Chihuahua Shorthair/German Shepherd
+breed_Chihuahua Shorthair/Italian Greyhound
+breed_Chihuahua Shorthair/Jack Russell Terrier
+breed_Chihuahua Shorthair/Labrador Retriever
+breed_Chihuahua Shorthair/Manchester Terrier
+breed_Chihuahua Shorthair/Mexican Hairless
+breed_Chihuahua Shorthair/Miniature Pinscher
+breed_Chihuahua Shorthair/Miniature Poodle
+breed_Chihuahua Shorthair/Norwich Terrier
+breed_Chihuahua Shorthair/Parson Russell Terrier
+breed_Chihuahua Shorthair/Pekingese
+breed_Chihuahua Shorthair/Pembroke Welsh Corgi
+breed_Chihuahua Shorthair/Pit Bull
+breed_Chihuahua Shorthair/Pomeranian
+breed_Chihuahua Shorthair/Pug
+breed_Chihuahua Shorthair/Queensland Heeler
+breed_Chihuahua Shorthair/Rat Terrier
+breed_Chihuahua Shorthair/Shih Tzu
+breed_Chihuahua Shorthair/Standard Schnauzer
+breed_Chihuahua Shorthair/Swedish Vallhund
+breed_Chihuahua Shorthair/Toy Fox Terrier
+breed_Chihuahua Shorthair/Welsh Terrier
+breed_Chihuahua Shorthair/Whippet
+breed_Chihuahua Shorthair/Wire Hair Fox Terrier
+breed_Chihuahua Shorthair/Yorkshire Terrier
+breed_Chinchilla-Amer
+breed_Chinchilla-Amer Mix
+breed_Chinchilla-Stnd Mix
+breed_Chinese Crested
+breed_Chinese Crested Mix
+breed_Chinese Crested/Chihuahua Shorthair
+breed_Chinese Crested/Cocker Spaniel
+breed_Chinese Sharpei
+breed_Chinese Sharpei Mix
+breed_Chinese Sharpei/American Bulldog
+breed_Chinese Sharpei/American Staffordshire Terrier
+breed_Chinese Sharpei/Australian Cattle Dog
+breed_Chinese Sharpei/Basset Hound
+breed_Chinese Sharpei/Beagle
+breed_Chinese Sharpei/Black Mouth Cur
+breed_Chinese Sharpei/Border Terrier
+breed_Chinese Sharpei/Boxer
+breed_Chinese Sharpei/Chow Chow
+breed_Chinese Sharpei/German Shepherd
+breed_Chinese Sharpei/Great Dane
+breed_Chinese Sharpei/Labrador Retriever
+breed_Chinese Sharpei/Pit Bull
+breed_Chinese Sharpei/Rat Terrier
+breed_Chow Chow
+breed_Chow Chow Mix
+breed_Chow Chow/Alaskan Husky
+breed_Chow Chow/American Eskimo
+breed_Chow Chow/Australian Cattle Dog
+breed_Chow Chow/Basset Hound
+breed_Chow Chow/Doberman Pinsch
+breed_Chow Chow/German Shepherd
+breed_Chow Chow/Golden Retriever
+breed_Chow Chow/Labrador Retriever
+breed_Chow Chow/Pekingese
+breed_Chow Chow/Rottweiler
+breed_Chow Chow/Siberian Husky
+breed_Cinnamon
+breed_Cinnamon Mix
+breed_Clumber Spaniel
+breed_Clumber Spaniel Mix
+breed_Cockatiel Mix
+breed_Cockatoo
+breed_Cocker Spaniel
+breed_Cocker Spaniel Mix
+breed_Cocker Spaniel/Australian Terrier
+breed_Cocker Spaniel/Chihuahua Shorthair
+breed_Cocker Spaniel/German Shepherd
+breed_Cocker Spaniel/Labrador Retriever
+breed_Cocker Spaniel/Miniature Schnauzer
+breed_Cocker Spaniel/Pembroke Welsh Corgi
+breed_Cold Water
+breed_Cold Water Mix
+breed_Collie Rough
+breed_Collie Rough Mix
+breed_Collie Rough/Anatol Shepherd
+breed_Collie Rough/Australian Cattle Dog
+breed_Collie Rough/Chinese Sharpei
+breed_Collie Rough/German Shepherd
+breed_Collie Rough/Great Pyrenees
+breed_Collie Smooth
+breed_Collie Smooth Mix
+breed_Collie Smooth/Australian Cattle Dog
+breed_Collie Smooth/Australian Kelpie
+breed_Collie Smooth/Boxer
+breed_Collie Smooth/Catahoula
+breed_Collie Smooth/Chow Chow
+breed_Collie Smooth/German Shepherd
+breed_Collie Smooth/Golden Retriever
+breed_Collie Smooth/Labrador Retriever
+breed_Collie Smooth/Wire Hair Fox Terrier
+breed_Curly Coat Retriever
+breed_Cymric Mix
+breed_Dachshund
+breed_Dachshund Longhair
+breed_Dachshund Longhair Mix
+breed_Dachshund Longhair/Chihuahua Longhair
+breed_Dachshund Longhair/Chihuahua Shorthair
+breed_Dachshund Longhair/Cocker Spaniel
+breed_Dachshund Longhair/Maltese
+breed_Dachshund Longhair/Miniature Poodle
+breed_Dachshund Mix
+breed_Dachshund Wirehair
+breed_Dachshund Wirehair Mix
+breed_Dachshund Wirehair/Cairn Terrier
+breed_Dachshund Wirehair/Chihuahua Longhair
+breed_Dachshund Wirehair/Chihuahua Shorthair
+breed_Dachshund Wirehair/Manchester Terrier
+breed_Dachshund Wirehair/Miniature Poodle
+breed_Dachshund Wirehair/Norfolk Terrier
+breed_Dachshund Wirehair/Pbgv
+breed_Dachshund/American Pit Bull Terrier
+breed_Dachshund/American Staffordshire Terrier
+breed_Dachshund/Australian Cattle Dog
+breed_Dachshund/Australian Kelpie
+breed_Dachshund/Beagle
+breed_Dachshund/Blue Lacy
+breed_Dachshund/Boston Terrier
+breed_Dachshund/Bull Terrier
+breed_Dachshund/Cardigan Welsh Corgi
+breed_Dachshund/Chihuahua Longhair
+breed_Dachshund/Chihuahua Shorthair
+breed_Dachshund/Cocker Spaniel
+breed_Dachshund/Dachshund
+breed_Dachshund/Doberman Pinsch
+breed_Dachshund/German Shepherd
+breed_Dachshund/Greyhound
+breed_Dachshund/Italian Greyhound
+breed_Dachshund/Jack Russell Terrier
+breed_Dachshund/Labrador Retriever
+breed_Dachshund/Manchester Terrier
+breed_Dachshund/Miniature Pinscher
+breed_Dachshund/Miniature Poodle
+breed_Dachshund/Parson Russell Terrier
+breed_Dachshund/Pit Bull
+breed_Dachshund/Rat Terrier
+breed_Dachshund/Shetland Sheepdog
+breed_Dachshund/Shih Tzu
+breed_Dachshund/Standard Schnauzer
+breed_Dachshund/Swedish Vallhund
+breed_Dachshund/Whippet
+breed_Dachshund/Yorkshire Terrier
+breed_Dalmatian
+breed_Dalmatian Mix
+breed_Dalmatian/Australian Cattle Dog
+breed_Dalmatian/English Springer Spaniel
+breed_Dalmatian/Labrador Retriever
+breed_Dalmatian/Pit Bull
+breed_Dalmatian/Pointer
+breed_Dandie Dinmont Mix
+breed_Deer
+breed_Devon Rex
+breed_Devon Rex Mix
+breed_Doberman Pinsch
+breed_Doberman Pinsch Mix
+breed_Doberman Pinsch/Australian Cattle Dog
+breed_Doberman Pinsch/Beagle
+breed_Doberman Pinsch/Beauceron
+breed_Doberman Pinsch/Black Mouth Cur
+breed_Doberman Pinsch/Chihuahua Shorthair
+breed_Doberman Pinsch/German Shepherd
+breed_Doberman Pinsch/Greyhound
+breed_Doberman Pinsch/Labrador Retriever
+breed_Doberman Pinsch/Miniature Pinscher
+breed_Doberman Pinsch/Pit Bull
+breed_Dogo Argentino
+breed_Dogo Argentino Mix
+breed_Dogo Argentino/Boxer
+breed_Dogo Argentino/Labrador Retriever
+breed_Dogue De Bordeaux
+breed_Dogue De Bordeaux Mix
+breed_Domestic Longhair
+breed_Domestic Longhair Mix
+breed_Domestic Longhair/Persian
+breed_Domestic Longhair/Siamese
+breed_Domestic Medium Hair
+breed_Domestic Medium Hair Mix
+breed_Domestic Medium Hair/Maine Coon
+breed_Domestic Medium Hair/Manx
+breed_Domestic Shorthair
+breed_Domestic Shorthair Mix
+breed_Domestic Shorthair/Abyssinian
+breed_Domestic Shorthair/Bengal
+breed_Domestic Shorthair/Domestic Shorthair
+breed_Domestic Shorthair/Maine Coon
+breed_Domestic Shorthair/Manx
+breed_Domestic Shorthair/Siamese
+breed_Dove
+breed_Duck
+breed_Duck Mix
+breed_Dutch
+breed_Dutch Mix
+breed_Dutch Shepherd
+breed_Dutch Shepherd Mix
+breed_Dutch Shepherd/Boxer
+breed_Dutch Shepherd/Labrador Retriever
+breed_Dutch Shepherd/Plott Hound
+breed_Dutch/Angora-Satin
+breed_Dwarf Hotot
+breed_Eng Toy Spaniel Mix
+breed_English Bulldog
+breed_English Bulldog Mix
+breed_English Bulldog/Boxer
+breed_English Bulldog/Pit Bull
+breed_English Bulldog/Staffordshire
+breed_English Cocker Spaniel Mix
+breed_English Cocker Spaniel/Pembroke Welsh Corgi
+breed_English Coonhound
+breed_English Coonhound Mix
+breed_English Coonhound/Doberman Pinsch
+breed_English Coonhound/Labrador Retriever
+breed_English Coonhound/Siberian Husky
+breed_English Foxhound
+breed_English Foxhound Mix
+breed_English Foxhound/Pointer
+breed_English Foxhound/Smooth Fox Terrier
+breed_English Pointer
+breed_English Pointer Mix
+breed_English Pointer/Australian Cattle Dog
+breed_English Pointer/Boxer
+breed_English Setter
+breed_English Setter Mix
+breed_English Shepherd
+breed_English Shepherd Mix
+breed_English Spot
+breed_English Spot Mix
+breed_English Springer Spaniel
+breed_English Springer Spaniel Mix
+breed_English Springer Spaniel/Labrador Retriever
+breed_Entlebucher/Basset Hound
+breed_Exotic Shorthair Mix
+breed_Feist Mix
+breed_Feist/Beagle
+breed_Feist/Beauceron
+breed_Feist/Chihuahua Shorthair
+breed_Feist/Labrador Retriever
+breed_Ferret
+breed_Ferret Mix
+breed_Field Spaniel
+breed_Field Spaniel Mix
+breed_Finch
+breed_Finnish Spitz
+breed_Finnish Spitz Mix
+breed_Finnish Spitz/Chow Chow
+breed_Finnish Spitz/Labrador Retriever
+breed_Flat Coat Retriever
+breed_Flat Coat Retriever Mix
+breed_Flat Coat Retriever/Border Collie
+breed_Flat Coat Retriever/German Shepherd
+breed_Flat Coat Retriever/Golden Retriever
+breed_Flat Coat Retriever/Labrador Retriever
+breed_Flat Coat Retriever/Papillon
+breed_Flemish Giant
+breed_Flemish Giant Mix
+breed_Fox
+breed_Fox Mix
+breed_French Bulldog
+breed_French Bulldog Mix
+breed_French Bulldog/American Staffordshire Terrier
+breed_French Bulldog/Bulldog
+breed_French Bulldog/Chihuahua Shorthair
+breed_French Bulldog/Dachshund
+breed_French Bulldog/Pit Bull
+breed_German Pinscher
+breed_German Pinscher Mix
+breed_German Pinscher/Whippet
+breed_German Shepherd
+breed_German Shepherd Mix
+breed_German Shepherd/Airedale Terrier
+breed_German Shepherd/Akita
+breed_German Shepherd/Alaskan Husky
+breed_German Shepherd/Anatol Shepherd
+breed_German Shepherd/Australian Cattle Dog
+breed_German Shepherd/Australian Kelpie
+breed_German Shepherd/Australian Shepherd
+breed_German Shepherd/Belgian Malinois
+breed_German Shepherd/Black Mouth Cur
+breed_German Shepherd/Black/Tan Hound
+breed_German Shepherd/Bloodhound
+breed_German Shepherd/Border Collie
+breed_German Shepherd/Boxer
+breed_German Shepherd/Bull Terrier Miniature
+breed_German Shepherd/Cardigan Welsh Corgi
+breed_German Shepherd/Catahoula
+breed_German Shepherd/Chihuahua Shorthair
+breed_German Shepherd/Chinese Sharpei
+breed_German Shepherd/Chow Chow
+breed_German Shepherd/Collie Smooth
+breed_German Shepherd/Doberman Pinsch
+breed_German Shepherd/German Shepherd
+breed_German Shepherd/Golden Retriever
+breed_German Shepherd/Great Dane
+breed_German Shepherd/Great Pyrenees
+breed_German Shepherd/Greyhound
+breed_German Shepherd/Labrador Retriever
+breed_German Shepherd/Mastiff
+breed_German Shepherd/Mexican Hairless
+breed_German Shepherd/Nova Scotia Duck Tolling Retriever
+breed_German Shepherd/Pit Bull
+breed_German Shepherd/Plott Hound
+breed_German Shepherd/Queensland Heeler
+breed_German Shepherd/Redbone Hound
+breed_German Shepherd/Rottweiler
+breed_German Shepherd/Siberian Husky
+breed_German Shepherd/Swedish Vallhund
+breed_German Shorthair Pointer
+breed_German Shorthair Pointer Mix
+breed_German Shorthair Pointer/Australian Cattle Dog
+breed_German Shorthair Pointer/Beagle
+breed_German Shorthair Pointer/English Shepherd
+breed_German Shorthair Pointer/Labrador Retriever
+breed_German Wirehaired Pointer Mix
+breed_German Wirehaired Pointer/Labrador Retriever
+breed_Glen Of Imaal Mix
+breed_Goat Mix
+breed_Golden Retriever
+breed_Golden Retriever Mix
+breed_Golden Retriever/Akita
+breed_Golden Retriever/Australian Cattle Dog
+breed_Golden Retriever/Beagle
+breed_Golden Retriever/Catahoula
+breed_Golden Retriever/Chow Chow
+breed_Golden Retriever/Collie Rough
+breed_Golden Retriever/Dachshund
+breed_Golden Retriever/German Shepherd
+breed_Golden Retriever/Great Pyrenees
+breed_Golden Retriever/Labrador Retriever
+breed_Golden Retriever/Siberian Husky
+breed_Golden Retriever/Standard Poodle
+breed_Golden Retriever/Whippet
+breed_Goose Mix
+breed_Gordon Setter Mix
+breed_Grackle
+breed_Great Dane
+breed_Great Dane Mix
+breed_Great Dane/Australian Cattle Dog
+breed_Great Dane/Blue Lacy
+breed_Great Dane/Border Collie
+breed_Great Dane/Boxer
+breed_Great Dane/Catahoula
+breed_Great Dane/Dalmatian
+breed_Great Dane/German Shepherd
+breed_Great Dane/Labrador Retriever
+breed_Great Dane/Mastiff
+breed_Great Dane/Pit Bull
+breed_Great Pyrenees
+breed_Great Pyrenees Mix
+breed_Great Pyrenees/Akbash
+breed_Great Pyrenees/American Bulldog
+breed_Great Pyrenees/Anatol Shepherd
+breed_Great Pyrenees/Australian Cattle Dog
+breed_Great Pyrenees/Australian Shepherd
+breed_Great Pyrenees/Border Collie
+breed_Great Pyrenees/Boxer
+breed_Great Pyrenees/Catahoula
+breed_Great Pyrenees/Doberman Pinsch
+breed_Great Pyrenees/English Pointer
+breed_Great Pyrenees/German Shepherd
+breed_Great Pyrenees/Golden Retriever
+breed_Great Pyrenees/Great Dane
+breed_Great Pyrenees/Labrador Retriever
+breed_Great Pyrenees/Pit Bull
+breed_Great Pyrenees/Plott Hound
+breed_Great Pyrenees/Pointer
+breed_Great Pyrenees/Queensland Heeler
+breed_Great Pyrenees/Rottweiler
+breed_Great Pyrenees/Siberian Husky
+breed_Great Pyrenees/St. Bernard Smooth Coat
+breed_Great Pyrenees/Standard Poodle
+breed_Greater Swiss Mountain Dog
+breed_Greater Swiss Mountain Dog Mix
+breed_Greyhound
+breed_Greyhound Mix
+breed_Greyhound/Airedale Terrier
+breed_Greyhound/Australian Cattle Dog
+breed_Greyhound/Border Collie
+breed_Greyhound/Dalmatian
+breed_Greyhound/German Shepherd
+breed_Greyhound/Great Dane
+breed_Greyhound/Labrador Retriever
+breed_Guinea Pig
+breed_Guinea Pig Mix
+breed_Hamster
+breed_Harlequin Mix
+breed_Harrier
+breed_Harrier Mix
+breed_Harrier/Anatol Shepherd
+breed_Harrier/Beagle
+breed_Harrier/Catahoula
+breed_Harrier/Great Dane
+breed_Harrier/Labrador Retriever
+breed_Harrier/Pit Bull
+breed_Havana
+breed_Havana Brown Mix
+breed_Havana Mix
+breed_Havanese
+breed_Havanese Mix
+breed_Havanese/Miniature Poodle
+breed_Hawk
+breed_Hedgehog
+breed_Himalayan
+breed_Himalayan Mix
+breed_Hotot
+breed_Hotot Mix
+breed_Hovawart Mix
+breed_Ibizan Hound
+breed_Ibizan Hound Mix
+breed_Ibizan Hound/Australian Cattle Dog
+breed_Irish Setter Mix
+breed_Irish Setter/Golden Retriever
+breed_Irish Setter/Siberian Husky
+breed_Irish Terrier
+breed_Irish Terrier Mix
+breed_Irish Terrier/Border Terrier
+breed_Irish Terrier/Labrador Retriever
+breed_Irish Terrier/Norfolk Terrier
+breed_Irish Terrier/Standard Schnauzer
+breed_Irish Wolfhound Mix
+breed_Irish Wolfhound/Cardigan Welsh Corgi
+breed_Irish Wolfhound/Great Pyrenees
+breed_Italian Greyhound Mix
+breed_Italian Greyhound/Chihuahua Shorthair
+breed_Jack Russell Terrier
+breed_Jack Russell Terrier Mix
+breed_Jack Russell Terrier/Australian Cattle Dog
+breed_Jack Russell Terrier/Basenji
+breed_Jack Russell Terrier/Beagle
+breed_Jack Russell Terrier/Border Collie
+breed_Jack Russell Terrier/Boston Terrier
+breed_Jack Russell Terrier/Cairn Terrier
+breed_Jack Russell Terrier/Chihuahua Longhair
+breed_Jack Russell Terrier/Chihuahua Shorthair
+breed_Jack Russell Terrier/Dachshund
+breed_Jack Russell Terrier/Labrador Retriever
+breed_Jack Russell Terrier/Maltese
+breed_Jack Russell Terrier/Miniature Poodle
+breed_Jack Russell Terrier/Pembroke Welsh Corgi
+breed_Jack Russell Terrier/Pit Bull
+breed_Jack Russell Terrier/Pointer
+breed_Jack Russell Terrier/Pug
+breed_Jack Russell Terrier/Rat Terrier
+breed_Jack Russell Terrier/Unknown
+breed_Jack Russell Terrier/Whippet
+breed_Jack Russell Terrier/Yorkshire Terrier
+breed_Japanese Bobtail Mix
+breed_Japanese Chin Mix
+breed_Jindo
+breed_Jindo Mix
+breed_Keeshond Mix
+breed_Kuvasz Mix
+breed_Kuvasz/Labrador Retriever
+breed_Labrador Retriever
+breed_Labrador Retriever Mix
+breed_Labrador Retriever/Affenpinscher
+breed_Labrador Retriever/Akbash
+breed_Labrador Retriever/Alaskan Husky
+breed_Labrador Retriever/American Bulldog
+breed_Labrador Retriever/American Pit Bull Terrier
+breed_Labrador Retriever/American Staffordshire Terrier
+breed_Labrador Retriever/Anatol Shepherd
+breed_Labrador Retriever/Australian Cattle Dog
+breed_Labrador Retriever/Australian Kelpie
+breed_Labrador Retriever/Australian Shepherd
+breed_Labrador Retriever/Basenji
+breed_Labrador Retriever/Basset Hound
+breed_Labrador Retriever/Beagle
+breed_Labrador Retriever/Bearded Collie
+breed_Labrador Retriever/Belgian Malinois
+breed_Labrador Retriever/Black Mouth Cur
+breed_Labrador Retriever/Black/Tan Hound
+breed_Labrador Retriever/Bloodhound
+breed_Labrador Retriever/Blue Lacy
+breed_Labrador Retriever/Border Collie
+breed_Labrador Retriever/Border Terrier
+breed_Labrador Retriever/Boston Terrier
+breed_Labrador Retriever/Boxer
+breed_Labrador Retriever/Brittany
+breed_Labrador Retriever/Cardigan Welsh Corgi
+breed_Labrador Retriever/Carolina Dog
+breed_Labrador Retriever/Catahoula
+breed_Labrador Retriever/Chesa Bay Retr
+breed_Labrador Retriever/Chihuahua Shorthair
+breed_Labrador Retriever/Chinese Sharpei
+breed_Labrador Retriever/Chow Chow
+breed_Labrador Retriever/Cocker Spaniel
+breed_Labrador Retriever/Collie Rough
+breed_Labrador Retriever/Collie Smooth
+breed_Labrador Retriever/Dachshund
+breed_Labrador Retriever/Dachshund Wirehair
+breed_Labrador Retriever/Dalmatian
+breed_Labrador Retriever/Doberman Pinsch
+breed_Labrador Retriever/Dutch Shepherd
+breed_Labrador Retriever/English Pointer
+breed_Labrador Retriever/Flat Coat Retriever
+breed_Labrador Retriever/German Shepherd
+breed_Labrador Retriever/German Shorthair Pointer
+breed_Labrador Retriever/Golden Retriever
+breed_Labrador Retriever/Great Dane
+breed_Labrador Retriever/Great Pyrenees
+breed_Labrador Retriever/Greyhound
+breed_Labrador Retriever/Harrier
+breed_Labrador Retriever/Irish Wolfhound
+breed_Labrador Retriever/Italian Greyhound
+breed_Labrador Retriever/Jack Russell Terrier
+breed_Labrador Retriever/Mastiff
+breed_Labrador Retriever/Miniature Poodle
+breed_Labrador Retriever/Nova Scotia Duck Tolling Retriever
+breed_Labrador Retriever/Patterdale Terr
+breed_Labrador Retriever/Pekingese
+breed_Labrador Retriever/Pembroke Welsh Corgi
+breed_Labrador Retriever/Pit Bull
+breed_Labrador Retriever/Plott Hound
+breed_Labrador Retriever/Pointer
+breed_Labrador Retriever/Pug
+breed_Labrador Retriever/Queensland Heeler
+breed_Labrador Retriever/Rat Terrier
+breed_Labrador Retriever/Redbone Hound
+breed_Labrador Retriever/Rhod Ridgeback
+breed_Labrador Retriever/Rottweiler
+breed_Labrador Retriever/Shiba Inu
+breed_Labrador Retriever/Siberian Husky
+breed_Labrador Retriever/Smooth Fox Terrier
+breed_Labrador Retriever/St. Bernard Rough Coat
+breed_Labrador Retriever/Staffordshire
+breed_Labrador Retriever/Standard Poodle
+breed_Labrador Retriever/Standard Schnauzer
+breed_Labrador Retriever/Treeing Walker Coonhound
+breed_Labrador Retriever/Vizsla
+breed_Labrador Retriever/Weimaraner
+breed_Labrador Retriever/Whippet
+breed_Landseer
+breed_Landseer Mix
+breed_Landseer/Border Collie
+breed_Landseer/Great Pyrenees
+breed_Leghorn
+breed_Leonberger
+breed_Leonberger Mix
+breed_Lhasa Apso
+breed_Lhasa Apso Mix
+breed_Lhasa Apso/Miniature Poodle
+breed_Lhasa Apso/Shih Tzu
+breed_Lionhead
+breed_Lionhead Mix
+breed_Lizard
+breed_Lizard Mix
+breed_Lizard/Bearded Dragon
+breed_Lizard/Gecko
+breed_Lop-Amer Fuzzy
+breed_Lop-Amer Fuzzy Mix
+breed_Lop-English Mix
+breed_Lop-French
+breed_Lop-Holland
+breed_Lop-Holland Mix
+breed_Lop-Mini
+breed_Lop-Mini Mix
+breed_Lop-Mini/Hotot
+breed_Lop-Mini/Lop-Holland
+breed_Lowchen/Yorkshire Terrier
+breed_Maine Coon
+breed_Maine Coon Mix
+breed_Maltese
+breed_Maltese Mix
+breed_Maltese/Bichon Frise
+breed_Maltese/Border Terrier
+breed_Maltese/Chihuahua Shorthair
+breed_Maltese/Miniature Poodle
+breed_Maltese/Papillon
+breed_Maltese/Shih Tzu
+breed_Maltese/Toy Poodle
+breed_Maltese/Yorkshire Terrier
+breed_Manchester Terrier
+breed_Manchester Terrier Mix
+breed_Manchester Terrier/Beagle
+breed_Manchester Terrier/Chihuahua Shorthair
+breed_Manchester Terrier/Dachshund
+breed_Manchester Terrier/Norfolk Terrier
+breed_Manx
+breed_Manx Mix
+breed_Manx/Domestic Longhair
+breed_Manx/Domestic Medium Hair
+breed_Manx/Domestic Shorthair
+breed_Mastiff
+breed_Mastiff Mix
+breed_Mastiff/Akita
+breed_Mastiff/American Bulldog
+breed_Mastiff/Anatol Shepherd
+breed_Mastiff/Bloodhound
+breed_Mastiff/Boxer
+breed_Mastiff/Cane Corso
+breed_Mastiff/Chinese Sharpei
+breed_Mastiff/Labrador Retriever
+breed_Mastiff/Pit Bull
+breed_Mastiff/Plott Hound
+breed_Mastiff/Rottweiler
+breed_Mastiff/Staffordshire
+breed_Mexican Hairless Mix
+breed_Mexican Hairless/Chihuahua Shorthair
+breed_Miniature Pinscher
+breed_Miniature Pinscher Mix
+breed_Miniature Pinscher/Chihuahua Shorthair
+breed_Miniature Pinscher/Pomeranian
+breed_Miniature Pinscher/Pug
+breed_Miniature Pinscher/Whippet
+breed_Miniature Poodle
+breed_Miniature Poodle Mix
+breed_Miniature Poodle/Australian Shepherd
+breed_Miniature Poodle/Bichon Frise
+breed_Miniature Poodle/Border Terrier
+breed_Miniature Poodle/Cairn Terrier
+breed_Miniature Poodle/Chihuahua Shorthair
+breed_Miniature Poodle/Cocker Spaniel
+breed_Miniature Poodle/Dachshund
+breed_Miniature Poodle/Havanese
+breed_Miniature Poodle/Lhasa Apso
+breed_Miniature Poodle/Maltese
+breed_Miniature Poodle/Miniature Poodle
+breed_Miniature Poodle/Miniature Schnauzer
+breed_Miniature Poodle/Pomeranian
+breed_Miniature Poodle/Yorkshire Terrier
+breed_Miniature Schnauzer
+breed_Miniature Schnauzer Mix
+breed_Miniature Schnauzer/Australian Cattle Dog
+breed_Miniature Schnauzer/Border Collie
+breed_Miniature Schnauzer/Cairn Terrier
+breed_Miniature Schnauzer/Chihuahua Longhair
+breed_Miniature Schnauzer/Chihuahua Shorthair
+breed_Miniature Schnauzer/Dachshund
+breed_Miniature Schnauzer/Dachshund Wirehair
+breed_Miniature Schnauzer/Jack Russell Terrier
+breed_Miniature Schnauzer/Labrador Retriever
+breed_Miniature Schnauzer/Lhasa Apso
+breed_Miniature Schnauzer/Maltese
+breed_Miniature Schnauzer/Miniature Poodle
+breed_Miniature Schnauzer/Scottish Terrier
+breed_Miniature Schnauzer/Soft Coated Wheaten Terrier
+breed_Miniature Schnauzer/Toy Poodle
+breed_Miniature Schnauzer/Yorkshire Terrier
+breed_Mockingbird
+breed_Mouse
+breed_Mouse Mix
+breed_Munchkin Shorthair Mix
+breed_Muscovy
+breed_Neapolitan Mastiff
+breed_Neapolitan Mastiff Mix
+breed_Netherlnd Dwarf
+breed_Netherlnd Dwarf Mix
+breed_New Zealand Wht
+breed_New Zealand Wht Mix
+breed_Newfoundland Mix
+breed_Newfoundland/Border Collie
+breed_Newfoundland/Great Pyrenees
+breed_Newfoundland/Labrador Retriever
+breed_Norfolk Terrier
+breed_Norfolk Terrier Mix
+breed_Norfolk Terrier/Chihuahua Shorthair
+breed_Norfolk Terrier/Dachshund Wirehair
+breed_Norfolk Terrier/Yorkshire Terrier
+breed_Norwegian Forest Cat Mix
+breed_Norwich Terrier
+breed_Norwich Terrier Mix
+breed_Norwich Terrier/Cairn Terrier
+breed_Norwich Terrier/Chihuahua Longhair
+breed_Nova Scotia Duck Tolling Retriever
+breed_Nova Scotia Duck Tolling Retriever Mix
+breed_Nova Scotia Duck Tolling Retriever/Golden Retriever
+breed_Ocicat Mix
+breed_Old English Bulldog
+breed_Old English Bulldog Mix
+breed_Opossum
+breed_Opossum Mix
+breed_Otterhound Mix
+breed_Papillon
+breed_Papillon Mix
+breed_Papillon/Border Collie
+breed_Papillon/Pembroke Welsh Corgi
+breed_Papillon/Shih Tzu
+breed_Papillon/Skye Terrier
+breed_Parakeet
+breed_Parakeet Mix
+breed_Parson Russell Terrier
+breed_Parson Russell Terrier Mix
+breed_Parson Russell Terrier/Beagle
+breed_Parson Russell Terrier/Chihuahua Shorthair
+breed_Parson Russell Terrier/Labrador Retriever
+breed_Patterdale Terr
+breed_Patterdale Terr Mix
+breed_Pbgv
+breed_Pbgv Mix
+breed_Peafowl
+breed_Peafowl Mix
+breed_Pekingese
+breed_Pekingese Mix
+breed_Pekingese/Chihuahua Shorthair
+breed_Pembroke Welsh Corgi
+breed_Pembroke Welsh Corgi Mix
+breed_Pembroke Welsh Corgi/Akita
+breed_Pembroke Welsh Corgi/Australian Kelpie
+breed_Pembroke Welsh Corgi/Australian Shepherd
+breed_Pembroke Welsh Corgi/Chihuahua Shorthair
+breed_Pembroke Welsh Corgi/Dachshund
+breed_Persian
+breed_Persian Mix
+breed_Pharaoh Hound
+breed_Pharaoh Hound Mix
+breed_Pharaoh Hound/Australian Cattle Dog
+breed_Pharaoh Hound/Boxer
+breed_Pheasant
+breed_Picardy Sheepdog
+breed_Picardy Sheepdog Mix
+breed_Pig
+breed_Pig Mix
+breed_Pigeon
+breed_Pigeon Mix
+breed_Pit Bull
+breed_Pit Bull Mix
+breed_Pit Bull/Alaskan Husky
+breed_Pit Bull/American Bulldog
+breed_Pit Bull/American Staffordshire Terrier
+breed_Pit Bull/Australian Cattle Dog
+breed_Pit Bull/Basset Hound
+breed_Pit Bull/Beagle
+breed_Pit Bull/Black Mouth Cur
+breed_Pit Bull/Bloodhound
+breed_Pit Bull/Blue Lacy
+breed_Pit Bull/Border Collie
+breed_Pit Bull/Boston Terrier
+breed_Pit Bull/Boxer
+breed_Pit Bull/Bull Terrier
+breed_Pit Bull/Bulldog
+breed_Pit Bull/Cane Corso
+breed_Pit Bull/Carolina Dog
+breed_Pit Bull/Catahoula
+breed_Pit Bull/Chihuahua Shorthair
+breed_Pit Bull/Chinese Sharpei
+breed_Pit Bull/Dachshund
+breed_Pit Bull/Dalmatian
+breed_Pit Bull/Dutch Shepherd
+breed_Pit Bull/German Shepherd
+breed_Pit Bull/Golden Retriever
+breed_Pit Bull/Great Dane
+breed_Pit Bull/Great Pyrenees
+breed_Pit Bull/Labrador Retriever
+breed_Pit Bull/Mastiff
+breed_Pit Bull/Neapolitan Mastiff
+breed_Pit Bull/Pharaoh Hound
+breed_Pit Bull/Pit Bull
+breed_Pit Bull/Plott Hound
+breed_Pit Bull/Pointer
+breed_Pit Bull/Pug
+breed_Pit Bull/Queensland Heeler
+breed_Pit Bull/Rhod Ridgeback
+breed_Pit Bull/Siberian Husky
+breed_Pit Bull/Vizsla
+breed_Pit Bull/Weimaraner
+breed_Pixiebob Shorthair Mix
+breed_Plott Hound
+breed_Plott Hound Mix
+breed_Plott Hound/Australian Cattle Dog
+breed_Plott Hound/Blue Lacy
+breed_Plott Hound/Boxer
+breed_Plott Hound/Dachshund
+breed_Plott Hound/Doberman Pinsch
+breed_Plott Hound/German Shepherd
+breed_Plott Hound/Great Pyrenees
+breed_Plott Hound/Labrador Retriever
+breed_Plott Hound/Mastiff
+breed_Plott Hound/Pit Bull
+breed_Plott Hound/Rhod Ridgeback
+breed_Plott Hound/Rottweiler
+breed_Plott Hound/Whippet
+breed_Podengo Pequeno Mix
+breed_Pointer
+breed_Pointer Mix
+breed_Pointer/Alaskan Husky
+breed_Pointer/American Bulldog
+breed_Pointer/American Pit Bull Terrier
+breed_Pointer/American Staffordshire Terrier
+breed_Pointer/Australian Cattle Dog
+breed_Pointer/Australian Shepherd
+breed_Pointer/Basset Hound
+breed_Pointer/Beagle
+breed_Pointer/Border Collie
+breed_Pointer/Boston Terrier
+breed_Pointer/Boxer
+breed_Pointer/Bull Terrier
+breed_Pointer/Catahoula
+breed_Pointer/Chinese Sharpei
+breed_Pointer/Collie Smooth
+breed_Pointer/English Coonhound
+breed_Pointer/German Wirehaired Pointer
+breed_Pointer/Great Dane
+breed_Pointer/Great Pyrenees
+breed_Pointer/Harrier
+breed_Pointer/Jack Russell Terrier
+breed_Pointer/Labrador Retriever
+breed_Pointer/Pit Bull
+breed_Pointer/Rat Terrier
+breed_Pointer/Siberian Husky
+breed_Pointer/Smooth Fox Terrier
+breed_Pointer/Staffordshire
+breed_Polish
+breed_Pomeranian
+breed_Pomeranian Mix
+breed_Pomeranian/Chihuahua Longhair
+breed_Pomeranian/Chihuahua Shorthair
+breed_Pomeranian/Jack Russell Terrier
+breed_Potbelly Pig
+breed_Potbelly Pig Mix
+breed_Presa Canario
+breed_Presa Canario Mix
+breed_Pug
+breed_Pug Mix
+breed_Pug/Beagle
+breed_Pug/Border Collie
+breed_Pug/Border Terrier
+breed_Pug/Chihuahua Shorthair
+breed_Pug/Dachshund
+breed_Pug/French Bulldog
+breed_Pug/Italian Greyhound
+breed_Pug/Labrador Retriever
+breed_Pug/Pembroke Welsh Corgi
+breed_Pug/Pit Bull
+breed_Pug/Staffordshire
+breed_Quaker
+breed_Quaker Mix
+breed_Queensland Heeler
+breed_Queensland Heeler Mix
+breed_Queensland Heeler/Entlebucher
+breed_Queensland Heeler/Great Dane
+breed_Queensland Heeler/Labrador Retriever
+breed_Queensland Heeler/Pointer
+breed_Queensland Heeler/Shetland Sheepdog
+breed_Rabbit Lh
+breed_Rabbit Lh Mix
+breed_Rabbit Sh
+breed_Rabbit Sh Mix
+breed_Raccoon
+breed_Raccoon Mix
+breed_Ragdoll
+breed_Ragdoll Mix
+breed_Rat
+breed_Rat Mix
+breed_Rat Terrier
+breed_Rat Terrier Mix
+breed_Rat Terrier/Beagle
+breed_Rat Terrier/Boston Terrier
+breed_Rat Terrier/Cairn Terrier
+breed_Rat Terrier/Cardigan Welsh Corgi
+breed_Rat Terrier/Chihuahua Longhair
+breed_Rat Terrier/Chihuahua Shorthair
+breed_Rat Terrier/Dachshund
+breed_Rat Terrier/Dachshund Wirehair
+breed_Rat Terrier/Jack Russell Terrier
+breed_Rat Terrier/Pembroke Welsh Corgi
+breed_Rat Terrier/Pointer
+breed_Redbone Hound
+breed_Redbone Hound Mix
+breed_Redbone Hound/Bloodhound
+breed_Redbone Hound/Boxer
+breed_Redbone Hound/Dachshund
+breed_Redbone Hound/Greyhound
+breed_Redbone Hound/Labrador Retriever
+breed_Redbone Hound/Rhod Ridgeback
+breed_Rex
+breed_Rex Mix
+breed_Rex-Mini
+breed_Rex-Mini Mix
+breed_Rhod Ridgeback
+breed_Rhod Ridgeback Mix
+breed_Rhod Ridgeback/Blue Lacy
+breed_Rhod Ridgeback/Chow Chow
+breed_Rhod Ridgeback/German Shepherd
+breed_Rhod Ridgeback/Great Dane
+breed_Rhod Ridgeback/Labrador Retriever
+breed_Rhod Ridgeback/Pit Bull
+breed_Rhode Island
+breed_Rhode Island Mix
+breed_Ringtail Mix
+breed_Rottweiler
+breed_Rottweiler Mix
+breed_Rottweiler/Australian Cattle Dog
+breed_Rottweiler/Australian Shepherd
+breed_Rottweiler/Basset Hound
+breed_Rottweiler/Beagle
+breed_Rottweiler/Blue Lacy
+breed_Rottweiler/Chinese Sharpei
+breed_Rottweiler/Doberman Pinsch
+breed_Rottweiler/English Bulldog
+breed_Rottweiler/German Shepherd
+breed_Rottweiler/Great Dane
+breed_Rottweiler/Labrador Retriever
+breed_Rottweiler/Pit Bull
+breed_Rottweiler/Plott Hound
+breed_Rottweiler/Siberian Husky
+breed_Russian Blue
+breed_Russian Blue Mix
+breed_Saluki
+breed_Saluki Mix
+breed_Saluki/Doberman Pinsch
+breed_Samoyed
+breed_Samoyed Mix
+breed_Samoyed/Alaskan Husky
+breed_Schipperke Mix
+breed_Schnauzer Giant
+breed_Schnauzer Giant Mix
+breed_Scottish Terrier Mix
+breed_Scottish Terrier/Basset Hound
+breed_Scottish Terrier/Cairn Terrier
+breed_Sheep Mix
+breed_Shetland Sheepdog
+breed_Shetland Sheepdog Mix
+breed_Shetland Sheepdog/Border Collie
+breed_Shetland Sheepdog/Brittany
+breed_Shetland Sheepdog/Cardigan Welsh Corgi
+breed_Shetland Sheepdog/Cavalier Span
+breed_Shetland Sheepdog/Dachshund Longhair
+breed_Shetland Sheepdog/Keeshond
+breed_Shiba Inu
+breed_Shiba Inu Mix
+breed_Shiba Inu/Australian Kelpie
+breed_Shiba Inu/Chinese Sharpei
+breed_Shiba Inu/Labrador Retriever
+breed_Shiba Inu/Pit Bull
+breed_Shiba Inu/Whippet
+breed_Shih Tzu
+breed_Shih Tzu Mix
+breed_Shih Tzu/Bruss Griffon
+breed_Shih Tzu/Chihuahua Longhair
+breed_Shih Tzu/Chihuahua Shorthair
+breed_Shih Tzu/Maltese
+breed_Shih Tzu/Miniature Poodle
+breed_Shih Tzu/Pit Bull
+breed_Shih Tzu/Pug
+breed_Shih Tzu/Standard Schnauzer
+breed_Shih Tzu/Toy Poodle
+breed_Shih Tzu/Yorkshire Terrier
+breed_Siamese
+breed_Siamese Mix
+breed_Siamese/Domestic Medium Hair
+breed_Siamese/Domestic Shorthair
+breed_Siamese/Munchkin Shorthair
+breed_Siberian Husky
+breed_Siberian Husky Mix
+breed_Siberian Husky/Akita
+breed_Siberian Husky/Alaskan Malamute
+breed_Siberian Husky/American Pit Bull Terrier
+breed_Siberian Husky/Australian Cattle Dog
+breed_Siberian Husky/Australian Kelpie
+breed_Siberian Husky/Basenji
+breed_Siberian Husky/Belgian Malinois
+breed_Siberian Husky/Border Collie
+breed_Siberian Husky/Cardigan Welsh Corgi
+breed_Siberian Husky/Catahoula
+breed_Siberian Husky/Chinese Sharpei
+breed_Siberian Husky/Chow Chow
+breed_Siberian Husky/Collie Smooth
+breed_Siberian Husky/Doberman Pinsch
+breed_Siberian Husky/German Shepherd
+breed_Siberian Husky/Great Pyrenees
+breed_Siberian Husky/Labrador Retriever
+breed_Siberian Husky/Pit Bull
+breed_Siberian Husky/Rottweiler
+breed_Silkie Mix
+breed_Silky Terrier Mix
+breed_Silky Terrier/Maltese
+breed_Silky Terrier/Yorkshire Terrier
+breed_Skunk
+breed_Skunk Mix
+breed_Smooth Fox Terrier
+breed_Smooth Fox Terrier Mix
+breed_Smooth Fox Terrier/Basenji
+breed_Smooth Fox Terrier/Border Collie
+breed_Smooth Fox Terrier/Cardigan Welsh Corgi
+breed_Smooth Fox Terrier/French Bulldog
+breed_Smooth Fox Terrier/Jack Russell Terrier
+breed_Smooth Fox Terrier/Rat Terrier
+breed_Snake
+breed_Snake Mix
+breed_Snake/Snake
+breed_Snowshoe
+breed_Snowshoe Mix
+breed_Snowshoe/Domestic Shorthair
+breed_Snowshoe/Ragdoll
+breed_Soft Coated Wheaten Terrier
+breed_Soft Coated Wheaten Terrier Mix
+breed_Soft Coated Wheaten Terrier/Border Terrier
+breed_Soft Coated Wheaten Terrier/Boxer
+breed_Soft Coated Wheaten Terrier/Standard Poodle
+breed_Spinone Italiano Mix
+breed_Squirrel
+breed_St. Bernard Rough Coat
+breed_St. Bernard Rough Coat Mix
+breed_St. Bernard Smooth Coat
+breed_St. Bernard Smooth Coat Mix
+breed_Staffordshire
+breed_Staffordshire Mix
+breed_Staffordshire/Australian Cattle Dog
+breed_Staffordshire/Beagle
+breed_Staffordshire/Blue Lacy
+breed_Staffordshire/Boston Terrier
+breed_Staffordshire/Boxer
+breed_Staffordshire/English Bulldog
+breed_Staffordshire/French Bulldog
+breed_Staffordshire/Labrador Retriever
+breed_Staffordshire/Mastiff
+breed_Staffordshire/Pit Bull
+breed_Staffordshire/Plott Hound
+breed_Standard Poodle
+breed_Standard Poodle Mix
+breed_Standard Poodle/Golden Retriever
+breed_Standard Poodle/Labrador Retriever
+breed_Standard Schnauzer
+breed_Standard Schnauzer Mix
+breed_Standard Schnauzer/German Shepherd
+breed_Standard Schnauzer/Miniature Poodle
+breed_Standard Schnauzer/Standard Poodle
+breed_Sugar Glider
+breed_Swedish Vallhund
+breed_Swedish Vallhund Mix
+breed_Swedish Vallhund/German Shepherd
+breed_Swedish Vallhund/Siberian Husky
+breed_Swiss Hound
+breed_Swiss Hound/American Pit Bull Terrier
+breed_Tibetan Mastiff Mix
+breed_Tibetan Spaniel
+breed_Tibetan Spaniel Mix
+breed_Tibetan Terrier
+breed_Tibetan Terrier Mix
+breed_Tonkinese Mix
+breed_Tortoise
+breed_Tortoise Mix
+breed_Toy Fox Terrier
+breed_Toy Fox Terrier Mix
+breed_Toy Fox Terrier/Dachshund
+breed_Toy Fox Terrier/Yorkshire Terrier
+breed_Toy Poodle
+breed_Toy Poodle Mix
+breed_Toy Poodle/Bichon Frise
+breed_Toy Poodle/Chihuahua Shorthair
+breed_Toy Poodle/Maltese
+breed_Treeing Cur
+breed_Treeing Cur Mix
+breed_Treeing Cur/Boxer
+breed_Treeing Cur/Pit Bull
+breed_Treeing Tennesse Brindle Mix
+breed_Treeing Walker Coonhound
+breed_Treeing Walker Coonhound Mix
+breed_Treeing Walker Coonhound/Dachshund
+breed_Treeing Walker Coonhound/German Shepherd
+breed_Treeing Walker Coonhound/Great Dane
+breed_Treeing Walker Coonhound/Labrador Retriever
+breed_Treeing Walker Coonhound/Pit Bull
+breed_Turkish Angora
+breed_Turkish Angora Mix
+breed_Turkish Van Mix
+breed_Turtle/Redeared Slider
+breed_Vizsla
+breed_Vizsla Mix
+breed_Vizsla/Beagle
+breed_Vizsla/Boxer
+breed_Vizsla/Dachshund
+breed_Vizsla/Great Pyrenees
+breed_Vizsla/Labrador Retriever
+breed_Vizsla/Pointer
+breed_Weimaraner
+breed_Weimaraner Mix
+breed_Weimaraner/American Bulldog
+breed_Weimaraner/Labrador Retriever
+breed_Weimaraner/Pit Bull
+breed_Weimaraner/Vizsla
+breed_Welsh Terrier Mix
+breed_Welsh Terrier/Wire Hair Fox Terrier
+breed_West Highland
+breed_West Highland Mix
+breed_West Highland/Chihuahua Shorthair
+breed_West Highland/Miniature Poodle
+breed_West Highland/Toy Fox Terrier
+breed_West Highland/Yorkshire Terrier
+breed_Whippet
+breed_Whippet Mix
+breed_Whippet/Australian Cattle Dog
+breed_Whippet/Beagle
+breed_Whippet/Labrador Retriever
+breed_Wire Hair Fox Terrier
+breed_Wire Hair Fox Terrier Mix
+breed_Wire Hair Fox Terrier/Chihuahua Shorthair
+breed_Wirehaired Pointing Griffon Mix
+breed_Wirehaired Vizsla Mix
+breed_Yorkshire Terrier
+breed_Yorkshire Terrier Mix
+breed_Yorkshire Terrier/Border Terrier
+breed_Yorkshire Terrier/Cairn Terrier
+breed_Yorkshire Terrier/Chihuahua Longhair
+breed_Yorkshire Terrier/Chihuahua Shorthair
+breed_Yorkshire Terrier/Chinese Crested
+breed_Yorkshire Terrier/Dachshund Wirehair
+breed_Yorkshire Terrier/Maltese
+breed_Yorkshire Terrier/Miniature Poodle
+breed_Yorkshire Terrier/Miniature Schnauzer
+breed_Yorkshire Terrier/Norfolk Terrier
+breed_Yorkshire Terrier/Parson Russell Terrier
+breed_Yorkshire Terrier/Rat Terrier
+breed_Yorkshire Terrier/Standard Schnauzer
+breed_Yorkshire Terrier/Toy Poodle
+color_Agouti
+color_Agouti/Brown Tabby
+color_Agouti/Gray
+color_Agouti/White
+color_Apricot
+color_Apricot/White
+color_Black
+color_Black Brindle
+color_Black Brindle/Black
+color_Black Brindle/Brown
+color_Black Brindle/Brown Brindle
+color_Black Brindle/Tan
+color_Black Brindle/White
+color_Black Smoke
+color_Black Smoke/Black Tabby
+color_Black Smoke/Chocolate
+color_Black Smoke/White
+color_Black Tabby
+color_Black Tabby/Black Smoke
+color_Black Tabby/White
+color_Black Tiger
+color_Black/Black
+color_Black/Black Brindle
+color_Black/Black Smoke
+color_Black/Blue
+color_Black/Blue Merle
+color_Black/Blue Tick
+color_Black/Brown
+color_Black/Brown Brindle
+color_Black/Brown Tabby
+color_Black/Buff
+color_Black/Chocolate
+color_Black/Cream
+color_Black/Fawn
+color_Black/Gold
+color_Black/Gray
+color_Black/Orange
+color_Black/Red
+color_Black/Silver
+color_Black/Silver Tabby
+color_Black/Tan
+color_Black/Tortie
+color_Black/Tricolor
+color_Black/White
+color_Black/Yellow
+color_Black/Yellow Brindle
+color_Blue
+color_Blue Cream
+color_Blue Cream/Blue Tabby
+color_Blue Cream/Buff
+color_Blue Cream/White
+color_Blue Merle
+color_Blue Merle/Black
+color_Blue Merle/Brown
+color_Blue Merle/Red
+color_Blue Merle/Red Merle
+color_Blue Merle/Tan
+color_Blue Merle/Tricolor
+color_Blue Merle/White
+color_Blue Point
+color_Blue Point/Lynx Point
+color_Blue Point/White
+color_Blue Smoke
+color_Blue Smoke/White
+color_Blue Tabby
+color_Blue Tabby/Black
+color_Blue Tabby/Blue Cream
+color_Blue Tabby/Brown
+color_Blue Tabby/Cream
+color_Blue Tabby/Orange
+color_Blue Tabby/Tan
+color_Blue Tabby/White
+color_Blue Tick
+color_Blue Tick/Black
+color_Blue Tick/Brown
+color_Blue Tick/Red
+color_Blue Tick/Red Tick
+color_Blue Tick/Tan
+color_Blue Tick/Tricolor
+color_Blue Tick/White
+color_Blue Tiger
+color_Blue Tiger/White
+color_Blue/Black
+color_Blue/Black Brindle
+color_Blue/Blue
+color_Blue/Brown
+color_Blue/Brown Brindle
+color_Blue/Gray
+color_Blue/Green
+color_Blue/Tan
+color_Blue/Tortie
+color_Blue/Tricolor
+color_Blue/White
+color_Brown
+color_Brown Brindle
+color_Brown Brindle/Black
+color_Brown Brindle/Black Brindle
+color_Brown Brindle/Blue Tick
+color_Brown Brindle/Brown
+color_Brown Brindle/Brown Brindle
+color_Brown Brindle/Brown Merle
+color_Brown Brindle/Chocolate
+color_Brown Brindle/Gray
+color_Brown Brindle/Liver Tick
+color_Brown Brindle/Red Tick
+color_Brown Brindle/Tan
+color_Brown Brindle/White
+color_Brown Merle
+color_Brown Merle/Black
+color_Brown Merle/Brown
+color_Brown Merle/Brown Merle
+color_Brown Merle/Gray
+color_Brown Merle/Tan
+color_Brown Merle/White
+color_Brown Tabby
+color_Brown Tabby/Agouti
+color_Brown Tabby/Black
+color_Brown Tabby/Black Brindle
+color_Brown Tabby/Brown Tabby
+color_Brown Tabby/Cream
+color_Brown Tabby/Gray
+color_Brown Tabby/Gray Tabby
+color_Brown Tabby/Liver
+color_Brown Tabby/Orange
+color_Brown Tabby/Red
+color_Brown Tabby/Silver
+color_Brown Tabby/Tortie
+color_Brown Tabby/White
+color_Brown Tiger
+color_Brown Tiger/Cream
+color_Brown Tiger/White
+color_Brown/Black
+color_Brown/Black Brindle
+color_Brown/Brown
+color_Brown/Brown Brindle
+color_Brown/Brown Tabby
+color_Brown/Buff
+color_Brown/Chocolate
+color_Brown/Cream
+color_Brown/Fawn
+color_Brown/Gold
+color_Brown/Gray
+color_Brown/Green
+color_Brown/Red
+color_Brown/Red Merle
+color_Brown/Red Tick
+color_Brown/Silver
+color_Brown/Tan
+color_Brown/Tricolor
+color_Brown/White
+color_Brown/Yellow
+color_Buff
+color_Buff/Black
+color_Buff/Blue Merle
+color_Buff/Brown
+color_Buff/Cream
+color_Buff/Gray
+color_Buff/Red Tick
+color_Buff/Tan
+color_Buff/White
+color_Buff/Yellow
+color_Calico
+color_Calico Point
+color_Calico Point/White
+color_Calico/Black
+color_Calico/Blue Tabby
+color_Calico/Brown
+color_Calico/Brown Tabby
+color_Calico/Calico
+color_Calico/Gray
+color_Calico/Gray Tabby
+color_Calico/Orange
+color_Calico/Orange Tabby
+color_Calico/White
+color_Chocolate
+color_Chocolate Point
+color_Chocolate Point/Cream
+color_Chocolate Point/White
+color_Chocolate/Black
+color_Chocolate/Blue Tick
+color_Chocolate/Brown
+color_Chocolate/Brown Brindle
+color_Chocolate/Cream
+color_Chocolate/Fawn
+color_Chocolate/Gold
+color_Chocolate/Red Tick
+color_Chocolate/Tan
+color_Chocolate/Tricolor
+color_Chocolate/White
+color_Cream
+color_Cream Tabby
+color_Cream Tabby/Orange Tabby
+color_Cream Tabby/White
+color_Cream Tiger/Brown Tabby
+color_Cream/Black
+color_Cream/Blue Point
+color_Cream/Brown
+color_Cream/Chocolate
+color_Cream/Gray
+color_Cream/Orange
+color_Cream/Red
+color_Cream/Tan
+color_Cream/White
+color_Cream/Yellow
+color_Fawn
+color_Fawn/Black
+color_Fawn/Blue
+color_Fawn/Brown
+color_Fawn/Brown Brindle
+color_Fawn/Gray
+color_Fawn/Tan
+color_Fawn/Tricolor
+color_Fawn/White
+color_Flame Point
+color_Flame Point/White
+color_Gold
+color_Gold/Brown
+color_Gold/Cream
+color_Gold/Tan
+color_Gold/White
+color_Gold/Yellow
+color_Gray
+color_Gray Tabby
+color_Gray Tabby/Black
+color_Gray Tabby/Brown
+color_Gray Tabby/Tan
+color_Gray Tabby/White
+color_Gray/Black
+color_Gray/Blue
+color_Gray/Brown
+color_Gray/Brown Brindle
+color_Gray/Buff
+color_Gray/Cream
+color_Gray/Gray
+color_Gray/Gray Tabby
+color_Gray/Green
+color_Gray/Orange
+color_Gray/Silver
+color_Gray/Tan
+color_Gray/Tricolor
+color_Gray/White
+color_Green
+color_Green/Black
+color_Green/Blue
+color_Green/Yellow
+color_Lilac Point
+color_Lilac Point/White
+color_Liver Tick
+color_Liver Tick/Brown
+color_Liver/Chocolate
+color_Liver/White
+color_Lynx Point
+color_Lynx Point/Gray
+color_Lynx Point/Tan
+color_Lynx Point/Tortie Point
+color_Lynx Point/White
+color_Orange
+color_Orange Tabby
+color_Orange Tabby/Cream
+color_Orange Tabby/Orange
+color_Orange Tabby/Orange Tabby
+color_Orange Tabby/White
+color_Orange Tiger
+color_Orange/Black
+color_Orange/Brown
+color_Orange/Tan
+color_Orange/Tricolor
+color_Orange/White
+color_Pink
+color_Red
+color_Red Merle
+color_Red Merle/Black
+color_Red Merle/Tricolor
+color_Red Merle/White
+color_Red Tick
+color_Red Tick/Black
+color_Red Tick/Brown
+color_Red Tick/Brown Merle
+color_Red Tick/Orange
+color_Red Tick/Red
+color_Red Tick/Tan
+color_Red Tick/White
+color_Red/Black
+color_Red/Brown
+color_Red/Buff
+color_Red/Cream
+color_Red/Gold
+color_Red/Gray
+color_Red/Orange Tabby
+color_Red/Red
+color_Red/Red Merle
+color_Red/Tan
+color_Red/Tricolor
+color_Red/White
+color_Red/Yellow
+color_Sable
+color_Sable/Black
+color_Sable/Brown
+color_Sable/Buff
+color_Sable/Cream
+color_Sable/Red
+color_Sable/Tan
+color_Sable/White
+color_Seal Point
+color_Seal Point/Cream
+color_Seal Point/Silver
+color_Seal Point/White
+color_Silver
+color_Silver Lynx Point
+color_Silver Lynx Point/Gray
+color_Silver Lynx Point/White
+color_Silver Tabby
+color_Silver Tabby/Black
+color_Silver Tabby/White
+color_Silver/Black
+color_Silver/Brown
+color_Silver/Cream
+color_Silver/Red
+color_Silver/Silver Tabby
+color_Silver/Tan
+color_Silver/White
+color_Tan
+color_Tan/Black
+color_Tan/Blue
+color_Tan/Blue Tick
+color_Tan/Brown
+color_Tan/Buff
+color_Tan/Cream
+color_Tan/Fawn
+color_Tan/Gray
+color_Tan/Red
+color_Tan/Red Merle
+color_Tan/Red Tick
+color_Tan/Silver
+color_Tan/Tan
+color_Tan/Tricolor
+color_Tan/White
+color_Tan/Yellow Brindle
+color_Torbie
+color_Torbie/Black
+color_Torbie/Blue
+color_Torbie/Blue Cream
+color_Torbie/Blue Tabby
+color_Torbie/Brown
+color_Torbie/Brown Tabby
+color_Torbie/Gray
+color_Torbie/Orange
+color_Torbie/Silver Tabby
+color_Torbie/White
+color_Tortie
+color_Tortie Point
+color_Tortie Point/White
+color_Tortie/Black
+color_Tortie/Black Smoke
+color_Tortie/Blue
+color_Tortie/Blue Cream
+color_Tortie/Calico
+color_Tortie/Orange
+color_Tortie/Tortie
+color_Tortie/White
+color_Tricolor
+color_Tricolor/Black
+color_Tricolor/Blue
+color_Tricolor/Blue Merle
+color_Tricolor/Blue Tick
+color_Tricolor/Brown
+color_Tricolor/Brown Brindle
+color_Tricolor/Chocolate
+color_Tricolor/Fawn
+color_Tricolor/Gray
+color_Tricolor/Red
+color_Tricolor/Tan
+color_Tricolor/White
+color_White
+color_White/Apricot
+color_White/Black
+color_White/Black Brindle
+color_White/Black Smoke
+color_White/Black Tabby
+color_White/Blue
+color_White/Blue Cream
+color_White/Blue Merle
+color_White/Blue Tabby
+color_White/Blue Tick
+color_White/Blue Tiger
+color_White/Brown
+color_White/Brown Brindle
+color_White/Brown Merle
+color_White/Brown Tabby
+color_White/Brown Tiger
+color_White/Buff
+color_White/Calico
+color_White/Calico Point
+color_White/Chocolate
+color_White/Cream
+color_White/Cream Tabby
+color_White/Fawn
+color_White/Gray
+color_White/Gray Tabby
+color_White/Gray Tiger
+color_White/Lilac Point
+color_White/Liver
+color_White/Lynx Point
+color_White/Orange
+color_White/Orange Tabby
+color_White/Pink
+color_White/Red
+color_White/Red Merle
+color_White/Red Tick
+color_White/Seal Point
+color_White/Silver
+color_White/Silver Tabby
+color_White/Tan
+color_White/Tortie
+color_White/Tortie Point
+color_White/Tricolor
+color_White/White
+color_White/Yellow
+color_Yellow
+color_Yellow Brindle
+color_Yellow Brindle/Black
+color_Yellow Brindle/Blue
+color_Yellow Brindle/White
+color_Yellow/Black
+color_Yellow/Brown
+color_Yellow/Cream
+color_Yellow/Green
+color_Yellow/Orange
+color_Yellow/Tan
+color_Yellow/White
+color_Yellow/Yellow
+intake_type_Abandoned
+intake_type_Euthanasia Request
+intake_type_Owner Surrender
+intake_type_Public Assist
+intake_type_Stray
+intake_type_Wildlife
+intake_condition_Aged
+intake_condition_Agonal
+intake_condition_Behavior
+intake_condition_Feral
+intake_condition_Injured
+intake_condition_Med Attn
+intake_condition_Med Urgent
+intake_condition_Medical
+intake_condition_Neonatal
+intake_condition_Neurologic
+intake_condition_Normal
+intake_condition_Nursing
+intake_condition_Other
+intake_condition_Pregnant
+intake_condition_Sick
+intake_condition_Unknown
+sex_upon_intake_Intact Female
+sex_upon_intake_Intact Male
+sex_upon_intake_Neutered Male
+sex_upon_intake_Spayed Female
+sex_upon_intake_Unknown

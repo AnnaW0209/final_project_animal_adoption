@@ -1,0 +1,3 @@
+dataset,total,positive,negative,nan,pos_rate,nan_rate
+df_pair (matched + unmatched),173812,70857,2020,100935,0.4076646031344211,0.5807136446275286
+df_pair_model (matched only),73557,70857,2020,680,0.9632937721766793,0.009244531451799286
